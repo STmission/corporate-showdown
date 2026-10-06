@@ -1,0 +1,1331 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376",
+  "files": [
+    "__original-animation-0.bin",
+    "__original-animation-1.bin",
+    "__original-animation-10.bin",
+    "__original-animation-11.bin",
+    "__original-animation-12.bin",
+    "__original-animation-13.bin",
+    "__original-animation-14.bin",
+    "__original-animation-15.bin",
+    "__original-animation-16.bin",
+    "__original-animation-2.bin",
+    "__original-animation-3.bin",
+    "__original-animation-4.bin",
+    "__original-animation-5.bin",
+    "__original-animation-6.bin",
+    "__original-animation-7.bin",
+    "__original-animation-8.bin",
+    "__original-animation-9.bin"
+  ],
+  "subMetas": {
+    "50743": {
+      "importer": "texture",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@50743",
+      "displayName": "",
+      "id": "50743",
+      "name": "UnnamedTexture-5.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/d4345efe9332c23e9302f5a3bca8c895004be841b5ebea593c96189870e3852a.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7fa73": {
+      "importer": "gltf-mesh",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@7fa73",
+      "displayName": "",
+      "id": "7fa73",
+      "name": "base.003.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 15816
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "98ed4": {
+      "importer": "gltf-mesh",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@98ed4",
+      "displayName": "",
+      "id": "98ed4",
+      "name": "eyebrow001.003.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 192
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "50e9b": {
+      "importer": "gltf-mesh",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@50e9b",
+      "displayName": "",
+      "id": "50e9b",
+      "name": "eyelashes01.003.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 368
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5afaa": {
+      "importer": "gltf-mesh",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@5afaa",
+      "displayName": "",
+      "id": "5afaa",
+      "name": "high-poly.003.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 2040
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "89d9f": {
+      "importer": "gltf-mesh",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@89d9f",
+      "displayName": "",
+      "id": "89d9f",
+      "name": "male_casualsuit05.mesh",
+      "userData": {
+        "gltfIndex": 4,
+        "triangleCount": 5996
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cdb5c": {
+      "importer": "gltf-mesh",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@cdb5c",
+      "displayName": "",
+      "id": "cdb5c",
+      "name": "shoes05.002.mesh",
+      "userData": {
+        "gltfIndex": 5,
+        "triangleCount": 3064
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e801e": {
+      "importer": "gltf-mesh",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@e801e",
+      "displayName": "",
+      "id": "e801e",
+      "name": "short03.mesh",
+      "userData": {
+        "gltfIndex": 6,
+        "triangleCount": 1922
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "14a34": {
+      "importer": "gltf-mesh",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@14a34",
+      "displayName": "",
+      "id": "14a34",
+      "name": "teeth_base.003.mesh",
+      "userData": {
+        "gltfIndex": 7,
+        "triangleCount": 7120
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "83e46": {
+      "importer": "gltf-mesh",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@83e46",
+      "displayName": "",
+      "id": "83e46",
+      "name": "tongue01.003.mesh",
+      "userData": {
+        "gltfIndex": 8,
+        "triangleCount": 448
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0eeef": {
+      "importer": "gltf-animation",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@0eeef",
+      "displayName": "",
+      "id": "0eeef",
+      "name": "male_celebrity_Idle.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "a90b9": {
+      "importer": "gltf-animation",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@a90b9",
+      "displayName": "",
+      "id": "a90b9",
+      "name": "male_celebrity_Walk.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "e52e3": {
+      "importer": "gltf-animation",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@e52e3",
+      "displayName": "",
+      "id": "e52e3",
+      "name": "male_celebrity_Run.animation",
+      "userData": {
+        "gltfIndex": 2,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.75
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "d7dd3": {
+      "importer": "gltf-animation",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@d7dd3",
+      "displayName": "",
+      "id": "d7dd3",
+      "name": "male_celebrity_Attack.animation",
+      "userData": {
+        "gltfIndex": 3,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "45aee": {
+      "importer": "gltf-animation",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@45aee",
+      "displayName": "",
+      "id": "45aee",
+      "name": "male_celebrity_Hit.animation",
+      "userData": {
+        "gltfIndex": 4,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.375
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "867e7": {
+      "importer": "gltf-animation",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@867e7",
+      "displayName": "",
+      "id": "867e7",
+      "name": "male_celebrity_Down.animation",
+      "userData": {
+        "gltfIndex": 5,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.75
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "53c53": {
+      "importer": "gltf-animation",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@53c53",
+      "displayName": "",
+      "id": "53c53",
+      "name": "male_celebrity_Rescue.animation",
+      "userData": {
+        "gltfIndex": 6,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "f6bff": {
+      "importer": "gltf-animation",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@f6bff",
+      "displayName": "",
+      "id": "f6bff",
+      "name": "male_celebrity_Cast.animation",
+      "userData": {
+        "gltfIndex": 7,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "976bb": {
+      "importer": "gltf-animation",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@976bb",
+      "displayName": "",
+      "id": "976bb",
+      "name": "male_celebrity_PistolHold.animation",
+      "userData": {
+        "gltfIndex": 8,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "8470b": {
+      "importer": "gltf-animation",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@8470b",
+      "displayName": "",
+      "id": "8470b",
+      "name": "male_celebrity_PistolShot.animation",
+      "userData": {
+        "gltfIndex": 9,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "4017e": {
+      "importer": "gltf-animation",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@4017e",
+      "displayName": "",
+      "id": "4017e",
+      "name": "male_celebrity_PistolWalk.animation",
+      "userData": {
+        "gltfIndex": 10,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "c08c3": {
+      "importer": "gltf-animation",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@c08c3",
+      "displayName": "",
+      "id": "c08c3",
+      "name": "male_celebrity_PistolRun.animation",
+      "userData": {
+        "gltfIndex": 11,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.75
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "5cfdd": {
+      "importer": "gltf-animation",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@5cfdd",
+      "displayName": "",
+      "id": "5cfdd",
+      "name": "male_celebrity_RifleHold.animation",
+      "userData": {
+        "gltfIndex": 12,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "6cd69": {
+      "importer": "gltf-animation",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@6cd69",
+      "displayName": "",
+      "id": "6cd69",
+      "name": "male_celebrity_RifleShot.animation",
+      "userData": {
+        "gltfIndex": 13,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "e1871": {
+      "importer": "gltf-animation",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@e1871",
+      "displayName": "",
+      "id": "e1871",
+      "name": "male_celebrity_RifleWalk.animation",
+      "userData": {
+        "gltfIndex": 14,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "fb045": {
+      "importer": "gltf-animation",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@fb045",
+      "displayName": "",
+      "id": "fb045",
+      "name": "male_celebrity_RifleRun.animation",
+      "userData": {
+        "gltfIndex": 15,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.75
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "25d25": {
+      "importer": "gltf-animation",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@25d25",
+      "displayName": "",
+      "id": "25d25",
+      "name": "male_celebrity_Talk.animation",
+      "userData": {
+        "gltfIndex": 16,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "2cbc8": {
+      "importer": "gltf-skeleton",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@2cbc8",
+      "displayName": "",
+      "id": "2cbc8",
+      "name": "male_celebrity_Rig.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 53
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3effa": {
+      "importer": "texture",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@3effa",
+      "displayName": "",
+      "id": "3effa",
+      "name": "UnnamedTexture-0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/f50016a5507fc687dc8df06599c8ea48de950cd185de33a71cafc1319ddab4d5.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "221a5": {
+      "importer": "texture",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@221a5",
+      "displayName": "",
+      "id": "221a5",
+      "name": "UnnamedTexture-1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/9940f7d0b1b223709a19b05156ba6f6e9e4dbdbced02d7574f4d51d72c58967b.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0089c": {
+      "importer": "texture",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@0089c",
+      "displayName": "",
+      "id": "0089c",
+      "name": "UnnamedTexture-2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/4b69c0fff2648874460e9caf80c31413c444218a5c50afebc425aeaa65484a35.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9b633": {
+      "importer": "texture",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@9b633",
+      "displayName": "",
+      "id": "9b633",
+      "name": "UnnamedTexture-3.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/4659691c7295ad6206c78b003e5fd0e5f91dcd53032fa914a229bb48cabe424b.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9b782": {
+      "importer": "texture",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@9b782",
+      "displayName": "",
+      "id": "9b782",
+      "name": "UnnamedTexture-4.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/c5d4b399e739615f1aa008df57addb65968c1ef29561755a4a11fbbdc13107a4.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "99ea5": {
+      "importer": "texture",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@99ea5",
+      "displayName": "",
+      "id": "99ea5",
+      "name": "UnnamedTexture-6.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/7fe5ea2600f6578cdf017da3392ae13aedabea8e8cc1dd6302a8f57e8fb7e5af.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "006bd": {
+      "importer": "texture",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@006bd",
+      "displayName": "",
+      "id": "006bd",
+      "name": "UnnamedTexture-7.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/ec4abb7fac32c524b95a98c0164c43082fdfe12ccb59f4c0e1a1e4a961aa4943.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "531b0": {
+      "importer": "texture",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@531b0",
+      "displayName": "",
+      "id": "531b0",
+      "name": "UnnamedTexture-8.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/d0afb57869c6fbb56b98f5efc4aec629ee7593e70d8dd2bfb9de923acfb65f43.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9c3d2": {
+      "importer": "texture",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@9c3d2",
+      "displayName": "",
+      "id": "9c3d2",
+      "name": "UnnamedTexture-9.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/3150be398e48e8ba1feac164c3143c16c0b2e959d9ffb6155f0171f59cfb4ea9.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0c7e9": {
+      "importer": "gltf-material",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@0c7e9",
+      "displayName": "",
+      "id": "0c7e9",
+      "name": "male_celebrity_Body.body.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4f6c2": {
+      "importer": "gltf-material",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@4f6c2",
+      "displayName": "",
+      "id": "4f6c2",
+      "name": "male_celebrity_Body.eyebrow001.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d9427": {
+      "importer": "gltf-material",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@d9427",
+      "displayName": "",
+      "id": "d9427",
+      "name": "male_celebrity_Body.eyelashes01.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "926a0": {
+      "importer": "gltf-material",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@926a0",
+      "displayName": "",
+      "id": "926a0",
+      "name": "male_celebrity_Body.high-poly.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7b708": {
+      "importer": "gltf-material",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@7b708",
+      "displayName": "",
+      "id": "7b708",
+      "name": "male_celebrity_Body.male_casualsuit05.material",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d2d4f": {
+      "importer": "gltf-material",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@d2d4f",
+      "displayName": "",
+      "id": "d2d4f",
+      "name": "male_celebrity_Body.shoes05.material",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c1eef": {
+      "importer": "gltf-material",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@c1eef",
+      "displayName": "",
+      "id": "c1eef",
+      "name": "male_celebrity_Body.short03.material",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2735b": {
+      "importer": "gltf-material",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@2735b",
+      "displayName": "",
+      "id": "2735b",
+      "name": "male_celebrity_Body.teeth_base.material",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6be2c": {
+      "importer": "gltf-material",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@6be2c",
+      "displayName": "",
+      "id": "6be2c",
+      "name": "male_celebrity_Body.tongue01.material",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1d483": {
+      "importer": "gltf-scene",
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@1d483",
+      "displayName": "",
+      "id": "1d483",
+      "name": "male_celebrity.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "young_lightskinned_male_diffuse3",
+        "uri": "db://assets/resources/textures/f50016a5507fc687dc8df06599c8ea48de950cd185de33a71cafc1319ddab4d5.png"
+      },
+      {
+        "name": "eyebrow001",
+        "uri": "db://assets/resources/textures/9940f7d0b1b223709a19b05156ba6f6e9e4dbdbced02d7574f4d51d72c58967b.png"
+      },
+      {
+        "name": "eyelashes01",
+        "uri": "db://assets/resources/textures/4b69c0fff2648874460e9caf80c31413c444218a5c50afebc425aeaa65484a35.png"
+      },
+      {
+        "name": "brown_eye",
+        "uri": "db://assets/resources/textures/4659691c7295ad6206c78b003e5fd0e5f91dcd53032fa914a229bb48cabe424b.png"
+      },
+      {
+        "name": "male_casualsuit05_normal",
+        "uri": "db://assets/resources/textures/c5d4b399e739615f1aa008df57addb65968c1ef29561755a4a11fbbdc13107a4.png"
+      },
+      {
+        "name": "male_casualsuit05_diffuse",
+        "uri": "db://assets/resources/textures/d4345efe9332c23e9302f5a3bca8c895004be841b5ebea593c96189870e3852a.png"
+      },
+      {
+        "name": "shoes05_diffuse",
+        "uri": "db://assets/resources/textures/7fe5ea2600f6578cdf017da3392ae13aedabea8e8cc1dd6302a8f57e8fb7e5af.png"
+      },
+      {
+        "name": "short03_diffuse",
+        "uri": "db://assets/resources/textures/ec4abb7fac32c524b95a98c0164c43082fdfe12ccb59f4c0e1a1e4a961aa4943.png"
+      },
+      {
+        "name": "teeth",
+        "uri": "db://assets/resources/textures/d0afb57869c6fbb56b98f5efc4aec629ee7593e70d8dd2bfb9de923acfb65f43.png"
+      },
+      {
+        "name": "tongue01_diffuse",
+        "uri": "db://assets/resources/textures/3150be398e48e8ba1feac164c3143c16c0b2e959d9ffb6155f0171f59cfb4ea9.png"
+      }
+    ],
+    "animationImportSettings": [
+      {
+        "name": "male_celebrity_Idle",
+        "duration": 4,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_celebrity_Idle",
+            "from": 0,
+            "to": 4,
+            "wrapMode": 2,
+            "previousId": "0eeef"
+          }
+        ]
+      },
+      {
+        "name": "male_celebrity_Walk",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_celebrity_Walk",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2,
+            "previousId": "a90b9"
+          }
+        ]
+      },
+      {
+        "name": "male_celebrity_Run",
+        "duration": 0.75,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_celebrity_Run",
+            "from": 0,
+            "to": 0.75,
+            "wrapMode": 2,
+            "previousId": "e52e3"
+          }
+        ]
+      },
+      {
+        "name": "male_celebrity_Attack",
+        "duration": 0.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_celebrity_Attack",
+            "from": 0,
+            "to": 0.5,
+            "wrapMode": 2,
+            "previousId": "d7dd3"
+          }
+        ]
+      },
+      {
+        "name": "male_celebrity_Hit",
+        "duration": 0.375,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_celebrity_Hit",
+            "from": 0,
+            "to": 0.375,
+            "wrapMode": 2,
+            "previousId": "45aee"
+          }
+        ]
+      },
+      {
+        "name": "male_celebrity_Down",
+        "duration": 0.75,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_celebrity_Down",
+            "from": 0,
+            "to": 0.75,
+            "wrapMode": 2,
+            "previousId": "867e7"
+          }
+        ]
+      },
+      {
+        "name": "male_celebrity_Rescue",
+        "duration": 2,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_celebrity_Rescue",
+            "from": 0,
+            "to": 2,
+            "wrapMode": 2,
+            "previousId": "53c53"
+          }
+        ]
+      },
+      {
+        "name": "male_celebrity_Cast",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_celebrity_Cast",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2,
+            "previousId": "f6bff"
+          }
+        ]
+      },
+      {
+        "name": "male_celebrity_PistolHold",
+        "duration": 2,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_celebrity_PistolHold",
+            "from": 0,
+            "to": 2,
+            "wrapMode": 2,
+            "previousId": "976bb"
+          }
+        ]
+      },
+      {
+        "name": "male_celebrity_PistolShot",
+        "duration": 0.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_celebrity_PistolShot",
+            "from": 0,
+            "to": 0.5,
+            "wrapMode": 2,
+            "previousId": "8470b"
+          }
+        ]
+      },
+      {
+        "name": "male_celebrity_PistolWalk",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_celebrity_PistolWalk",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2,
+            "previousId": "4017e"
+          }
+        ]
+      },
+      {
+        "name": "male_celebrity_PistolRun",
+        "duration": 0.75,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_celebrity_PistolRun",
+            "from": 0,
+            "to": 0.75,
+            "wrapMode": 2,
+            "previousId": "c08c3"
+          }
+        ]
+      },
+      {
+        "name": "male_celebrity_RifleHold",
+        "duration": 2,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_celebrity_RifleHold",
+            "from": 0,
+            "to": 2,
+            "wrapMode": 2,
+            "previousId": "5cfdd"
+          }
+        ]
+      },
+      {
+        "name": "male_celebrity_RifleShot",
+        "duration": 0.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_celebrity_RifleShot",
+            "from": 0,
+            "to": 0.5,
+            "wrapMode": 2,
+            "previousId": "6cd69"
+          }
+        ]
+      },
+      {
+        "name": "male_celebrity_RifleWalk",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_celebrity_RifleWalk",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2,
+            "previousId": "e1871"
+          }
+        ]
+      },
+      {
+        "name": "male_celebrity_RifleRun",
+        "duration": 0.75,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_celebrity_RifleRun",
+            "from": 0,
+            "to": 0.75,
+            "wrapMode": 2,
+            "previousId": "fb045"
+          }
+        ]
+      },
+      {
+        "name": "male_celebrity_Talk",
+        "duration": 4,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_celebrity_Talk",
+            "from": 0,
+            "to": 4,
+            "wrapMode": 2,
+            "previousId": "25d25"
+          }
+        ]
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "123909aa-7a04-4d48-a57e-c0a14c670376@7fa73",
+        "123909aa-7a04-4d48-a57e-c0a14c670376@98ed4",
+        "123909aa-7a04-4d48-a57e-c0a14c670376@50e9b",
+        "123909aa-7a04-4d48-a57e-c0a14c670376@5afaa",
+        "123909aa-7a04-4d48-a57e-c0a14c670376@89d9f",
+        "123909aa-7a04-4d48-a57e-c0a14c670376@cdb5c",
+        "123909aa-7a04-4d48-a57e-c0a14c670376@e801e",
+        "123909aa-7a04-4d48-a57e-c0a14c670376@14a34",
+        "123909aa-7a04-4d48-a57e-c0a14c670376@83e46"
+      ],
+      "skeletons": [
+        "123909aa-7a04-4d48-a57e-c0a14c670376@2cbc8"
+      ],
+      "textures": [
+        "123909aa-7a04-4d48-a57e-c0a14c670376@3effa",
+        "123909aa-7a04-4d48-a57e-c0a14c670376@221a5",
+        "123909aa-7a04-4d48-a57e-c0a14c670376@0089c",
+        "123909aa-7a04-4d48-a57e-c0a14c670376@9b633",
+        "123909aa-7a04-4d48-a57e-c0a14c670376@9b782",
+        "123909aa-7a04-4d48-a57e-c0a14c670376@50743",
+        "123909aa-7a04-4d48-a57e-c0a14c670376@99ea5",
+        "123909aa-7a04-4d48-a57e-c0a14c670376@006bd",
+        "123909aa-7a04-4d48-a57e-c0a14c670376@531b0",
+        "123909aa-7a04-4d48-a57e-c0a14c670376@9c3d2"
+      ],
+      "materials": [
+        "123909aa-7a04-4d48-a57e-c0a14c670376@0c7e9",
+        "123909aa-7a04-4d48-a57e-c0a14c670376@4f6c2",
+        "123909aa-7a04-4d48-a57e-c0a14c670376@d9427",
+        "123909aa-7a04-4d48-a57e-c0a14c670376@926a0",
+        "123909aa-7a04-4d48-a57e-c0a14c670376@7b708",
+        "123909aa-7a04-4d48-a57e-c0a14c670376@d2d4f",
+        "123909aa-7a04-4d48-a57e-c0a14c670376@c1eef",
+        "123909aa-7a04-4d48-a57e-c0a14c670376@2735b",
+        "123909aa-7a04-4d48-a57e-c0a14c670376@6be2c"
+      ],
+      "scenes": [
+        "123909aa-7a04-4d48-a57e-c0a14c670376@1d483"
+      ]
+    }
+  }
+}

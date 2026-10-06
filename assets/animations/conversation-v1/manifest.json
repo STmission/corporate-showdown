@@ -1,0 +1,23 @@
+{
+  "version": "conversation-v0.1",
+  "source": "assets/characters/professions-v1/female_doctor.blend",
+  "sourceSHA256": "4676188959f7a1876fdd86ee6065cf7a3ea0d7d2fa30a89fcb944d379adef269",
+  "blend": "assets/animations/conversation-v1/workplace-conversation.blend",
+  "blendSHA256": "07092c1e94083f6a7244e930074cc0a43064a3a667852c1ad453bb313a18e78b",
+  "glb": "assets/animations/conversation-v1/workplace-conversation.glb",
+  "glbSHA256": "f5381bb08c104c43f0b416aca0bb63a20fe5a6216a236984bc3698dfbf8f7f68",
+  "scriptSHA256": "00a6d4148ec2db6fc9120a71e50056119fca1ef34822a4750137ce3bf164ecc5",
+  "bones": 53,
+  "clips": [
+    "Conversation_Explain",
+    "Conversation_Listen",
+    "Conversation_Comfort"
+  ],
+  "durationSeconds": 4,
+  "status": "Blender source reload and actual animation GLB import validated; Three retarget across nine existing rigs and Web NPC/studio behavior verified",
+  "limitations": [
+    "Authored gestures, not motion capture",
+    "No lip sync or facial expression",
+    "Original character proportions and meshes retained"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "male_programmer",
+  "source": "assets/characters/library-v1/male_programmer.blend",
+  "sourceSHA256": "4e2b947276f7dc0d3a2ee1538cfb8b0c5e74127c9b1193dcccfd83ae57c3330d",
+  "scriptSHA256": "99228fd3be6ec542b9a60402660c4a8b730c24061f7a8c757e3e87c6540e5165",
+  "blend": "assets/characters/pilot-v2/male_programmer.blend",
+  "blendSHA256": "71455ca28196b530cf5624c08975b269848bee6f5fd732b9320d4738fd9cda45",
+  "glb": "assets/characters/pilot-v2/male_programmer.glb",
+  "glbSHA256": "ed3ed53e68bd2254097c5d5c0955aed506ac0318a910bc6b59912c87d1646fae",
+  "bones": 53,
+  "meshes": 9,
+  "clips": [
+    "male_programmer_Idle",
+    "male_programmer_Walk",
+    "male_programmer_Run",
+    "male_programmer_Attack",
+    "male_programmer_Hit",
+    "male_programmer_Down",
+    "male_programmer_Rescue",
+    "male_programmer_Cast",
+    "male_programmer_Talk"
+  ],
+  "changes": [
+    "Skin: reduced uniform waxy highlight",
+    "Eye: retain transparent corneal layer; restrained wet surface",
+    "Clothing: matte cloth response; source UV and normal map retained",
+    "Original finer plaid texture with textile variation",
+    "Hair: source strand variation restored; matte dark-brown palette"
+  ],
+  "status": "Blender source reload and GLB reimport/render verified; runtime promotion pending",
+  "limitations": [
+    "Same v0.9 facial mesh and garment geometry",
+    "No lip sync or facial expression",
+    "Authored gesture, not motion capture",
+    "Pilot has not replaced runtime assets"
+  ]
+}

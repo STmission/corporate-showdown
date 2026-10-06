@@ -1,0 +1,19 @@
+{
+  "name": "Corporate Showdown Platform Probe",
+  "platform": "ios",
+  "startScene": "d7560c5f-b36f-4e4f-a0a9-6d6b525925e0",
+  "scenes": [
+    {
+      "url": "db://assets/scenes/Headquarters.scene",
+      "uuid": "d7560c5f-b36f-4e4f-a0a9-6d6b525925e0"
+    }
+  ],
+  "debug": true,
+  "outputName": "ios",
+  "buildPath": "project://build",
+  "packages": {
+    "ios": {
+      "packageName": "com.example.corporateshowdown.probe"
+    }
+  }
+}

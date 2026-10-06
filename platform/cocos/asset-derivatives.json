@@ -1,0 +1,969 @@
+{
+  "format": "gltf-external-v1",
+  "toolSHA256": "00af1fdd30a5295a8ea3f96111cdca9bbeebe1afd063e831550b73ed500e0d2a",
+  "syncToolSHA256": "388cd38cbd878d52b230b0ecbce5b39c80e09560d8eb11f12c72dae6dd51488f",
+  "conversationToolSHA256": "68d6b0818b61c1416d174534f81d2d77f8425136361b68236cb5afd56d918b48",
+  "sources": [
+    {
+      "source": "assets/models/coastal-headquarters-gameplay.glb",
+      "destination": "assets/resources/headquarters.gltf",
+      "sha256": "f77676f97ce5bdb035b7a61041ce3c9f89474ee54f2f9a8c75599e8b9c4a2ad5",
+      "outputSHA256": "1ba9e1b435bdcb354120a3e686353f4342e95a3cd85e9747220ca268fbd5ae52",
+      "format": "gltf-external-v1",
+      "outputs": [
+        {
+          "destination": "assets/source-buffers/headquarters.bin",
+          "sha256": "c3adeeaa4da9513c087acdb92c66b126c65cf9236c83b8e82a3ea14019a4ed81"
+        },
+        {
+          "destination": "assets/resources/textures/73f992d3c716b097b65eb279b6fd9aa528189f789ebc61332a0f3f053ef97a19.png",
+          "sha256": "73f992d3c716b097b65eb279b6fd9aa528189f789ebc61332a0f3f053ef97a19"
+        },
+        {
+          "destination": "assets/resources/textures/6aefb148f8844f82ea9c0d133a67c409a79c7350a0e5b8f10c990937bf908bd4.png",
+          "sha256": "6aefb148f8844f82ea9c0d133a67c409a79c7350a0e5b8f10c990937bf908bd4"
+        },
+        {
+          "destination": "assets/resources/textures/1a1d0f37ece4b274b38cc2006fea2830300d3af4e1b2ca0b8e01ef18a302deed.png",
+          "sha256": "1a1d0f37ece4b274b38cc2006fea2830300d3af4e1b2ca0b8e01ef18a302deed"
+        },
+        {
+          "destination": "assets/resources/textures/a5026d3c41a692fa3ebb4580119f5452fdf4ff07675641c9507c04e3d5e1653d.png",
+          "sha256": "a5026d3c41a692fa3ebb4580119f5452fdf4ff07675641c9507c04e3d5e1653d"
+        },
+        {
+          "destination": "assets/resources/textures/646f7eedc4cab866db30c54e78d52808b3f709e914c1837bf537da6ef3609f14.png",
+          "sha256": "646f7eedc4cab866db30c54e78d52808b3f709e914c1837bf537da6ef3609f14"
+        },
+        {
+          "destination": "assets/resources/textures/8840ae70991f9ad9c495b04a28923a04875ad61aaccde3934774fb5482b17639.png",
+          "sha256": "8840ae70991f9ad9c495b04a28923a04875ad61aaccde3934774fb5482b17639"
+        },
+        {
+          "destination": "assets/resources/textures/769e6bb34cb45e6600c6f9809bb0757f204f0d39449d3348e2134c45842235bb.png",
+          "sha256": "769e6bb34cb45e6600c6f9809bb0757f204f0d39449d3348e2134c45842235bb"
+        },
+        {
+          "destination": "assets/resources/textures/85e0be3fc7f640998abaa8f06c354aa7b11be02df0d45e4e7a97ac0a6c0be09b.png",
+          "sha256": "85e0be3fc7f640998abaa8f06c354aa7b11be02df0d45e4e7a97ac0a6c0be09b"
+        },
+        {
+          "destination": "assets/resources/textures/59416cdec733a414e993213a0ded8a0894326b0b4df999c91369d51ef60901c7.png",
+          "sha256": "59416cdec733a414e993213a0ded8a0894326b0b4df999c91369d51ef60901c7"
+        },
+        {
+          "destination": "assets/resources/textures/87d90953796dae10cba3d70d5bf3c7aa0559c861ba1e80b7c04f531fa11dfdcf.png",
+          "sha256": "87d90953796dae10cba3d70d5bf3c7aa0559c861ba1e80b7c04f531fa11dfdcf"
+        },
+        {
+          "destination": "assets/resources/textures/a916b4ab10d697354b559cddfa8991f7e88a18ce14cfec38e4dfa436fa3c4f7b.png",
+          "sha256": "a916b4ab10d697354b559cddfa8991f7e88a18ce14cfec38e4dfa436fa3c4f7b"
+        },
+        {
+          "destination": "assets/resources/textures/099bbeb8908b50f360a582e1ddcf2413617a764925ed4f13d0959933432f1434.png",
+          "sha256": "099bbeb8908b50f360a582e1ddcf2413617a764925ed4f13d0959933432f1434"
+        },
+        {
+          "destination": "assets/resources/textures/dfc1f6bc683fe0981fcb3ccb60f6f9e69923b7d30667dba19a67cc766ec782b9.png",
+          "sha256": "dfc1f6bc683fe0981fcb3ccb60f6f9e69923b7d30667dba19a67cc766ec782b9"
+        },
+        {
+          "destination": "assets/resources/textures/09bbd2e0db463f8ce8cac71973a76679bfa7d4bd22479c7e62d04eb4d0413c57.png",
+          "sha256": "09bbd2e0db463f8ce8cac71973a76679bfa7d4bd22479c7e62d04eb4d0413c57"
+        },
+        {
+          "destination": "assets/resources/textures/0b891c8eb5c5f404115bff4264a2e49c06463dbb93711d8aa9277045293b9fdc.png",
+          "sha256": "0b891c8eb5c5f404115bff4264a2e49c06463dbb93711d8aa9277045293b9fdc"
+        },
+        {
+          "destination": "assets/resources/textures/0e7a9d298463749d49f2ab28576b30ca7e280bf461aa5fc96a4305b8f40df6ba.png",
+          "sha256": "0e7a9d298463749d49f2ab28576b30ca7e280bf461aa5fc96a4305b8f40df6ba"
+        },
+        {
+          "destination": "assets/resources/textures/c15e51a3f531f5c6d4f3e19002c7d23034b31cd0b78f1dbff1898c89edfed6d8.png",
+          "sha256": "c15e51a3f531f5c6d4f3e19002c7d23034b31cd0b78f1dbff1898c89edfed6d8"
+        },
+        {
+          "destination": "assets/resources/textures/0e7a9d298463749d49f2ab28576b30ca7e280bf461aa5fc96a4305b8f40df6ba.png",
+          "sha256": "0e7a9d298463749d49f2ab28576b30ca7e280bf461aa5fc96a4305b8f40df6ba"
+        },
+        {
+          "destination": "assets/resources/textures/7c2b89c52a88922590ff25c499bf6accbbe943a0f3f6bfae1cfb58e372898ca1.png",
+          "sha256": "7c2b89c52a88922590ff25c499bf6accbbe943a0f3f6bfae1cfb58e372898ca1"
+        },
+        {
+          "destination": "assets/resources/textures/7c2b89c52a88922590ff25c499bf6accbbe943a0f3f6bfae1cfb58e372898ca1.png",
+          "sha256": "7c2b89c52a88922590ff25c499bf6accbbe943a0f3f6bfae1cfb58e372898ca1"
+        },
+        {
+          "destination": "assets/resources/textures/473a563610ad2a4460ff18a0833c84b04c68f6a9ddf9132fc7d0e7269ecbedd3.png",
+          "sha256": "473a563610ad2a4460ff18a0833c84b04c68f6a9ddf9132fc7d0e7269ecbedd3"
+        },
+        {
+          "destination": "assets/resources/textures/473a563610ad2a4460ff18a0833c84b04c68f6a9ddf9132fc7d0e7269ecbedd3.png",
+          "sha256": "473a563610ad2a4460ff18a0833c84b04c68f6a9ddf9132fc7d0e7269ecbedd3"
+        },
+        {
+          "destination": "assets/resources/textures/473a563610ad2a4460ff18a0833c84b04c68f6a9ddf9132fc7d0e7269ecbedd3.png",
+          "sha256": "473a563610ad2a4460ff18a0833c84b04c68f6a9ddf9132fc7d0e7269ecbedd3"
+        },
+        {
+          "destination": "assets/resources/textures/473a563610ad2a4460ff18a0833c84b04c68f6a9ddf9132fc7d0e7269ecbedd3.png",
+          "sha256": "473a563610ad2a4460ff18a0833c84b04c68f6a9ddf9132fc7d0e7269ecbedd3"
+        },
+        {
+          "destination": "assets/resources/textures/473a563610ad2a4460ff18a0833c84b04c68f6a9ddf9132fc7d0e7269ecbedd3.png",
+          "sha256": "473a563610ad2a4460ff18a0833c84b04c68f6a9ddf9132fc7d0e7269ecbedd3"
+        },
+        {
+          "destination": "assets/resources/textures/473a563610ad2a4460ff18a0833c84b04c68f6a9ddf9132fc7d0e7269ecbedd3.png",
+          "sha256": "473a563610ad2a4460ff18a0833c84b04c68f6a9ddf9132fc7d0e7269ecbedd3"
+        }
+      ],
+      "retainedViews": 1185,
+      "dependencies": []
+    },
+    {
+      "source": "assets/characters/weapon-ready-v1/male_programmer.glb",
+      "destination": "assets/resources/programmer.gltf",
+      "sha256": "6e8e585538085d1521c41972c0961e9352039c6877e28b87952e9c7268480137",
+      "outputSHA256": "d1f23c72589056d0447353369c3732d99403899d28d5fa5d12f7c99ee5cfd999",
+      "format": "gltf-external-v1",
+      "outputs": [
+        {
+          "destination": "assets/source-buffers/programmer.bin",
+          "sha256": "326732217e508cf663f999926b54d79307adabaabc9df3fd643428d4d7dac0c3"
+        },
+        {
+          "destination": "assets/resources/textures/f50016a5507fc687dc8df06599c8ea48de950cd185de33a71cafc1319ddab4d5.png",
+          "sha256": "f50016a5507fc687dc8df06599c8ea48de950cd185de33a71cafc1319ddab4d5"
+        },
+        {
+          "destination": "assets/resources/textures/9940f7d0b1b223709a19b05156ba6f6e9e4dbdbced02d7574f4d51d72c58967b.png",
+          "sha256": "9940f7d0b1b223709a19b05156ba6f6e9e4dbdbced02d7574f4d51d72c58967b"
+        },
+        {
+          "destination": "assets/resources/textures/4b69c0fff2648874460e9caf80c31413c444218a5c50afebc425aeaa65484a35.png",
+          "sha256": "4b69c0fff2648874460e9caf80c31413c444218a5c50afebc425aeaa65484a35"
+        },
+        {
+          "destination": "assets/resources/textures/4659691c7295ad6206c78b003e5fd0e5f91dcd53032fa914a229bb48cabe424b.png",
+          "sha256": "4659691c7295ad6206c78b003e5fd0e5f91dcd53032fa914a229bb48cabe424b"
+        },
+        {
+          "destination": "assets/resources/textures/bf47739ee7c7deeeb2d67cddea2950da3ae232e43321856eacb336a19435033a.png",
+          "sha256": "bf47739ee7c7deeeb2d67cddea2950da3ae232e43321856eacb336a19435033a"
+        },
+        {
+          "destination": "assets/resources/textures/d9079ed2e52d23e1ccce53ddc3d4397e48883729f9324c97c2737f4f79af5153.png",
+          "sha256": "d9079ed2e52d23e1ccce53ddc3d4397e48883729f9324c97c2737f4f79af5153"
+        },
+        {
+          "destination": "assets/resources/textures/9b9b4d6396e23f725891675fba3bde20b8729c20f30d93af19b016c9bfd09478.png",
+          "sha256": "9b9b4d6396e23f725891675fba3bde20b8729c20f30d93af19b016c9bfd09478"
+        },
+        {
+          "destination": "assets/resources/textures/7fe5ea2600f6578cdf017da3392ae13aedabea8e8cc1dd6302a8f57e8fb7e5af.png",
+          "sha256": "7fe5ea2600f6578cdf017da3392ae13aedabea8e8cc1dd6302a8f57e8fb7e5af"
+        },
+        {
+          "destination": "assets/resources/textures/9a487f5b62a88fe5ebe5701e4b61c9a29caf0649cbf0cb69ba206a13d66d1bcd.png",
+          "sha256": "9a487f5b62a88fe5ebe5701e4b61c9a29caf0649cbf0cb69ba206a13d66d1bcd"
+        },
+        {
+          "destination": "assets/resources/textures/d0afb57869c6fbb56b98f5efc4aec629ee7593e70d8dd2bfb9de923acfb65f43.png",
+          "sha256": "d0afb57869c6fbb56b98f5efc4aec629ee7593e70d8dd2bfb9de923acfb65f43"
+        },
+        {
+          "destination": "assets/resources/textures/3150be398e48e8ba1feac164c3143c16c0b2e959d9ffb6155f0171f59cfb4ea9.png",
+          "sha256": "3150be398e48e8ba1feac164c3143c16c0b2e959d9ffb6155f0171f59cfb4ea9"
+        }
+      ],
+      "retainedViews": 1498,
+      "dependencies": [
+        {
+          "source": "assets/animations/conversation-v1/workplace-conversation.glb",
+          "sha256": "f5381bb08c104c43f0b416aca0bb63a20fe5a6216a236984bc3698dfbf8f7f68",
+          "style": "Listen",
+          "clip": "male_programmer_Talk"
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/weapon-ready-v1/male_ecommerce.glb",
+      "destination": "assets/resources/male_ecommerce.gltf",
+      "sha256": "b28db2dac173d9e5058dc28fcdc0fc487dace2547b9c854f51779b4556a3678c",
+      "outputSHA256": "21cd697ae35f96b28395326705af3db343f77e21bb25b4f3cb9581a3ce7d1fe1",
+      "format": "gltf-external-v1",
+      "outputs": [
+        {
+          "destination": "assets/source-buffers/male_ecommerce.bin",
+          "sha256": "277cb784e194162feafb22afd8136aab5b208021f49f21f637780846c81e5a3b"
+        },
+        {
+          "destination": "assets/resources/textures/f50016a5507fc687dc8df06599c8ea48de950cd185de33a71cafc1319ddab4d5.png",
+          "sha256": "f50016a5507fc687dc8df06599c8ea48de950cd185de33a71cafc1319ddab4d5"
+        },
+        {
+          "destination": "assets/resources/textures/9940f7d0b1b223709a19b05156ba6f6e9e4dbdbced02d7574f4d51d72c58967b.png",
+          "sha256": "9940f7d0b1b223709a19b05156ba6f6e9e4dbdbced02d7574f4d51d72c58967b"
+        },
+        {
+          "destination": "assets/resources/textures/4b69c0fff2648874460e9caf80c31413c444218a5c50afebc425aeaa65484a35.png",
+          "sha256": "4b69c0fff2648874460e9caf80c31413c444218a5c50afebc425aeaa65484a35"
+        },
+        {
+          "destination": "assets/resources/textures/4659691c7295ad6206c78b003e5fd0e5f91dcd53032fa914a229bb48cabe424b.png",
+          "sha256": "4659691c7295ad6206c78b003e5fd0e5f91dcd53032fa914a229bb48cabe424b"
+        },
+        {
+          "destination": "assets/resources/textures/ff029fc5a3350ebc72813cdf050afcffd23064c7701d99e664572713cfa98a5f.png",
+          "sha256": "ff029fc5a3350ebc72813cdf050afcffd23064c7701d99e664572713cfa98a5f"
+        },
+        {
+          "destination": "assets/resources/textures/3fd0bba5dcbdea0ac427f644a6c7c298938f7369b8f96626621ce1e88989394e.png",
+          "sha256": "3fd0bba5dcbdea0ac427f644a6c7c298938f7369b8f96626621ce1e88989394e"
+        },
+        {
+          "destination": "assets/resources/textures/7fe5ea2600f6578cdf017da3392ae13aedabea8e8cc1dd6302a8f57e8fb7e5af.png",
+          "sha256": "7fe5ea2600f6578cdf017da3392ae13aedabea8e8cc1dd6302a8f57e8fb7e5af"
+        },
+        {
+          "destination": "assets/resources/textures/ce6d98265154597928d85b010a793ab5a4c02334bd3e7ba15bcfc75715bf82b1.png",
+          "sha256": "ce6d98265154597928d85b010a793ab5a4c02334bd3e7ba15bcfc75715bf82b1"
+        },
+        {
+          "destination": "assets/resources/textures/d0afb57869c6fbb56b98f5efc4aec629ee7593e70d8dd2bfb9de923acfb65f43.png",
+          "sha256": "d0afb57869c6fbb56b98f5efc4aec629ee7593e70d8dd2bfb9de923acfb65f43"
+        },
+        {
+          "destination": "assets/resources/textures/3150be398e48e8ba1feac164c3143c16c0b2e959d9ffb6155f0171f59cfb4ea9.png",
+          "sha256": "3150be398e48e8ba1feac164c3143c16c0b2e959d9ffb6155f0171f59cfb4ea9"
+        }
+      ],
+      "retainedViews": 1508,
+      "dependencies": [
+        {
+          "source": "assets/animations/conversation-v1/workplace-conversation.glb",
+          "sha256": "f5381bb08c104c43f0b416aca0bb63a20fe5a6216a236984bc3698dfbf8f7f68",
+          "style": "Listen",
+          "clip": "male_ecommerce_Talk"
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/weapon-ready-v1/male_sales.glb",
+      "destination": "assets/resources/male_sales.gltf",
+      "sha256": "a674c7e5140884888745d8e95c342c7c7a4a5940b0c8eea001a5e31d311e3087",
+      "outputSHA256": "07041ac303cd0da97ad924775118e44436917f677c88e86e75bd9ec1fa86c1dd",
+      "format": "gltf-external-v1",
+      "outputs": [
+        {
+          "destination": "assets/source-buffers/male_sales.bin",
+          "sha256": "14f4e7d0a5e32ed2d84642d71f2248f287b576fd017efdfda4803e1ad87aa7ec"
+        },
+        {
+          "destination": "assets/resources/textures/f50016a5507fc687dc8df06599c8ea48de950cd185de33a71cafc1319ddab4d5.png",
+          "sha256": "f50016a5507fc687dc8df06599c8ea48de950cd185de33a71cafc1319ddab4d5"
+        },
+        {
+          "destination": "assets/resources/textures/9940f7d0b1b223709a19b05156ba6f6e9e4dbdbced02d7574f4d51d72c58967b.png",
+          "sha256": "9940f7d0b1b223709a19b05156ba6f6e9e4dbdbced02d7574f4d51d72c58967b"
+        },
+        {
+          "destination": "assets/resources/textures/4b69c0fff2648874460e9caf80c31413c444218a5c50afebc425aeaa65484a35.png",
+          "sha256": "4b69c0fff2648874460e9caf80c31413c444218a5c50afebc425aeaa65484a35"
+        },
+        {
+          "destination": "assets/resources/textures/4659691c7295ad6206c78b003e5fd0e5f91dcd53032fa914a229bb48cabe424b.png",
+          "sha256": "4659691c7295ad6206c78b003e5fd0e5f91dcd53032fa914a229bb48cabe424b"
+        },
+        {
+          "destination": "assets/resources/textures/a9bfd7223e98b8f93100e89596135e3a94e6044f9db11b4d23cec625c37a4599.png",
+          "sha256": "a9bfd7223e98b8f93100e89596135e3a94e6044f9db11b4d23cec625c37a4599"
+        },
+        {
+          "destination": "assets/resources/textures/dc3d3c294ba5bf4a47a7840172154ce7ab587ff0737ace0712c4cc310089c232.png",
+          "sha256": "dc3d3c294ba5bf4a47a7840172154ce7ab587ff0737ace0712c4cc310089c232"
+        },
+        {
+          "destination": "assets/resources/textures/b715dc38810ea87484cbebd4f0d988b56461a39858bfaddd38adad07fa6158ee.png",
+          "sha256": "b715dc38810ea87484cbebd4f0d988b56461a39858bfaddd38adad07fa6158ee"
+        },
+        {
+          "destination": "assets/resources/textures/d0afb57869c6fbb56b98f5efc4aec629ee7593e70d8dd2bfb9de923acfb65f43.png",
+          "sha256": "d0afb57869c6fbb56b98f5efc4aec629ee7593e70d8dd2bfb9de923acfb65f43"
+        },
+        {
+          "destination": "assets/resources/textures/27d98ecf5500f89d1bf363510def211e9e8c74f4ecc44daad7a7916e32dfc250.png",
+          "sha256": "27d98ecf5500f89d1bf363510def211e9e8c74f4ecc44daad7a7916e32dfc250"
+        },
+        {
+          "destination": "assets/resources/textures/3150be398e48e8ba1feac164c3143c16c0b2e959d9ffb6155f0171f59cfb4ea9.png",
+          "sha256": "3150be398e48e8ba1feac164c3143c16c0b2e959d9ffb6155f0171f59cfb4ea9"
+        }
+      ],
+      "retainedViews": 1513,
+      "dependencies": [
+        {
+          "source": "assets/animations/conversation-v1/workplace-conversation.glb",
+          "sha256": "f5381bb08c104c43f0b416aca0bb63a20fe5a6216a236984bc3698dfbf8f7f68",
+          "style": "Explain",
+          "clip": "male_sales_Talk"
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/weapon-ready-v1/male_celebrity.glb",
+      "destination": "assets/resources/male_celebrity.gltf",
+      "sha256": "0d48ee57a6b058cafa7357e8e02a871dc6665bb2e497b5810c8648c3e011ce19",
+      "outputSHA256": "2894b4d449ff99f7c61fdeda6a105f1dbedb9b90313f8669fb342b5bc065152a",
+      "format": "gltf-external-v1",
+      "outputs": [
+        {
+          "destination": "assets/source-buffers/male_celebrity.bin",
+          "sha256": "1f376fe2cea4cb914d9124e45bb1c3aa5a0423cb836fca0317c3ae0ca7faa05f"
+        },
+        {
+          "destination": "assets/resources/textures/f50016a5507fc687dc8df06599c8ea48de950cd185de33a71cafc1319ddab4d5.png",
+          "sha256": "f50016a5507fc687dc8df06599c8ea48de950cd185de33a71cafc1319ddab4d5"
+        },
+        {
+          "destination": "assets/resources/textures/9940f7d0b1b223709a19b05156ba6f6e9e4dbdbced02d7574f4d51d72c58967b.png",
+          "sha256": "9940f7d0b1b223709a19b05156ba6f6e9e4dbdbced02d7574f4d51d72c58967b"
+        },
+        {
+          "destination": "assets/resources/textures/4b69c0fff2648874460e9caf80c31413c444218a5c50afebc425aeaa65484a35.png",
+          "sha256": "4b69c0fff2648874460e9caf80c31413c444218a5c50afebc425aeaa65484a35"
+        },
+        {
+          "destination": "assets/resources/textures/4659691c7295ad6206c78b003e5fd0e5f91dcd53032fa914a229bb48cabe424b.png",
+          "sha256": "4659691c7295ad6206c78b003e5fd0e5f91dcd53032fa914a229bb48cabe424b"
+        },
+        {
+          "destination": "assets/resources/textures/c5d4b399e739615f1aa008df57addb65968c1ef29561755a4a11fbbdc13107a4.png",
+          "sha256": "c5d4b399e739615f1aa008df57addb65968c1ef29561755a4a11fbbdc13107a4"
+        },
+        {
+          "destination": "assets/resources/textures/d4345efe9332c23e9302f5a3bca8c895004be841b5ebea593c96189870e3852a.png",
+          "sha256": "d4345efe9332c23e9302f5a3bca8c895004be841b5ebea593c96189870e3852a"
+        },
+        {
+          "destination": "assets/resources/textures/7fe5ea2600f6578cdf017da3392ae13aedabea8e8cc1dd6302a8f57e8fb7e5af.png",
+          "sha256": "7fe5ea2600f6578cdf017da3392ae13aedabea8e8cc1dd6302a8f57e8fb7e5af"
+        },
+        {
+          "destination": "assets/resources/textures/ec4abb7fac32c524b95a98c0164c43082fdfe12ccb59f4c0e1a1e4a961aa4943.png",
+          "sha256": "ec4abb7fac32c524b95a98c0164c43082fdfe12ccb59f4c0e1a1e4a961aa4943"
+        },
+        {
+          "destination": "assets/resources/textures/d0afb57869c6fbb56b98f5efc4aec629ee7593e70d8dd2bfb9de923acfb65f43.png",
+          "sha256": "d0afb57869c6fbb56b98f5efc4aec629ee7593e70d8dd2bfb9de923acfb65f43"
+        },
+        {
+          "destination": "assets/resources/textures/3150be398e48e8ba1feac164c3143c16c0b2e959d9ffb6155f0171f59cfb4ea9.png",
+          "sha256": "3150be398e48e8ba1feac164c3143c16c0b2e959d9ffb6155f0171f59cfb4ea9"
+        }
+      ],
+      "retainedViews": 1511,
+      "dependencies": [
+        {
+          "source": "assets/animations/conversation-v1/workplace-conversation.glb",
+          "sha256": "f5381bb08c104c43f0b416aca0bb63a20fe5a6216a236984bc3698dfbf8f7f68",
+          "style": "Listen",
+          "clip": "male_celebrity_Talk"
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/weapon-ready-v1/female_programmer.glb",
+      "destination": "assets/resources/female_programmer.gltf",
+      "sha256": "bc91bab0805b75479c2f8f9a275cdf9dc5b8235ec44223f5d465f9ac83f6af7e",
+      "outputSHA256": "20745489a46c89f7e504e31f88809eef9d71208214fb9f72b783a6d6a8eb7905",
+      "format": "gltf-external-v1",
+      "outputs": [
+        {
+          "destination": "assets/source-buffers/female_programmer.bin",
+          "sha256": "f10fb6f49880428eed1ee6ddf09c2d721a9e92f0a0f4d95052c24dd878c355c8"
+        },
+        {
+          "destination": "assets/resources/textures/1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde.png",
+          "sha256": "1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde"
+        },
+        {
+          "destination": "assets/resources/textures/9940f7d0b1b223709a19b05156ba6f6e9e4dbdbced02d7574f4d51d72c58967b.png",
+          "sha256": "9940f7d0b1b223709a19b05156ba6f6e9e4dbdbced02d7574f4d51d72c58967b"
+        },
+        {
+          "destination": "assets/resources/textures/4b69c0fff2648874460e9caf80c31413c444218a5c50afebc425aeaa65484a35.png",
+          "sha256": "4b69c0fff2648874460e9caf80c31413c444218a5c50afebc425aeaa65484a35"
+        },
+        {
+          "destination": "assets/resources/textures/ae3650bce6678cd67d025ab70e68b22683176aeaabc06d8e5b2129af99c762e9.png",
+          "sha256": "ae3650bce6678cd67d025ab70e68b22683176aeaabc06d8e5b2129af99c762e9"
+        },
+        {
+          "destination": "assets/resources/textures/ebe6f2afcbaadbe56d5cee6e00bab45e97ce482f0be0e34491d16ca5f98b38ac.png",
+          "sha256": "ebe6f2afcbaadbe56d5cee6e00bab45e97ce482f0be0e34491d16ca5f98b38ac"
+        },
+        {
+          "destination": "assets/resources/textures/9b9b4d6396e23f725891675fba3bde20b8729c20f30d93af19b016c9bfd09478.png",
+          "sha256": "9b9b4d6396e23f725891675fba3bde20b8729c20f30d93af19b016c9bfd09478"
+        },
+        {
+          "destination": "assets/resources/textures/4659691c7295ad6206c78b003e5fd0e5f91dcd53032fa914a229bb48cabe424b.png",
+          "sha256": "4659691c7295ad6206c78b003e5fd0e5f91dcd53032fa914a229bb48cabe424b"
+        },
+        {
+          "destination": "assets/resources/textures/627773fefb724dd01411c2e5ca7301a34eaa3e8f2f8b2c92a5261b616bd43927.png",
+          "sha256": "627773fefb724dd01411c2e5ca7301a34eaa3e8f2f8b2c92a5261b616bd43927"
+        },
+        {
+          "destination": "assets/resources/textures/7fe5ea2600f6578cdf017da3392ae13aedabea8e8cc1dd6302a8f57e8fb7e5af.png",
+          "sha256": "7fe5ea2600f6578cdf017da3392ae13aedabea8e8cc1dd6302a8f57e8fb7e5af"
+        },
+        {
+          "destination": "assets/resources/textures/d0afb57869c6fbb56b98f5efc4aec629ee7593e70d8dd2bfb9de923acfb65f43.png",
+          "sha256": "d0afb57869c6fbb56b98f5efc4aec629ee7593e70d8dd2bfb9de923acfb65f43"
+        },
+        {
+          "destination": "assets/resources/textures/3150be398e48e8ba1feac164c3143c16c0b2e959d9ffb6155f0171f59cfb4ea9.png",
+          "sha256": "3150be398e48e8ba1feac164c3143c16c0b2e959d9ffb6155f0171f59cfb4ea9"
+        }
+      ],
+      "retainedViews": 1489,
+      "dependencies": [
+        {
+          "source": "assets/animations/conversation-v1/workplace-conversation.glb",
+          "sha256": "f5381bb08c104c43f0b416aca0bb63a20fe5a6216a236984bc3698dfbf8f7f68",
+          "style": "Listen",
+          "clip": "female_programmer_Talk"
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/weapon-ready-v1/female_ecommerce.glb",
+      "destination": "assets/resources/female_ecommerce.gltf",
+      "sha256": "febcedd1369f82c080dbf416e2ddc3d28cef2b85834c76dc836aad02dcf59ed5",
+      "outputSHA256": "5e56b1c03d68a58587d2c6f2aca569bc6274379ccc6bc23329ff3f53b4c9b805",
+      "format": "gltf-external-v1",
+      "outputs": [
+        {
+          "destination": "assets/source-buffers/female_ecommerce.bin",
+          "sha256": "8ea33ca30d6daf19d4885218a94f4a017185b3ad27b7a18a54588047251d38d0"
+        },
+        {
+          "destination": "assets/resources/textures/f67c83508606574051efcca02c4c8cf902e77e8cf16573edb8a0b0382329e635.png",
+          "sha256": "f67c83508606574051efcca02c4c8cf902e77e8cf16573edb8a0b0382329e635"
+        },
+        {
+          "destination": "assets/resources/textures/1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde.png",
+          "sha256": "1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde"
+        },
+        {
+          "destination": "assets/resources/textures/9940f7d0b1b223709a19b05156ba6f6e9e4dbdbced02d7574f4d51d72c58967b.png",
+          "sha256": "9940f7d0b1b223709a19b05156ba6f6e9e4dbdbced02d7574f4d51d72c58967b"
+        },
+        {
+          "destination": "assets/resources/textures/4b69c0fff2648874460e9caf80c31413c444218a5c50afebc425aeaa65484a35.png",
+          "sha256": "4b69c0fff2648874460e9caf80c31413c444218a5c50afebc425aeaa65484a35"
+        },
+        {
+          "destination": "assets/resources/textures/4659691c7295ad6206c78b003e5fd0e5f91dcd53032fa914a229bb48cabe424b.png",
+          "sha256": "4659691c7295ad6206c78b003e5fd0e5f91dcd53032fa914a229bb48cabe424b"
+        },
+        {
+          "destination": "assets/resources/textures/7fe5ea2600f6578cdf017da3392ae13aedabea8e8cc1dd6302a8f57e8fb7e5af.png",
+          "sha256": "7fe5ea2600f6578cdf017da3392ae13aedabea8e8cc1dd6302a8f57e8fb7e5af"
+        },
+        {
+          "destination": "assets/resources/textures/d0afb57869c6fbb56b98f5efc4aec629ee7593e70d8dd2bfb9de923acfb65f43.png",
+          "sha256": "d0afb57869c6fbb56b98f5efc4aec629ee7593e70d8dd2bfb9de923acfb65f43"
+        },
+        {
+          "destination": "assets/resources/textures/2ce673245d1fb62b6aec0e785bb498268aaeef25a2576612393cc4ddc7cfc8bd.png",
+          "sha256": "2ce673245d1fb62b6aec0e785bb498268aaeef25a2576612393cc4ddc7cfc8bd"
+        },
+        {
+          "destination": "assets/resources/textures/b3f0a27b957783696a6b9bed71ba73779831515418a72d3f4680cdc972ce990a.png",
+          "sha256": "b3f0a27b957783696a6b9bed71ba73779831515418a72d3f4680cdc972ce990a"
+        },
+        {
+          "destination": "assets/resources/textures/3150be398e48e8ba1feac164c3143c16c0b2e959d9ffb6155f0171f59cfb4ea9.png",
+          "sha256": "3150be398e48e8ba1feac164c3143c16c0b2e959d9ffb6155f0171f59cfb4ea9"
+        }
+      ],
+      "retainedViews": 1500,
+      "dependencies": [
+        {
+          "source": "assets/animations/conversation-v1/workplace-conversation.glb",
+          "sha256": "f5381bb08c104c43f0b416aca0bb63a20fe5a6216a236984bc3698dfbf8f7f68",
+          "style": "Listen",
+          "clip": "female_ecommerce_Talk"
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/weapon-ready-v1/female_sales.glb",
+      "destination": "assets/resources/female_sales.gltf",
+      "sha256": "6464d40ab94365a232d56dd54beb5321130ed69d7f555fb252b7b0ee76fe8b7b",
+      "outputSHA256": "5ec616ecb73d039227d82bcb00177d2e67344aeccc17f2f7237168669521e17f",
+      "format": "gltf-external-v1",
+      "outputs": [
+        {
+          "destination": "assets/source-buffers/female_sales.bin",
+          "sha256": "63da640a6563b90fe8e38eac86582e820d80dda0df9f9c6d4b287120805b9e95"
+        },
+        {
+          "destination": "assets/resources/textures/e2ef18b3d27bfc25c64c72cfa794bdb11280656079fadfe792f06a9c0c0f6a7d.png",
+          "sha256": "e2ef18b3d27bfc25c64c72cfa794bdb11280656079fadfe792f06a9c0c0f6a7d"
+        },
+        {
+          "destination": "assets/resources/textures/1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde.png",
+          "sha256": "1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde"
+        },
+        {
+          "destination": "assets/resources/textures/9940f7d0b1b223709a19b05156ba6f6e9e4dbdbced02d7574f4d51d72c58967b.png",
+          "sha256": "9940f7d0b1b223709a19b05156ba6f6e9e4dbdbced02d7574f4d51d72c58967b"
+        },
+        {
+          "destination": "assets/resources/textures/4b69c0fff2648874460e9caf80c31413c444218a5c50afebc425aeaa65484a35.png",
+          "sha256": "4b69c0fff2648874460e9caf80c31413c444218a5c50afebc425aeaa65484a35"
+        },
+        {
+          "destination": "assets/resources/textures/4659691c7295ad6206c78b003e5fd0e5f91dcd53032fa914a229bb48cabe424b.png",
+          "sha256": "4659691c7295ad6206c78b003e5fd0e5f91dcd53032fa914a229bb48cabe424b"
+        },
+        {
+          "destination": "assets/resources/textures/a9bfd7223e98b8f93100e89596135e3a94e6044f9db11b4d23cec625c37a4599.png",
+          "sha256": "a9bfd7223e98b8f93100e89596135e3a94e6044f9db11b4d23cec625c37a4599"
+        },
+        {
+          "destination": "assets/resources/textures/dc3d3c294ba5bf4a47a7840172154ce7ab587ff0737ace0712c4cc310089c232.png",
+          "sha256": "dc3d3c294ba5bf4a47a7840172154ce7ab587ff0737ace0712c4cc310089c232"
+        },
+        {
+          "destination": "assets/resources/textures/d0afb57869c6fbb56b98f5efc4aec629ee7593e70d8dd2bfb9de923acfb65f43.png",
+          "sha256": "d0afb57869c6fbb56b98f5efc4aec629ee7593e70d8dd2bfb9de923acfb65f43"
+        },
+        {
+          "destination": "assets/resources/textures/f1d15f99341184f87d9657e0ef754150b51f4d00d503e393beb6e11cf1c60507.png",
+          "sha256": "f1d15f99341184f87d9657e0ef754150b51f4d00d503e393beb6e11cf1c60507"
+        },
+        {
+          "destination": "assets/resources/textures/3150be398e48e8ba1feac164c3143c16c0b2e959d9ffb6155f0171f59cfb4ea9.png",
+          "sha256": "3150be398e48e8ba1feac164c3143c16c0b2e959d9ffb6155f0171f59cfb4ea9"
+        }
+      ],
+      "retainedViews": 1501,
+      "dependencies": [
+        {
+          "source": "assets/animations/conversation-v1/workplace-conversation.glb",
+          "sha256": "f5381bb08c104c43f0b416aca0bb63a20fe5a6216a236984bc3698dfbf8f7f68",
+          "style": "Explain",
+          "clip": "female_sales_Talk"
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/weapon-ready-v1/female_celebrity.glb",
+      "destination": "assets/resources/female_celebrity.gltf",
+      "sha256": "c146578d3a24cffb1466a5a16a4dfe17b789a6b92a25548935bd80bd247e402b",
+      "outputSHA256": "82efd0ce178558511553da0c7608117add5f62a5f12bc9d26f8a3903253e8a96",
+      "format": "gltf-external-v1",
+      "outputs": [
+        {
+          "destination": "assets/source-buffers/female_celebrity.bin",
+          "sha256": "b4c471f6bdb75eaa49097cb7e703e7ceaf40e0eda2f438f2059b37dcfee137dc"
+        },
+        {
+          "destination": "assets/resources/textures/1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde.png",
+          "sha256": "1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde"
+        },
+        {
+          "destination": "assets/resources/textures/9940f7d0b1b223709a19b05156ba6f6e9e4dbdbced02d7574f4d51d72c58967b.png",
+          "sha256": "9940f7d0b1b223709a19b05156ba6f6e9e4dbdbced02d7574f4d51d72c58967b"
+        },
+        {
+          "destination": "assets/resources/textures/4b69c0fff2648874460e9caf80c31413c444218a5c50afebc425aeaa65484a35.png",
+          "sha256": "4b69c0fff2648874460e9caf80c31413c444218a5c50afebc425aeaa65484a35"
+        },
+        {
+          "destination": "assets/resources/textures/b5cb6408096fba00f1dec4cc593f4e6f3a7dc4cc4314c6e2e1b207a7d9453b04.png",
+          "sha256": "b5cb6408096fba00f1dec4cc593f4e6f3a7dc4cc4314c6e2e1b207a7d9453b04"
+        },
+        {
+          "destination": "assets/resources/textures/414d46afa55fba09ad0913484d57df2ba6b597dc8193595a13a12436137dc21b.png",
+          "sha256": "414d46afa55fba09ad0913484d57df2ba6b597dc8193595a13a12436137dc21b"
+        },
+        {
+          "destination": "assets/resources/textures/4659691c7295ad6206c78b003e5fd0e5f91dcd53032fa914a229bb48cabe424b.png",
+          "sha256": "4659691c7295ad6206c78b003e5fd0e5f91dcd53032fa914a229bb48cabe424b"
+        },
+        {
+          "destination": "assets/resources/textures/125ef2383bac1e4c61961760b9b8b910cc9a94374bc026e97bd0ac8601062690.png",
+          "sha256": "125ef2383bac1e4c61961760b9b8b910cc9a94374bc026e97bd0ac8601062690"
+        },
+        {
+          "destination": "assets/resources/textures/7fe5ea2600f6578cdf017da3392ae13aedabea8e8cc1dd6302a8f57e8fb7e5af.png",
+          "sha256": "7fe5ea2600f6578cdf017da3392ae13aedabea8e8cc1dd6302a8f57e8fb7e5af"
+        },
+        {
+          "destination": "assets/resources/textures/d0afb57869c6fbb56b98f5efc4aec629ee7593e70d8dd2bfb9de923acfb65f43.png",
+          "sha256": "d0afb57869c6fbb56b98f5efc4aec629ee7593e70d8dd2bfb9de923acfb65f43"
+        },
+        {
+          "destination": "assets/resources/textures/3150be398e48e8ba1feac164c3143c16c0b2e959d9ffb6155f0171f59cfb4ea9.png",
+          "sha256": "3150be398e48e8ba1feac164c3143c16c0b2e959d9ffb6155f0171f59cfb4ea9"
+        }
+      ],
+      "retainedViews": 1494,
+      "dependencies": [
+        {
+          "source": "assets/animations/conversation-v1/workplace-conversation.glb",
+          "sha256": "f5381bb08c104c43f0b416aca0bb63a20fe5a6216a236984bc3698dfbf8f7f68",
+          "style": "Listen",
+          "clip": "female_celebrity_Talk"
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/weapon-ready-v1/female_doctor.glb",
+      "destination": "assets/resources/female_doctor.gltf",
+      "sha256": "5bae11cd019e7a10f1d1de3269b5e61eb755b60620d7ed75ac85f7385fa8a862",
+      "outputSHA256": "dffc7433d62783ddc12134d8c82b07af67ae97aaa69124dbc17beeae52fe6209",
+      "format": "gltf-external-v1",
+      "outputs": [
+        {
+          "destination": "assets/source-buffers/female_doctor.bin",
+          "sha256": "4b14aee9434e3e0b292c5e7089d331d59a41028a2863203bfa8ada633d3275e6"
+        },
+        {
+          "destination": "assets/resources/textures/00964e1e0ebeca27e6b1ee79aed03f141d9ca397d25fb0e0678c945a49a4616d.png",
+          "sha256": "00964e1e0ebeca27e6b1ee79aed03f141d9ca397d25fb0e0678c945a49a4616d"
+        },
+        {
+          "destination": "assets/resources/textures/1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde.png",
+          "sha256": "1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde"
+        },
+        {
+          "destination": "assets/resources/textures/9940f7d0b1b223709a19b05156ba6f6e9e4dbdbced02d7574f4d51d72c58967b.png",
+          "sha256": "9940f7d0b1b223709a19b05156ba6f6e9e4dbdbced02d7574f4d51d72c58967b"
+        },
+        {
+          "destination": "assets/resources/textures/4b69c0fff2648874460e9caf80c31413c444218a5c50afebc425aeaa65484a35.png",
+          "sha256": "4b69c0fff2648874460e9caf80c31413c444218a5c50afebc425aeaa65484a35"
+        },
+        {
+          "destination": "assets/resources/textures/4659691c7295ad6206c78b003e5fd0e5f91dcd53032fa914a229bb48cabe424b.png",
+          "sha256": "4659691c7295ad6206c78b003e5fd0e5f91dcd53032fa914a229bb48cabe424b"
+        },
+        {
+          "destination": "assets/resources/textures/7fe5ea2600f6578cdf017da3392ae13aedabea8e8cc1dd6302a8f57e8fb7e5af.png",
+          "sha256": "7fe5ea2600f6578cdf017da3392ae13aedabea8e8cc1dd6302a8f57e8fb7e5af"
+        },
+        {
+          "destination": "assets/resources/textures/d0afb57869c6fbb56b98f5efc4aec629ee7593e70d8dd2bfb9de923acfb65f43.png",
+          "sha256": "d0afb57869c6fbb56b98f5efc4aec629ee7593e70d8dd2bfb9de923acfb65f43"
+        },
+        {
+          "destination": "assets/resources/textures/3150be398e48e8ba1feac164c3143c16c0b2e959d9ffb6155f0171f59cfb4ea9.png",
+          "sha256": "3150be398e48e8ba1feac164c3143c16c0b2e959d9ffb6155f0171f59cfb4ea9"
+        }
+      ],
+      "retainedViews": 1552,
+      "dependencies": [
+        {
+          "source": "assets/animations/conversation-v1/workplace-conversation.glb",
+          "sha256": "f5381bb08c104c43f0b416aca0bb63a20fe5a6216a236984bc3698dfbf8f7f68",
+          "style": "Comfort",
+          "clip": "female_doctor_Talk"
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/weapon-ready-v1/female_teacher.glb",
+      "destination": "assets/resources/female_teacher.gltf",
+      "sha256": "40e423f4528ea0e44fd4b3ff894f61e8b45954e86fa1dc3ce0c79911c339f725",
+      "outputSHA256": "1fbff92b18371c6448d2a3a4e20c9b1093f3b0982e5f0630f52cf8e36edf9f08",
+      "format": "gltf-external-v1",
+      "outputs": [
+        {
+          "destination": "assets/source-buffers/female_teacher.bin",
+          "sha256": "a93a247712cbafc8afa42b987c9ca45349801f4cb6cb33b6d560df6032fc670d"
+        },
+        {
+          "destination": "assets/resources/textures/1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde.png",
+          "sha256": "1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde"
+        },
+        {
+          "destination": "assets/resources/textures/9940f7d0b1b223709a19b05156ba6f6e9e4dbdbced02d7574f4d51d72c58967b.png",
+          "sha256": "9940f7d0b1b223709a19b05156ba6f6e9e4dbdbced02d7574f4d51d72c58967b"
+        },
+        {
+          "destination": "assets/resources/textures/4b69c0fff2648874460e9caf80c31413c444218a5c50afebc425aeaa65484a35.png",
+          "sha256": "4b69c0fff2648874460e9caf80c31413c444218a5c50afebc425aeaa65484a35"
+        },
+        {
+          "destination": "assets/resources/textures/4659691c7295ad6206c78b003e5fd0e5f91dcd53032fa914a229bb48cabe424b.png",
+          "sha256": "4659691c7295ad6206c78b003e5fd0e5f91dcd53032fa914a229bb48cabe424b"
+        },
+        {
+          "destination": "assets/resources/textures/e4c62ddeb1d60952c780b4b38915081d061805da3f6a2239915f8654c762c33b.png",
+          "sha256": "e4c62ddeb1d60952c780b4b38915081d061805da3f6a2239915f8654c762c33b"
+        },
+        {
+          "destination": "assets/resources/textures/7fe5ea2600f6578cdf017da3392ae13aedabea8e8cc1dd6302a8f57e8fb7e5af.png",
+          "sha256": "7fe5ea2600f6578cdf017da3392ae13aedabea8e8cc1dd6302a8f57e8fb7e5af"
+        },
+        {
+          "destination": "assets/resources/textures/d0afb57869c6fbb56b98f5efc4aec629ee7593e70d8dd2bfb9de923acfb65f43.png",
+          "sha256": "d0afb57869c6fbb56b98f5efc4aec629ee7593e70d8dd2bfb9de923acfb65f43"
+        },
+        {
+          "destination": "assets/resources/textures/3150be398e48e8ba1feac164c3143c16c0b2e959d9ffb6155f0171f59cfb4ea9.png",
+          "sha256": "3150be398e48e8ba1feac164c3143c16c0b2e959d9ffb6155f0171f59cfb4ea9"
+        }
+      ],
+      "retainedViews": 1526,
+      "dependencies": [
+        {
+          "source": "assets/animations/conversation-v1/workplace-conversation.glb",
+          "sha256": "f5381bb08c104c43f0b416aca0bb63a20fe5a6216a236984bc3698dfbf8f7f68",
+          "style": "Explain",
+          "clip": "female_teacher_Talk"
+        }
+      ]
+    },
+    {
+      "source": "assets/characters/first-person-v1/male_programmer.glb",
+      "destination": "assets/resources/fp_male_programmer.gltf",
+      "sha256": "b0c2a14a6c49ae0321983db16d25fb34bba17bc021d07688422e7fb8491e6d37",
+      "outputSHA256": "960161291243954e9a9c38a1bcbbfe25b0ebdcdaf9e29cb3cd52347fa4cad440",
+      "format": "gltf-external-v1",
+      "outputs": [
+        {
+          "destination": "assets/source-buffers/fp_male_programmer.bin",
+          "sha256": "fa9f7d08acd52130e014476cf110631b2d229cffb207649cda22e2ed10e585ef"
+        },
+        {
+          "destination": "assets/resources/textures/f50016a5507fc687dc8df06599c8ea48de950cd185de33a71cafc1319ddab4d5.png",
+          "sha256": "f50016a5507fc687dc8df06599c8ea48de950cd185de33a71cafc1319ddab4d5"
+        },
+        {
+          "destination": "assets/resources/textures/9b9b4d6396e23f725891675fba3bde20b8729c20f30d93af19b016c9bfd09478.png",
+          "sha256": "9b9b4d6396e23f725891675fba3bde20b8729c20f30d93af19b016c9bfd09478"
+        }
+      ],
+      "retainedViews": 1137,
+      "dependencies": []
+    },
+    {
+      "source": "assets/characters/first-person-v1/male_ecommerce.glb",
+      "destination": "assets/resources/fp_male_ecommerce.gltf",
+      "sha256": "3a29d14c035a2cf7a15da996a1950a9b273403b892014bc4fcaea05dcd3fcb17",
+      "outputSHA256": "664c14105384117e181414709fb6db3b839d9a7d5a5381cce1d1c8c74976d444",
+      "format": "gltf-external-v1",
+      "outputs": [
+        {
+          "destination": "assets/source-buffers/fp_male_ecommerce.bin",
+          "sha256": "ef540fba19f0e276a85ba517875a51cf6ea9b604c4778a3bb5101e33482e3826"
+        },
+        {
+          "destination": "assets/resources/textures/f50016a5507fc687dc8df06599c8ea48de950cd185de33a71cafc1319ddab4d5.png",
+          "sha256": "f50016a5507fc687dc8df06599c8ea48de950cd185de33a71cafc1319ddab4d5"
+        },
+        {
+          "destination": "assets/resources/textures/ff029fc5a3350ebc72813cdf050afcffd23064c7701d99e664572713cfa98a5f.png",
+          "sha256": "ff029fc5a3350ebc72813cdf050afcffd23064c7701d99e664572713cfa98a5f"
+        },
+        {
+          "destination": "assets/resources/textures/3fd0bba5dcbdea0ac427f644a6c7c298938f7369b8f96626621ce1e88989394e.png",
+          "sha256": "3fd0bba5dcbdea0ac427f644a6c7c298938f7369b8f96626621ce1e88989394e"
+        }
+      ],
+      "retainedViews": 1159,
+      "dependencies": []
+    },
+    {
+      "source": "assets/characters/first-person-v1/male_sales.glb",
+      "destination": "assets/resources/fp_male_sales.gltf",
+      "sha256": "2e5a72d772809402f0550e28af3e93e7e67d6209d867524eaba0405af61ffc06",
+      "outputSHA256": "987fabec78c60d9f65e45bfd843f715e755b602e65924a9bbdb9c2881f7921d5",
+      "format": "gltf-external-v1",
+      "outputs": [
+        {
+          "destination": "assets/source-buffers/fp_male_sales.bin",
+          "sha256": "5cc737fe860d03857df92b24feb5990d2f1a719736c9c41b8f4ff85f616899fe"
+        },
+        {
+          "destination": "assets/resources/textures/f50016a5507fc687dc8df06599c8ea48de950cd185de33a71cafc1319ddab4d5.png",
+          "sha256": "f50016a5507fc687dc8df06599c8ea48de950cd185de33a71cafc1319ddab4d5"
+        },
+        {
+          "destination": "assets/resources/textures/27d98ecf5500f89d1bf363510def211e9e8c74f4ecc44daad7a7916e32dfc250.png",
+          "sha256": "27d98ecf5500f89d1bf363510def211e9e8c74f4ecc44daad7a7916e32dfc250"
+        }
+      ],
+      "retainedViews": 1168,
+      "dependencies": []
+    },
+    {
+      "source": "assets/characters/first-person-v1/male_celebrity.glb",
+      "destination": "assets/resources/fp_male_celebrity.gltf",
+      "sha256": "fe423a949002b019a031485d9d3e5f6eb99de41edcae3ff29ca6701db02bce90",
+      "outputSHA256": "68494d1f96eba76012b5f671947134e9a3677b0cbba796fe552c639d87c53bf5",
+      "format": "gltf-external-v1",
+      "outputs": [
+        {
+          "destination": "assets/source-buffers/fp_male_celebrity.bin",
+          "sha256": "77599e91d35be58ec100a0dbad476567c4cb8d1535fca060acf4974f637b82b1"
+        },
+        {
+          "destination": "assets/resources/textures/f50016a5507fc687dc8df06599c8ea48de950cd185de33a71cafc1319ddab4d5.png",
+          "sha256": "f50016a5507fc687dc8df06599c8ea48de950cd185de33a71cafc1319ddab4d5"
+        },
+        {
+          "destination": "assets/resources/textures/c5d4b399e739615f1aa008df57addb65968c1ef29561755a4a11fbbdc13107a4.png",
+          "sha256": "c5d4b399e739615f1aa008df57addb65968c1ef29561755a4a11fbbdc13107a4"
+        },
+        {
+          "destination": "assets/resources/textures/d4345efe9332c23e9302f5a3bca8c895004be841b5ebea593c96189870e3852a.png",
+          "sha256": "d4345efe9332c23e9302f5a3bca8c895004be841b5ebea593c96189870e3852a"
+        }
+      ],
+      "retainedViews": 1146,
+      "dependencies": []
+    },
+    {
+      "source": "assets/characters/first-person-v1/female_programmer.glb",
+      "destination": "assets/resources/fp_female_programmer.gltf",
+      "sha256": "dc78266130b06687873b03a5dc1e8923bf2e1a55d4e7884a4897b7f08bdbe1bd",
+      "outputSHA256": "0be8ede4e34c60d120c3d2a4f731fc7704695d724ece7dbd94a60a4a5317a8d6",
+      "format": "gltf-external-v1",
+      "outputs": [
+        {
+          "destination": "assets/source-buffers/fp_female_programmer.bin",
+          "sha256": "52bbeacc69b7916cb2516380b05a99e4f30879cc52f613cfd3a433d828e18359"
+        },
+        {
+          "destination": "assets/resources/textures/1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde.png",
+          "sha256": "1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde"
+        },
+        {
+          "destination": "assets/resources/textures/9b9b4d6396e23f725891675fba3bde20b8729c20f30d93af19b016c9bfd09478.png",
+          "sha256": "9b9b4d6396e23f725891675fba3bde20b8729c20f30d93af19b016c9bfd09478"
+        }
+      ],
+      "retainedViews": 1155,
+      "dependencies": []
+    },
+    {
+      "source": "assets/characters/first-person-v1/female_ecommerce.glb",
+      "destination": "assets/resources/fp_female_ecommerce.gltf",
+      "sha256": "042f618137cbd4e965dca793b9b205d2064b596903665e73fc5c4a69ffa7d736",
+      "outputSHA256": "fdcf5dfa9a1162f2b933b487c71e029a689db9ee2571d32231fe56d27cf1b1e4",
+      "format": "gltf-external-v1",
+      "outputs": [
+        {
+          "destination": "assets/source-buffers/fp_female_ecommerce.bin",
+          "sha256": "47ae60bb2d426576961295447da4d9e9ca6d42759019048c4296c6b36cb28543"
+        },
+        {
+          "destination": "assets/resources/textures/1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde.png",
+          "sha256": "1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde"
+        },
+        {
+          "destination": "assets/resources/textures/2ce673245d1fb62b6aec0e785bb498268aaeef25a2576612393cc4ddc7cfc8bd.png",
+          "sha256": "2ce673245d1fb62b6aec0e785bb498268aaeef25a2576612393cc4ddc7cfc8bd"
+        },
+        {
+          "destination": "assets/resources/textures/b3f0a27b957783696a6b9bed71ba73779831515418a72d3f4680cdc972ce990a.png",
+          "sha256": "b3f0a27b957783696a6b9bed71ba73779831515418a72d3f4680cdc972ce990a"
+        }
+      ],
+      "retainedViews": 1185,
+      "dependencies": []
+    },
+    {
+      "source": "assets/characters/first-person-v1/female_sales.glb",
+      "destination": "assets/resources/fp_female_sales.gltf",
+      "sha256": "2c4f70207f491ee8abfb8ca1efcb4aeb5a8f3f766fc5dc61c09cb7fb42823e78",
+      "outputSHA256": "f0794b11f6672e7c5c50667d5870e3ff5e8b9c8d2cc554deb5a6489977d394c7",
+      "format": "gltf-external-v1",
+      "outputs": [
+        {
+          "destination": "assets/source-buffers/fp_female_sales.bin",
+          "sha256": "9a3f769d91f3676adb2c3aa7388c257315a43de746ee05e57147a792090db560"
+        },
+        {
+          "destination": "assets/resources/textures/1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde.png",
+          "sha256": "1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde"
+        },
+        {
+          "destination": "assets/resources/textures/f1d15f99341184f87d9657e0ef754150b51f4d00d503e393beb6e11cf1c60507.png",
+          "sha256": "f1d15f99341184f87d9657e0ef754150b51f4d00d503e393beb6e11cf1c60507"
+        }
+      ],
+      "retainedViews": 1207,
+      "dependencies": []
+    },
+    {
+      "source": "assets/characters/first-person-v1/female_celebrity.glb",
+      "destination": "assets/resources/fp_female_celebrity.gltf",
+      "sha256": "8429afd4a8fbe361edf8c8af580af17f6a1968beb0eb8dad9d6ff105e539bb30",
+      "outputSHA256": "505e8559069e85cf12b3f3340e2be56cd751a2b34894fdace8b7ab5105af3598",
+      "format": "gltf-external-v1",
+      "outputs": [
+        {
+          "destination": "assets/source-buffers/fp_female_celebrity.bin",
+          "sha256": "5ec8d102f1653b9a09ac4e020c4dc19d9e62fa1aa7275c2a6a86bdf89a812d32"
+        },
+        {
+          "destination": "assets/resources/textures/1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde.png",
+          "sha256": "1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde"
+        }
+      ],
+      "retainedViews": 1152,
+      "dependencies": []
+    },
+    {
+      "source": "assets/characters/first-person-v1/female_doctor.glb",
+      "destination": "assets/resources/fp_female_doctor.gltf",
+      "sha256": "8077dc872dec3162ad887244231764fda4d76d50661dcedab34bde7983a38aa0",
+      "outputSHA256": "a018a1c44c2482b74b64999fd0ec257e9f8bcbca6c764aa8e51a1fc988c4b3bf",
+      "format": "gltf-external-v1",
+      "outputs": [
+        {
+          "destination": "assets/source-buffers/fp_female_doctor.bin",
+          "sha256": "c74006a5ed69351e9849ce1a46c8d7a89a83aea74c61a92beec44a8e2a0c4a64"
+        },
+        {
+          "destination": "assets/resources/textures/1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde.png",
+          "sha256": "1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde"
+        }
+      ],
+      "retainedViews": 1201,
+      "dependencies": []
+    },
+    {
+      "source": "assets/characters/first-person-v1/female_teacher.glb",
+      "destination": "assets/resources/fp_female_teacher.gltf",
+      "sha256": "c14d04cf8ca3862ad48bf2f26ccfefbc5c828ec44c8544eeefe53ce006b1abba",
+      "outputSHA256": "76105c13bb4133313f31df9e0470b8d26ad409f09a26dbd3389908425ab40bbd",
+      "format": "gltf-external-v1",
+      "outputs": [
+        {
+          "destination": "assets/source-buffers/fp_female_teacher.bin",
+          "sha256": "50d1e5c722f62e5db889fd70218cd9512adf15ec6caccfd45e746d9d0046e43a"
+        },
+        {
+          "destination": "assets/resources/textures/1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde.png",
+          "sha256": "1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde"
+        }
+      ],
+      "retainedViews": 1157,
+      "dependencies": []
+    }
+  ]
+}

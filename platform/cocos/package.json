@@ -1,0 +1,9 @@
+{
+  "name": "corporate-showdown-platform-probe",
+  "uuid": "58af3077-27d4-4e98-a2e9-ee55742b6d29",
+  "version": "0.3.13",
+  "creator": {
+    "version": "3.8.8"
+  },
+  "type": "module"
+}

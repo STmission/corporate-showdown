@@ -1,0 +1,612 @@
+{
+  "generatedAt": "2026-10-05T17:49:57.836Z",
+  "revision": "headquarters-v0.8",
+  "characterRevision": "characters-v0.11",
+  "scope": "Source/export traceability and GLB structure, not visual or device performance certification",
+  "sources": {
+    "environment": "blender/update_navigation.py",
+    "characters": "blender/build_characters.py",
+    "characterAnimation": "blender/animate_characters.py",
+    "alphaNormalization": "blender/normalize_glb.py",
+    "salesRefinement": "blender/refine_sales_character.py",
+    "salesValidation": "blender/validate_sales_refinement.py"
+  },
+  "grounding": {
+    "manifest": "assets/characters/grounded-v1/manifest.json",
+    "generator": "blender/ground_character_down.py",
+    "characters": [
+      "male_programmer",
+      "male_ecommerce",
+      "male_sales",
+      "male_celebrity",
+      "female_programmer",
+      "female_ecommerce",
+      "female_sales",
+      "female_celebrity",
+      "female_doctor",
+      "female_teacher"
+    ],
+    "runtimeExportDirectory": "assets/characters/grounded-v1"
+  },
+  "priorMaterialOverrides": {
+    "male_sales": {
+      "source": "assets/characters/refined-v2/male_sales/manifest.json",
+      "export": "assets/characters/refined-v2/male_sales/male_sales.glb",
+      "consumers": [
+        "prototype/server.mjs",
+        "platform/cocos/tools/sync_assets.py"
+      ]
+    }
+  },
+  "collision": {
+    "source": "prototype/shared/headquarters-layout.mjs",
+    "rectangles": 276,
+    "origin": "Versioned shared layout v0.8; native wall geometry verified during export; major furniture has simple footprint collision."
+  },
+  "assets": [
+    {
+      "path": "assets/models/coastal-headquarters.blend",
+      "bytes": 78667571,
+      "sha256": "d1a73d3c9c6bab85badd853e46dcd82f0e04ece606387d2f0eca31e9ac548d08"
+    },
+    {
+      "path": "assets/models/coastal-headquarters-complete.glb",
+      "bytes": 66418604,
+      "sha256": "c3e4825002b5651a2a6dddf542cddfed233030e79934e291dc526de60fb5774b",
+      "nodes": 7082,
+      "meshes": 458,
+      "skins": [
+        53,
+        53,
+        53,
+        53,
+        53,
+        53,
+        53,
+        53
+      ],
+      "animations": [],
+      "alphaModes": [
+        "OPAQUE",
+        "BLEND",
+        "MASK"
+      ]
+    },
+    {
+      "path": "assets/models/coastal-headquarters-gameplay.glb",
+      "bytes": 5768892,
+      "sha256": "f77676f97ce5bdb035b7a61041ce3c9f89474ee54f2f9a8c75599e8b9c4a2ad5",
+      "nodes": 6578,
+      "meshes": 386,
+      "skins": [],
+      "animations": [],
+      "alphaModes": [
+        "OPAQUE",
+        "BLEND"
+      ]
+    },
+    {
+      "path": "assets/models/headquarters-collision.json",
+      "bytes": 51916,
+      "sha256": "f81b720520828985a5e4a4e6df0c7dc0887c192a3d3c3f649633255984fc1891"
+    },
+    {
+      "path": "assets/characters/workplace-characters.blend",
+      "bytes": 77678646,
+      "sha256": "3c97fb93730de39cbab999230ffb64687c170e349166548b0104dceaf7b1aa2b"
+    },
+    {
+      "path": "assets/characters/male_programmer.glb",
+      "bytes": 14678792,
+      "sha256": "6490e8cbb7e6e3b5a965a7bd26dccab748a00bdcf80f0ae05b5d1d085246f0ea",
+      "nodes": 63,
+      "meshes": 9,
+      "skins": [
+        53
+      ],
+      "animations": [
+        "male_programmer_Idle",
+        "male_programmer_Walk",
+        "male_programmer_Run",
+        "male_programmer_Attack",
+        "male_programmer_Hit",
+        "male_programmer_Down",
+        "male_programmer_Rescue",
+        "male_programmer_Cast"
+      ],
+      "alphaModes": [
+        "OPAQUE",
+        "MASK"
+      ]
+    },
+    {
+      "path": "assets/characters/male_ecommerce.glb",
+      "bytes": 18683060,
+      "sha256": "831b501839424f216f3003b27c50494c154546f0a406704eb4246c00c8aa3fe3",
+      "nodes": 63,
+      "meshes": 9,
+      "skins": [
+        53
+      ],
+      "animations": [
+        "male_ecommerce_Idle",
+        "male_ecommerce_Walk",
+        "male_ecommerce_Run",
+        "male_ecommerce_Attack",
+        "male_ecommerce_Hit",
+        "male_ecommerce_Down",
+        "male_ecommerce_Rescue",
+        "male_ecommerce_Cast"
+      ],
+      "alphaModes": [
+        "OPAQUE",
+        "MASK"
+      ]
+    },
+    {
+      "path": "assets/characters/male_sales.glb",
+      "bytes": 11336476,
+      "sha256": "a5e59922c2d8ab0dac0df56b4143735ec94843a19482708afcc7e85a7fbc2132",
+      "nodes": 63,
+      "meshes": 9,
+      "skins": [
+        53
+      ],
+      "animations": [
+        "male_sales_Idle",
+        "male_sales_Walk",
+        "male_sales_Run",
+        "male_sales_Attack",
+        "male_sales_Hit",
+        "male_sales_Down",
+        "male_sales_Rescue",
+        "male_sales_Cast"
+      ],
+      "alphaModes": [
+        "OPAQUE",
+        "MASK"
+      ]
+    },
+    {
+      "path": "assets/characters/male_celebrity.glb",
+      "bytes": 14193960,
+      "sha256": "293ff17d537095f25623a2d7375ac93d3954e9f2c00a28f246fe6aa4399a6678",
+      "nodes": 63,
+      "meshes": 9,
+      "skins": [
+        53
+      ],
+      "animations": [
+        "male_celebrity_Idle",
+        "male_celebrity_Walk",
+        "male_celebrity_Run",
+        "male_celebrity_Attack",
+        "male_celebrity_Hit",
+        "male_celebrity_Down",
+        "male_celebrity_Rescue",
+        "male_celebrity_Cast"
+      ],
+      "alphaModes": [
+        "OPAQUE",
+        "MASK"
+      ]
+    },
+    {
+      "path": "assets/characters/female_programmer.glb",
+      "bytes": 14687052,
+      "sha256": "8bcea000211572287a9ed99a76f58b64e4381c6a6339d2807a54432133492761",
+      "nodes": 63,
+      "meshes": 9,
+      "skins": [
+        53
+      ],
+      "animations": [
+        "female_programmer_Idle",
+        "female_programmer_Walk",
+        "female_programmer_Run",
+        "female_programmer_Attack",
+        "female_programmer_Hit",
+        "female_programmer_Down",
+        "female_programmer_Rescue",
+        "female_programmer_Cast"
+      ],
+      "alphaModes": [
+        "OPAQUE",
+        "MASK"
+      ]
+    },
+    {
+      "path": "assets/characters/female_ecommerce.glb",
+      "bytes": 16152656,
+      "sha256": "b3b45660bacfe08113c9be0465f0680d1dffb5ee55ee000430eaf44371035a7f",
+      "nodes": 63,
+      "meshes": 9,
+      "skins": [
+        53
+      ],
+      "animations": [
+        "female_ecommerce_Idle",
+        "female_ecommerce_Walk",
+        "female_ecommerce_Run",
+        "female_ecommerce_Attack",
+        "female_ecommerce_Hit",
+        "female_ecommerce_Down",
+        "female_ecommerce_Rescue",
+        "female_ecommerce_Cast"
+      ],
+      "alphaModes": [
+        "MASK",
+        "OPAQUE"
+      ]
+    },
+    {
+      "path": "assets/characters/female_sales.glb",
+      "bytes": 12343196,
+      "sha256": "91f78a2ca91003cf85e597ee4cd85c577a37fdef0d49adb6d63682df77efcf21",
+      "nodes": 63,
+      "meshes": 9,
+      "skins": [
+        53
+      ],
+      "animations": [
+        "female_sales_Idle",
+        "female_sales_Walk",
+        "female_sales_Run",
+        "female_sales_Attack",
+        "female_sales_Hit",
+        "female_sales_Down",
+        "female_sales_Rescue",
+        "female_sales_Cast"
+      ],
+      "alphaModes": [
+        "MASK",
+        "OPAQUE"
+      ]
+    },
+    {
+      "path": "assets/characters/female_celebrity.glb",
+      "bytes": 14085108,
+      "sha256": "65311dc46b5882458a35183468cbd8574b1c9ccffd1448630717ad3d3d73d55a",
+      "nodes": 63,
+      "meshes": 9,
+      "skins": [
+        53
+      ],
+      "animations": [
+        "female_celebrity_Idle",
+        "female_celebrity_Walk",
+        "female_celebrity_Run",
+        "female_celebrity_Attack",
+        "female_celebrity_Hit",
+        "female_celebrity_Down",
+        "female_celebrity_Rescue",
+        "female_celebrity_Cast"
+      ],
+      "alphaModes": [
+        "OPAQUE",
+        "MASK"
+      ]
+    },
+    {
+      "path": "assets/characters/grounded-v1/male_programmer.blend",
+      "bytes": 14985370,
+      "sha256": "c62e471d8b7b7f19e7a63dd258bf732d52cd4a4479a8177331987fde082d4a01"
+    },
+    {
+      "path": "assets/characters/grounded-v1/male_programmer.glb",
+      "bytes": 14680220,
+      "sha256": "d56f49ffcc3d8c86223ddb8dcf1e121d79696afac0ce877899b29d6aabf5833a",
+      "nodes": 63,
+      "meshes": 9,
+      "skins": [
+        53
+      ],
+      "animations": [
+        "male_programmer_Idle",
+        "male_programmer_Walk",
+        "male_programmer_Run",
+        "male_programmer_Attack",
+        "male_programmer_Hit",
+        "male_programmer_Down",
+        "male_programmer_Rescue",
+        "male_programmer_Cast"
+      ],
+      "alphaModes": [
+        "OPAQUE",
+        "MASK"
+      ]
+    },
+    {
+      "path": "assets/characters/grounded-v1/male_ecommerce.blend",
+      "bytes": 19187207,
+      "sha256": "284f107ecdb9b66d938cb43fdd9d676c608b71d177d9f787a9419eace875e7f8"
+    },
+    {
+      "path": "assets/characters/grounded-v1/male_ecommerce.glb",
+      "bytes": 18684488,
+      "sha256": "71d99f9cd3a765c1ba25364caee66ff6a78ebacdfe0f0c1f5c50e1719de9f513",
+      "nodes": 63,
+      "meshes": 9,
+      "skins": [
+        53
+      ],
+      "animations": [
+        "male_ecommerce_Idle",
+        "male_ecommerce_Walk",
+        "male_ecommerce_Run",
+        "male_ecommerce_Attack",
+        "male_ecommerce_Hit",
+        "male_ecommerce_Down",
+        "male_ecommerce_Rescue",
+        "male_ecommerce_Cast"
+      ],
+      "alphaModes": [
+        "OPAQUE",
+        "MASK"
+      ]
+    },
+    {
+      "path": "assets/characters/grounded-v1/male_sales.blend",
+      "bytes": 13605681,
+      "sha256": "664885a85aead08b805cc7191f826ef292f817100d241af38140c833d8fb62a7"
+    },
+    {
+      "path": "assets/characters/grounded-v1/male_sales.glb",
+      "bytes": 13112016,
+      "sha256": "ae31e042b020b935a7cc12f51db9d13ec53ec5666d9c194b50f6452551945463",
+      "nodes": 63,
+      "meshes": 9,
+      "skins": [
+        53
+      ],
+      "animations": [
+        "male_sales_Idle",
+        "male_sales_Walk",
+        "male_sales_Run",
+        "male_sales_Attack",
+        "male_sales_Hit",
+        "male_sales_Down",
+        "male_sales_Rescue",
+        "male_sales_Cast"
+      ],
+      "alphaModes": [
+        "OPAQUE",
+        "MASK"
+      ]
+    },
+    {
+      "path": "assets/characters/grounded-v1/male_celebrity.blend",
+      "bytes": 14500651,
+      "sha256": "bd4276d9205b4c35258c35d43a637a3f5b3ebbe2d067ec6a998a27dc95c31338"
+    },
+    {
+      "path": "assets/characters/grounded-v1/male_celebrity.glb",
+      "bytes": 14195388,
+      "sha256": "df582e74c9fdc97b9dbf7ee7b055e8cc2693dd85bb6a529370685d66d2fe6bf4",
+      "nodes": 63,
+      "meshes": 9,
+      "skins": [
+        53
+      ],
+      "animations": [
+        "male_celebrity_Idle",
+        "male_celebrity_Walk",
+        "male_celebrity_Run",
+        "male_celebrity_Attack",
+        "male_celebrity_Hit",
+        "male_celebrity_Down",
+        "male_celebrity_Rescue",
+        "male_celebrity_Cast"
+      ],
+      "alphaModes": [
+        "OPAQUE",
+        "MASK"
+      ]
+    },
+    {
+      "path": "assets/characters/grounded-v1/female_programmer.blend",
+      "bytes": 14995566,
+      "sha256": "b8fdd9d4922ce8281557ce25b66a9f06f7eb01b4b31d061b1e3f26b987f30f64"
+    },
+    {
+      "path": "assets/characters/grounded-v1/female_programmer.glb",
+      "bytes": 14688484,
+      "sha256": "4dcc6fd53fdccf0d2d3b83e159d4fd9058dc002c9d32f6abf9582c55c222d7f2",
+      "nodes": 63,
+      "meshes": 9,
+      "skins": [
+        53
+      ],
+      "animations": [
+        "female_programmer_Idle",
+        "female_programmer_Walk",
+        "female_programmer_Run",
+        "female_programmer_Attack",
+        "female_programmer_Hit",
+        "female_programmer_Down",
+        "female_programmer_Rescue",
+        "female_programmer_Cast"
+      ],
+      "alphaModes": [
+        "OPAQUE",
+        "MASK"
+      ]
+    },
+    {
+      "path": "assets/characters/grounded-v1/female_ecommerce.blend",
+      "bytes": 16678282,
+      "sha256": "0abad470d6f8cce1157f12664c29f51320d2f83a24d1330cf47987189e068d67"
+    },
+    {
+      "path": "assets/characters/grounded-v1/female_ecommerce.glb",
+      "bytes": 16154084,
+      "sha256": "9910c684e0cb44c75925ea7e93853bc9414e2a7bfb9ffd2f13940414f628c231",
+      "nodes": 63,
+      "meshes": 9,
+      "skins": [
+        53
+      ],
+      "animations": [
+        "female_ecommerce_Idle",
+        "female_ecommerce_Walk",
+        "female_ecommerce_Run",
+        "female_ecommerce_Attack",
+        "female_ecommerce_Hit",
+        "female_ecommerce_Down",
+        "female_ecommerce_Rescue",
+        "female_ecommerce_Cast"
+      ],
+      "alphaModes": [
+        "MASK",
+        "OPAQUE"
+      ]
+    },
+    {
+      "path": "assets/characters/grounded-v1/female_sales.blend",
+      "bytes": 12944703,
+      "sha256": "861a5feeccaf89df2cc1fde4af8b2d5d75e458efd5d05b8861d23d3daa50c51c"
+    },
+    {
+      "path": "assets/characters/grounded-v1/female_sales.glb",
+      "bytes": 12344624,
+      "sha256": "223afd3071818bc3200d493bbb275f1a85413873341166199b5264e29beaf580",
+      "nodes": 63,
+      "meshes": 9,
+      "skins": [
+        53
+      ],
+      "animations": [
+        "female_sales_Idle",
+        "female_sales_Walk",
+        "female_sales_Run",
+        "female_sales_Attack",
+        "female_sales_Hit",
+        "female_sales_Down",
+        "female_sales_Rescue",
+        "female_sales_Cast"
+      ],
+      "alphaModes": [
+        "MASK",
+        "OPAQUE"
+      ]
+    },
+    {
+      "path": "assets/characters/grounded-v1/female_celebrity.blend",
+      "bytes": 14397736,
+      "sha256": "026c01391b269a6f0662ed4f1a6337fb114d7274813a4a72b5dc011f7bf233dd"
+    },
+    {
+      "path": "assets/characters/grounded-v1/female_celebrity.glb",
+      "bytes": 14086536,
+      "sha256": "b9c54d3cf12d569b56c6f9e7943f1dc92b8e3cb0ad54cb3bd66e4e56a986fa5c",
+      "nodes": 63,
+      "meshes": 9,
+      "skins": [
+        53
+      ],
+      "animations": [
+        "female_celebrity_Idle",
+        "female_celebrity_Walk",
+        "female_celebrity_Run",
+        "female_celebrity_Attack",
+        "female_celebrity_Hit",
+        "female_celebrity_Down",
+        "female_celebrity_Rescue",
+        "female_celebrity_Cast"
+      ],
+      "alphaModes": [
+        "OPAQUE",
+        "MASK"
+      ]
+    },
+    {
+      "path": "assets/characters/grounded-v1/female_doctor.blend",
+      "bytes": 13101701,
+      "sha256": "4471a16f49257010e76c7b7e3b62eceea3abe507293876292256a472957528c9"
+    },
+    {
+      "path": "assets/characters/grounded-v1/female_doctor.glb",
+      "bytes": 12561332,
+      "sha256": "681843ac45973286b55dbce260c7712b8caae8b3b30bdccf0490935ae6f554a0",
+      "nodes": 69,
+      "meshes": 15,
+      "skins": [
+        53
+      ],
+      "animations": [
+        "female_doctor_Idle",
+        "female_doctor_Walk",
+        "female_doctor_Run",
+        "female_doctor_Attack",
+        "female_doctor_Hit",
+        "female_doctor_Down",
+        "female_doctor_Rescue",
+        "female_doctor_Cast"
+      ],
+      "alphaModes": [
+        "OPAQUE",
+        "MASK",
+        "BLEND"
+      ]
+    },
+    {
+      "path": "assets/characters/grounded-v1/female_teacher.blend",
+      "bytes": 13173803,
+      "sha256": "c32f6629180a56c4adb1312cf6d18fe149c78e88a340b991edb042d71d0881e4"
+    },
+    {
+      "path": "assets/characters/grounded-v1/female_teacher.glb",
+      "bytes": 12843984,
+      "sha256": "33772d511d5eb08d5303022b2b63452b0ecee157401b914eb261ccf1782e551b",
+      "nodes": 70,
+      "meshes": 16,
+      "skins": [
+        53
+      ],
+      "animations": [
+        "female_teacher_Idle",
+        "female_teacher_Walk",
+        "female_teacher_Run",
+        "female_teacher_Attack",
+        "female_teacher_Hit",
+        "female_teacher_Down",
+        "female_teacher_Rescue",
+        "female_teacher_Cast"
+      ],
+      "alphaModes": [
+        "OPAQUE",
+        "MASK",
+        "BLEND"
+      ]
+    },
+    {
+      "path": "assets/characters/refined-v2/male_sales/male_sales.blend",
+      "bytes": 14292546,
+      "sha256": "eaba6ca624171ba967f52e50bfbe1976c3890be4d80872444080174cd74d4142"
+    },
+    {
+      "path": "assets/characters/refined-v2/male_sales/male_sales.glb",
+      "bytes": 13110584,
+      "sha256": "87a4a6fdb5c9a955466418bb848af5c379f4d355e7bb455b0255e8c3eb4d5a64",
+      "nodes": 63,
+      "meshes": 9,
+      "skins": [
+        53
+      ],
+      "animations": [
+        "male_sales_Idle",
+        "male_sales_Walk",
+        "male_sales_Run",
+        "male_sales_Attack",
+        "male_sales_Hit",
+        "male_sales_Down",
+        "male_sales_Rescue",
+        "male_sales_Cast"
+      ],
+      "alphaModes": [
+        "OPAQUE",
+        "MASK"
+      ]
+    }
+  ]
+}

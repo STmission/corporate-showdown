@@ -1,0 +1,161 @@
+{
+  "version": "0.9",
+  "characters": [
+    {
+      "appearance": "male_programmer",
+      "rig_bones": 53,
+      "meshes": 9,
+      "vertices": 19372,
+      "outfit": "male_casualsuit03",
+      "file": "/Users/liuqi/Documents/ChatGPT/corporate-showdown/assets/characters/male_programmer.glb",
+      "animations": [
+        "male_programmer_Idle",
+        "male_programmer_Walk",
+        "male_programmer_Run",
+        "male_programmer_Attack",
+        "male_programmer_Hit",
+        "male_programmer_Down",
+        "male_programmer_Rescue",
+        "male_programmer_Cast"
+      ]
+    },
+    {
+      "appearance": "male_ecommerce",
+      "rig_bones": 53,
+      "meshes": 9,
+      "vertices": 26376,
+      "outfit": "male_casualsuit01",
+      "file": "/Users/liuqi/Documents/ChatGPT/corporate-showdown/assets/characters/male_ecommerce.glb",
+      "animations": [
+        "male_ecommerce_Idle",
+        "male_ecommerce_Walk",
+        "male_ecommerce_Run",
+        "male_ecommerce_Attack",
+        "male_ecommerce_Hit",
+        "male_ecommerce_Down",
+        "male_ecommerce_Rescue",
+        "male_ecommerce_Cast"
+      ]
+    },
+    {
+      "appearance": "male_sales",
+      "rig_bones": 53,
+      "meshes": 9,
+      "vertices": 25803,
+      "outfit": "toigo_male_suit_tie_and_jacket",
+      "file": "/Users/liuqi/Documents/ChatGPT/corporate-showdown/assets/characters/male_sales.glb",
+      "animations": [
+        "male_sales_Idle",
+        "male_sales_Walk",
+        "male_sales_Run",
+        "male_sales_Attack",
+        "male_sales_Hit",
+        "male_sales_Down",
+        "male_sales_Rescue",
+        "male_sales_Cast"
+      ]
+    },
+    {
+      "appearance": "male_celebrity",
+      "rig_bones": 53,
+      "meshes": 9,
+      "vertices": 19324,
+      "outfit": "male_casualsuit05",
+      "file": "/Users/liuqi/Documents/ChatGPT/corporate-showdown/assets/characters/male_celebrity.glb",
+      "animations": [
+        "male_celebrity_Idle",
+        "male_celebrity_Walk",
+        "male_celebrity_Run",
+        "male_celebrity_Attack",
+        "male_celebrity_Hit",
+        "male_celebrity_Down",
+        "male_celebrity_Rescue",
+        "male_celebrity_Cast"
+      ]
+    },
+    {
+      "appearance": "female_programmer",
+      "rig_bones": 53,
+      "meshes": 9,
+      "vertices": 21754,
+      "outfit": "female_elegantsuit01",
+      "file": "/Users/liuqi/Documents/ChatGPT/corporate-showdown/assets/characters/female_programmer.glb",
+      "animations": [
+        "female_programmer_Idle",
+        "female_programmer_Walk",
+        "female_programmer_Run",
+        "female_programmer_Attack",
+        "female_programmer_Hit",
+        "female_programmer_Down",
+        "female_programmer_Rescue",
+        "female_programmer_Cast"
+      ]
+    },
+    {
+      "appearance": "female_ecommerce",
+      "rig_bones": 53,
+      "meshes": 9,
+      "vertices": 28382,
+      "outfit": "toigo_female_suit_2",
+      "file": "/Users/liuqi/Documents/ChatGPT/corporate-showdown/assets/characters/female_ecommerce.glb",
+      "animations": [
+        "female_ecommerce_Idle",
+        "female_ecommerce_Walk",
+        "female_ecommerce_Run",
+        "female_ecommerce_Attack",
+        "female_ecommerce_Hit",
+        "female_ecommerce_Down",
+        "female_ecommerce_Rescue",
+        "female_ecommerce_Cast"
+      ]
+    },
+    {
+      "appearance": "female_sales",
+      "rig_bones": 53,
+      "meshes": 9,
+      "vertices": 31685,
+      "outfit": "toigo_female_suit",
+      "file": "/Users/liuqi/Documents/ChatGPT/corporate-showdown/assets/characters/female_sales.glb",
+      "animations": [
+        "female_sales_Idle",
+        "female_sales_Walk",
+        "female_sales_Run",
+        "female_sales_Attack",
+        "female_sales_Hit",
+        "female_sales_Down",
+        "female_sales_Rescue",
+        "female_sales_Cast"
+      ]
+    },
+    {
+      "appearance": "female_celebrity",
+      "rig_bones": 53,
+      "meshes": 9,
+      "vertices": 21112,
+      "outfit": "female_casualsuit01",
+      "file": "/Users/liuqi/Documents/ChatGPT/corporate-showdown/assets/characters/female_celebrity.glb",
+      "animations": [
+        "female_celebrity_Idle",
+        "female_celebrity_Walk",
+        "female_celebrity_Run",
+        "female_celebrity_Attack",
+        "female_celebrity_Hit",
+        "female_celebrity_Down",
+        "female_celebrity_Rescue",
+        "female_celebrity_Cast"
+      ]
+    }
+  ],
+  "license": "MakeHuman system assets and suits01 CC0; MPFB code GPLv3; original styling",
+  "animationSource": "blender/animate_characters.py",
+  "actions": {
+    "Idle": 96,
+    "Walk": 24,
+    "Run": 18,
+    "Attack": 12,
+    "Hit": 9,
+    "Down": 18,
+    "Rescue": 48,
+    "Cast": 24
+  }
+}

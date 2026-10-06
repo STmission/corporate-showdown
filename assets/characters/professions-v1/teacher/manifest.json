@@ -1,0 +1,37 @@
+{
+  "id": "female_teacher",
+  "source": "assets/characters/library-v1/female_programmer.blend",
+  "sourceSHA256": "93289f11fe9a63e4c5a18c0bf1e6fa538ba58588d28e6cd0c168c379d9359f8e",
+  "scriptSHA256": "a57a0a431163eeb08dcce8211b37d5d10388c900b4e9bf941bbc01be48229b27",
+  "blend": "assets/characters/professions-v1/teacher/female_teacher.blend",
+  "blendSHA256": "286f6e7bcad9f1fe10c7b56ebe29fe7535ddb736391a60e621ae88db0fee7e7b",
+  "glb": "assets/characters/professions-v1/teacher/female_teacher.glb",
+  "glbSHA256": "19014cb2adfce785ab69d11d2576250a843dbf33e62c7f60e3766b3ea7d54b0c",
+  "bones": 53,
+  "meshes": 16,
+  "clips": [
+    "female_teacher_Idle",
+    "female_teacher_Walk",
+    "female_teacher_Run",
+    "female_teacher_Attack",
+    "female_teacher_Hit",
+    "female_teacher_Down",
+    "female_teacher_Rescue",
+    "female_teacher_Cast"
+  ],
+  "newAttachments": [
+    "Teacher_Frame_Left",
+    "Teacher_Temple_Left",
+    "Teacher_Lens_Left",
+    "Teacher_Frame_Right",
+    "Teacher_Temple_Right",
+    "Teacher_Lens_Right",
+    "Teacher_Glasses_Bridge"
+  ],
+  "status": "source reload and actual GLB reimport with Idle/Walk/Attack/Down poses validated; source and four imported renders visually reviewed",
+  "limitations": [
+    "Original face topology and eight clips retained",
+    "Female teacher costume only; not final realistic character quality",
+    "No facial animation, lip sync, LOD or device acceptance"
+  ]
+}

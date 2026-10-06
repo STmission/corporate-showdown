@@ -1,0 +1,19 @@
+import {Node,Canvas,Camera,UITransform,Label,Graphics,Color,Layers,Button,EditBox,view} from 'cc';
+export class EngineUi {
+ private conversation=false;
+ root:Node; panel:Node; hud:Label; notice:Label; controls:Node; navigation:Node;
+ constructor(parent:Node){
+  view.setDesignResolutionSize(1280,720,2);
+  this.root=new Node('Game UI');this.root.layer=Layers.Enum.UI_2D;parent.addChild(this.root);this.root.addComponent(UITransform).setContentSize(1280,720);
+  const camera=new Node('UI Camera');this.root.addChild(camera);camera.setPosition(0,0,1000);const c=camera.addComponent(Camera);c.projection=Camera.ProjectionType.ORTHO;c.orthoHeight=360;c.near=1;c.far=2000;c.priority=100;c.visibility=Layers.Enum.UI_2D;c.clearFlags=Camera.ClearFlag.DEPTH_ONLY;
+  const canvas=this.root.addComponent(Canvas);canvas.cameraComponent=c;canvas.alignCanvasWithScreen=true;
+  this.panel=this.box(this.root,'菜单',0,0,720,600);this.hud=this.text(this.root,'',-605,270,1180,100,20);this.hud.horizontalAlign=Label.HorizontalAlign.LEFT;this.hud.node.getComponent(UITransform)!.setAnchorPoint(0,1);
+  this.notice=this.text(this.root,'正在连接…',0,-315,1100,55,18);this.navigation=new Node('Navigation controls');this.navigation.layer=Layers.Enum.UI_2D;this.root.addChild(this.navigation);this.navigation.addComponent(UITransform).setContentSize(1280,720);this.controls=new Node('Action controls');this.controls.layer=Layers.Enum.UI_2D;this.root.addChild(this.controls);this.controls.addComponent(UITransform).setContentSize(1280,720);
+ }
+ text(parent:Node,value:string,x:number,y:number,w=500,h=50,size=22){const n=new Node(value.slice(0,24)||'Text');n.layer=Layers.Enum.UI_2D;parent.addChild(n);n.addComponent(UITransform).setContentSize(w,h);n.setPosition(x,y);const l=n.addComponent(Label);l.overflow=Label.Overflow.CLAMP;l.enableWrapText=true;l.string=value;l.fontSize=size;l.lineHeight=size+6;l.color=new Color(241,244,233);l.horizontalAlign=Label.HorizontalAlign.CENTER;l.verticalAlign=Label.VerticalAlign.CENTER;return l;}
+ box(parent:Node,name:string,x:number,y:number,w:number,h:number){const n=new Node(name);n.layer=Layers.Enum.UI_2D;parent.addChild(n);n.addComponent(UITransform).setContentSize(w,h);n.setPosition(x,y);const g=n.addComponent(Graphics);g.fillColor=new Color(15,37,45,235);g.roundRect(-w/2,-h/2,w,h,14);g.fill();return n;}
+ button(parent:Node,label:string,x:number,y:number,click:()=>void,w=250){const n=this.box(parent,label,x,y,w,46);this.text(n,label,0,0,w,46,19);const button=n.addComponent(Button);button.transition=Button.Transition.SCALE;n.on(Button.EventType.CLICK,click);return button;}
+ field(parent:Node,label:string,x:number,y:number,initial:string){const box=this.box(parent,label,x,y,280,46);const n=new Node(label+' input');n.layer=Layers.Enum.UI_2D;box.addChild(n);n.addComponent(UITransform).setContentSize(280,46);const l=this.text(n,initial,0,0,260,42,20);const placeholder=this.text(n,label,0,0,260,42,20);l.enableWrapText=false;placeholder.enableWrapText=false;l.node.name='TEXT_LABEL';placeholder.node.name='PLACEHOLDER_LABEL';l.node.getComponent(UITransform)!.setAnchorPoint(0,1);placeholder.node.getComponent(UITransform)!.setAnchorPoint(0,1);const e=n.addComponent(EditBox);e.inputMode=EditBox.InputMode.SINGLE_LINE;e.textLabel=l;e.placeholderLabel=placeholder;e.string=initial;e.placeholder=label;e.maxLength=20;return e;}
+ setConversation(active:boolean){if(active===this.conversation)return;this.conversation=active;this.navigation.active=!active;this.hud.node.active=!active;const width=active?580:720;this.panel.setPosition(active?330:0,0);this.panel.getComponent(UITransform)!.setContentSize(width,600);const g=this.panel.getComponent(Graphics)!;g.clear();g.fillColor=new Color(15,37,45,235);g.roundRect(-width/2,-300,width,600,14);g.fill();}
+ clearPanel(){for(const child of this.panel.children.slice()){child.removeFromParent();child.destroy();}}
+}

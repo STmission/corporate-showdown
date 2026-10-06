@@ -1,0 +1,197 @@
+{
+  "sourceReload": true,
+  "actualGlbImport": true,
+  "bones": 53,
+  "poses": [
+    {
+      "clip": "Weapon_PistolHold",
+      "frame": 0,
+      "positionErrorsMetres": {
+        "hand_r": 3.3618552007313007e-07,
+        "hand_l": 2.9373152163358714e-07,
+        "head": 2.8932821510654155e-07,
+        "foot_r": 6.141223256909959e-07,
+        "foot_l": 5.094753731313891e-07
+      }
+    },
+    {
+      "clip": "Weapon_PistolHold",
+      "frame": 3,
+      "positionErrorsMetres": {
+        "hand_r": 3.3618552007313007e-07,
+        "hand_l": 2.9373152163358714e-07,
+        "head": 2.8932821510654155e-07,
+        "foot_r": 6.141223256909959e-07,
+        "foot_l": 5.094753731313891e-07
+      }
+    },
+    {
+      "clip": "Weapon_PistolHold",
+      "frame": 6,
+      "positionErrorsMetres": {
+        "hand_r": 3.3618552007313007e-07,
+        "hand_l": 2.9373152163358714e-07,
+        "head": 2.8932821510654155e-07,
+        "foot_r": 6.141223256909959e-07,
+        "foot_l": 5.094753731313891e-07
+      }
+    },
+    {
+      "clip": "Weapon_PistolHold",
+      "frame": 48,
+      "positionErrorsMetres": {
+        "hand_r": 3.3618552007313007e-07,
+        "hand_l": 2.9373152163358714e-07,
+        "head": 2.8932821510654155e-07,
+        "foot_r": 6.141223256909959e-07,
+        "foot_l": 5.094753731313891e-07
+      }
+    },
+    {
+      "clip": "Weapon_PistolShot",
+      "frame": 0,
+      "positionErrorsMetres": {
+        "hand_r": 3.3618552007313007e-07,
+        "hand_l": 2.9373152163358714e-07,
+        "head": 2.8932821510654155e-07,
+        "foot_r": 6.141223256909959e-07,
+        "foot_l": 5.094753731313891e-07
+      }
+    },
+    {
+      "clip": "Weapon_PistolShot",
+      "frame": 3,
+      "positionErrorsMetres": {
+        "hand_r": 5.251998766832682e-07,
+        "hand_l": 7.279106665672348e-07,
+        "head": 2.8932821510654155e-07,
+        "foot_r": 6.141223256909959e-07,
+        "foot_l": 5.094753731313891e-07
+      }
+    },
+    {
+      "clip": "Weapon_PistolShot",
+      "frame": 6,
+      "positionErrorsMetres": {
+        "hand_r": 3.3618552007313007e-07,
+        "hand_l": 2.9373152163358714e-07,
+        "head": 2.8932821510654155e-07,
+        "foot_r": 6.141223256909959e-07,
+        "foot_l": 5.094753731313891e-07
+      }
+    },
+    {
+      "clip": "Weapon_PistolShot",
+      "frame": 12,
+      "positionErrorsMetres": {
+        "hand_r": 3.3618552007313007e-07,
+        "hand_l": 2.9373152163358714e-07,
+        "head": 2.8932821510654155e-07,
+        "foot_r": 6.141223256909959e-07,
+        "foot_l": 5.094753731313891e-07
+      }
+    },
+    {
+      "clip": "Weapon_RifleHold",
+      "frame": 0,
+      "positionErrorsMetres": {
+        "hand_r": 3.3618552007313007e-07,
+        "hand_l": 5.767287890544632e-07,
+        "head": 2.8932821510654155e-07,
+        "foot_r": 6.141223256909959e-07,
+        "foot_l": 5.094753731313891e-07
+      }
+    },
+    {
+      "clip": "Weapon_RifleHold",
+      "frame": 3,
+      "positionErrorsMetres": {
+        "hand_r": 3.3618552007313007e-07,
+        "hand_l": 5.767287890544632e-07,
+        "head": 2.8932821510654155e-07,
+        "foot_r": 6.141223256909959e-07,
+        "foot_l": 5.094753731313891e-07
+      }
+    },
+    {
+      "clip": "Weapon_RifleHold",
+      "frame": 6,
+      "positionErrorsMetres": {
+        "hand_r": 3.3618552007313007e-07,
+        "hand_l": 5.767287890544632e-07,
+        "head": 2.8932821510654155e-07,
+        "foot_r": 6.141223256909959e-07,
+        "foot_l": 5.094753731313891e-07
+      }
+    },
+    {
+      "clip": "Weapon_RifleHold",
+      "frame": 48,
+      "positionErrorsMetres": {
+        "hand_r": 3.3618552007313007e-07,
+        "hand_l": 5.767287890544632e-07,
+        "head": 2.8932821510654155e-07,
+        "foot_r": 6.141223256909959e-07,
+        "foot_l": 5.094753731313891e-07
+      }
+    },
+    {
+      "clip": "Weapon_RifleShot",
+      "frame": 0,
+      "positionErrorsMetres": {
+        "hand_r": 3.3618552007313007e-07,
+        "hand_l": 5.767287890544632e-07,
+        "head": 2.8932821510654155e-07,
+        "foot_r": 6.141223256909959e-07,
+        "foot_l": 5.094753731313891e-07
+      }
+    },
+    {
+      "clip": "Weapon_RifleShot",
+      "frame": 3,
+      "positionErrorsMetres": {
+        "hand_r": 5.251998766832682e-07,
+        "hand_l": 4.824656013358035e-07,
+        "head": 2.8932821510654155e-07,
+        "foot_r": 6.141223256909959e-07,
+        "foot_l": 5.094753731313891e-07
+      }
+    },
+    {
+      "clip": "Weapon_RifleShot",
+      "frame": 6,
+      "positionErrorsMetres": {
+        "hand_r": 3.3618552007313007e-07,
+        "hand_l": 5.767287890544632e-07,
+        "head": 2.8932821510654155e-07,
+        "foot_r": 6.141223256909959e-07,
+        "foot_l": 5.094753731313891e-07
+      }
+    },
+    {
+      "clip": "Weapon_RifleShot",
+      "frame": 12,
+      "positionErrorsMetres": {
+        "hand_r": 3.3618552007313007e-07,
+        "hand_l": 5.767287890544632e-07,
+        "head": 2.8932821510654155e-07,
+        "foot_r": 6.141223256909959e-07,
+        "foot_l": 5.094753731313891e-07
+      }
+    }
+  ],
+  "maximumPositionErrorMetres": 7.279106665672348e-07,
+  "renders": [
+    "pistol-hold-source.png",
+    "rifle-hold-source.png"
+  ],
+  "runtimeIntegrated": false,
+  "validatedArtifactSHA256": {
+    "weapon-pose-pilot.blend": "93f1e8d980c3fa6e3690614ccba31a42fe3acbc5074da1e719b225e6838c0b77",
+    "workplace-weapon-poses.glb": "a086c55f58de3ff54613f7b445d3508d613a6442deb35f9d9c98cd4c1d528fca",
+    "manifest.json": "a3f0ad7b8f762064e2295ded0d0be0b650a3262123382d3358b2c9abfc9ba50f",
+    "pistol-hold-source.png": "6afeeda8fda6db053bf19ba1b83b5574941406d911e49986099f4f1f48bb1a7a",
+    "rifle-hold-source.png": "00b2b020fff490ba9b50a5afe4fbdb8edfe6e754efe2c345027a034eb3b91637"
+  },
+  "validatorSHA256": "6b191736d0346c1374d37557318b27541f6256745cc50dc23a6f0e4b6a18e631"
+}

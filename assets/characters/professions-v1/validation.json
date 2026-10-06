@@ -1,0 +1,41 @@
+{
+  "sourceReload": true,
+  "sourceMeshes": 15,
+  "bones": 53,
+  "animations": [
+    "female_doctor_Idle",
+    "female_doctor_Walk",
+    "female_doctor_Run",
+    "female_doctor_Attack",
+    "female_doctor_Hit",
+    "female_doctor_Down",
+    "female_doctor_Rescue",
+    "female_doctor_Cast"
+  ],
+  "embeddedTextures": 8,
+  "gltfReimport": true,
+  "poses": [
+    {
+      "clip": "Idle",
+      "frame": 1,
+      "height": 1.6799789983779192,
+      "attachmentVertices": 1503
+    },
+    {
+      "clip": "Walk",
+      "frame": 10,
+      "height": 1.679942793911323,
+      "attachmentVertices": 1503
+    },
+    {
+      "clip": "Attack",
+      "frame": 7,
+      "height": 1.6799991447478533,
+      "attachmentVertices": 1503
+    }
+  ],
+  "blendSHA256": "4676188959f7a1876fdd86ee6065cf7a3ea0d7d2fa30a89fcb944d379adef269",
+  "glbSHA256": "b908e8662d660c091d2942221d8ec0f164e3fc1649dc670146eba71703e7a059",
+  "scope": "actual source reload, skin-weight checks, GLB import and three posed render checks; not final art or Cocos/device acceptance",
+  "status": "passed"
+}

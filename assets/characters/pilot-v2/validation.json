@@ -1,0 +1,28 @@
+{
+  "sourceReload": true,
+  "sourceBones": 53,
+  "sourceMeshes": 9,
+  "sourceClips": 9,
+  "gltfJoints": 53,
+  "gltfAnimations": [
+    "male_programmer_Idle",
+    "male_programmer_Walk",
+    "male_programmer_Run",
+    "male_programmer_Attack",
+    "male_programmer_Hit",
+    "male_programmer_Down",
+    "male_programmer_Rescue",
+    "male_programmer_Cast",
+    "male_programmer_Talk"
+  ],
+  "gltfEyeAlpha": "BLEND",
+  "gltfImportedMeshes": 9,
+  "gltfImportedBones": 53,
+  "importerViewportHelpersExcluded": [
+    "棱角球"
+  ],
+  "gltfRender": "portrait-glb.png",
+  "blendSHA256": "71455ca28196b530cf5624c08975b269848bee6f5fd732b9320d4738fd9cda45",
+  "glbSHA256": "ed3ed53e68bd2254097c5d5c0955aed506ac0318a910bc6b59912c87d1646fae",
+  "scope": "Blender source reload and actual GLB reimport/render; no Cocos/device acceptance"
+}

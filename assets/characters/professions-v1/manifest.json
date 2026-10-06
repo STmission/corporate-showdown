@@ -1,0 +1,46 @@
+{
+  "id": "female_doctor",
+  "source": "assets/characters/library-v1/female_ecommerce.blend",
+  "sourceSHA256": "c0a4b553a646ad410318116f2494274f1efefaee0bb5a3e841aaa7eeb41b9b1e",
+  "scriptSHA256": "87e8d785ab167bdf05c7d56a5ec167f47a1eeb4573ca250c9c5ca14dd48a2f2c",
+  "blend": "assets/characters/professions-v1/female_doctor.blend",
+  "blendSHA256": "4676188959f7a1876fdd86ee6065cf7a3ea0d7d2fa30a89fcb944d379adef269",
+  "glb": "assets/characters/professions-v1/female_doctor.glb",
+  "glbSHA256": "b908e8662d660c091d2942221d8ec0f164e3fc1649dc670146eba71703e7a059",
+  "bones": 53,
+  "meshes": 15,
+  "clips": [
+    "female_doctor_Idle",
+    "female_doctor_Walk",
+    "female_doctor_Run",
+    "female_doctor_Attack",
+    "female_doctor_Hit",
+    "female_doctor_Down",
+    "female_doctor_Rescue",
+    "female_doctor_Cast"
+  ],
+  "extendedHemVertices": 599,
+  "newAttachments": [
+    "Doctor_Stethoscope_Tubing",
+    "Doctor_Chestpiece_Link",
+    "Doctor_Chestpiece",
+    "Doctor_Chest_Pocket",
+    "Doctor_Pocket_Seam",
+    "Doctor_ID_Badge"
+  ],
+  "status": "source reload, actual GLB Idle/Walk/Attack reimport and renders visually reviewed; Web studio preview validated",
+  "limitations": [
+    "Original v0.9 face mesh and eight animations retained",
+    "Female costume pilot only",
+    "No facial expressions, lip sync, medical gestures or final realistic art acceptance"
+  ],
+  "visualReview": {
+    "source": "doctor-source.png",
+    "glb": [
+      "doctor-glb-idle.png",
+      "doctor-glb-walk.png",
+      "doctor-glb-attack.png"
+    ],
+    "result": "Ivory coat, teal inner shirt, dark hair, pocket, badge and stethoscope visible; no obvious accessory separation in these three views; final face and gesture quality unfinished"
+  }
+}

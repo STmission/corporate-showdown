@@ -1,0 +1,181 @@
+{
+  "scope": "eight actual source reloads and GLB reimports; bounds/axis/scale consistency, no Cocos or device art acceptance",
+  "weapons": [
+    {
+      "id": "pistol",
+      "sourceMeshes": 10,
+      "importedMeshes": 10,
+      "boundsMeters": [
+        [
+          -0.11500000208616257,
+          0.2800000011920929
+        ],
+        [
+          -0.03849999979138374,
+          0.02800000086426735
+        ],
+        [
+          -0.2253449410200119,
+          0.11800000071525574
+        ]
+      ],
+      "boundsError": 0.0,
+      "sourceReload": true,
+      "gltfReimport": true
+    },
+    {
+      "id": "smg",
+      "sourceMeshes": 20,
+      "importedMeshes": 20,
+      "boundsMeters": [
+        [
+          -0.42249998450279236,
+          0.48500001430511475
+        ],
+        [
+          -0.04100000113248825,
+          0.04100000113248825
+        ],
+        [
+          -0.28560084104537964,
+          0.12800000607967377
+        ]
+      ],
+      "boundsError": 0.0,
+      "sourceReload": true,
+      "gltfReimport": true
+    },
+    {
+      "id": "rifle",
+      "sourceMeshes": 20,
+      "importedMeshes": 20,
+      "boundsMeters": [
+        [
+          -0.4724999964237213,
+          0.5350000262260437
+        ],
+        [
+          -0.04100000113248825,
+          0.04100000113248825
+        ],
+        [
+          -0.2758193612098694,
+          0.12800000607967377
+        ]
+      ],
+      "boundsError": 5.960464477539063e-08,
+      "sourceReload": true,
+      "gltfReimport": true
+    },
+    {
+      "id": "sniper",
+      "sourceMeshes": 21,
+      "importedMeshes": 21,
+      "boundsMeters": [
+        [
+          -0.4724999964237213,
+          0.7150000333786011
+        ],
+        [
+          -0.04100000113248825,
+          0.04100000113248825
+        ],
+        [
+          -0.2758193612098694,
+          0.18700002133846283
+        ]
+      ],
+      "boundsError": 5.960464477539063e-08,
+      "sourceReload": true,
+      "gltfReimport": true
+    },
+    {
+      "id": "shotgun",
+      "sourceMeshes": 20,
+      "importedMeshes": 20,
+      "boundsMeters": [
+        [
+          -0.4724999964237213,
+          0.675000011920929
+        ],
+        [
+          -0.04100000113248825,
+          0.04100000113248825
+        ],
+        [
+          -0.2253449410200119,
+          0.12800000607967377
+        ]
+      ],
+      "boundsError": 5.960464477539063e-08,
+      "sourceReload": true,
+      "gltfReimport": true
+    },
+    {
+      "id": "lmg",
+      "sourceMeshes": 22,
+      "importedMeshes": 22,
+      "boundsMeters": [
+        [
+          -0.4724999964237213,
+          0.6350000500679016
+        ],
+        [
+          -0.06700000166893005,
+          0.06700000166893005
+        ],
+        [
+          -0.24500000476837158,
+          0.12800000607967377
+        ]
+      ],
+      "boundsError": 5.960464477539063e-08,
+      "sourceReload": true,
+      "gltfReimport": true
+    },
+    {
+      "id": "hammer",
+      "sourceMeshes": 3,
+      "importedMeshes": 3,
+      "boundsMeters": [
+        [
+          -0.11500000208616257,
+          0.16250000894069672
+        ],
+        [
+          -0.054999999701976776,
+          0.054999999701976776
+        ],
+        [
+          -0.4699999988079071,
+          0.11000000685453415
+        ]
+      ],
+      "boundsError": 7.450580596923828e-09,
+      "sourceReload": true,
+      "gltfReimport": true
+    },
+    {
+      "id": "scissors",
+      "sourceMeshes": 5,
+      "importedMeshes": 5,
+      "boundsMeters": [
+        [
+          -0.20499999821186066,
+          0.26359865069389343
+        ],
+        [
+          -0.020000005140900612,
+          0.020000005140900612
+        ],
+        [
+          -0.09100000560283661,
+          0.09100000560283661
+        ]
+      ],
+      "boundsError": 3.725290298461914e-09,
+      "sourceReload": true,
+      "gltfReimport": true
+    }
+  ]
+}

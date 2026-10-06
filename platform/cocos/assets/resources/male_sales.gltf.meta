@@ -1,0 +1,1331 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79",
+  "files": [
+    "__original-animation-0.bin",
+    "__original-animation-1.bin",
+    "__original-animation-10.bin",
+    "__original-animation-11.bin",
+    "__original-animation-12.bin",
+    "__original-animation-13.bin",
+    "__original-animation-14.bin",
+    "__original-animation-15.bin",
+    "__original-animation-16.bin",
+    "__original-animation-2.bin",
+    "__original-animation-3.bin",
+    "__original-animation-4.bin",
+    "__original-animation-5.bin",
+    "__original-animation-6.bin",
+    "__original-animation-7.bin",
+    "__original-animation-8.bin",
+    "__original-animation-9.bin"
+  ],
+  "subMetas": {
+    "12905": {
+      "importer": "gltf-mesh",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@12905",
+      "displayName": "",
+      "id": "12905",
+      "name": "high-poly.002.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 2040
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "20527": {
+      "importer": "gltf-animation",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@20527",
+      "displayName": "",
+      "id": "20527",
+      "name": "male_sales_Run.animation",
+      "userData": {
+        "gltfIndex": 2,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.75
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "31946": {
+      "importer": "gltf-material",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@31946",
+      "displayName": "",
+      "id": "31946",
+      "name": "male_sales_Body.shoes04.material",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "50743": {
+      "importer": "texture",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@50743",
+      "displayName": "",
+      "id": "50743",
+      "name": "UnnamedTexture-5.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/dc3d3c294ba5bf4a47a7840172154ce7ab587ff0737ace0712c4cc310089c232.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "94909": {
+      "importer": "gltf-animation",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@94909",
+      "displayName": "",
+      "id": "94909",
+      "name": "male_sales_Rescue.animation",
+      "userData": {
+        "gltfIndex": 6,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "89db9": {
+      "importer": "gltf-mesh",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@89db9",
+      "displayName": "",
+      "id": "89db9",
+      "name": "base.002.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 15240
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a202": {
+      "importer": "gltf-mesh",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@7a202",
+      "displayName": "",
+      "id": "7a202",
+      "name": "eyebrow001.002.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 192
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4e09d": {
+      "importer": "gltf-mesh",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@4e09d",
+      "displayName": "",
+      "id": "4e09d",
+      "name": "eyelashes01.002.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 368
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b8af7": {
+      "importer": "gltf-mesh",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@b8af7",
+      "displayName": "",
+      "id": "b8af7",
+      "name": "shoes04.mesh",
+      "userData": {
+        "gltfIndex": 4,
+        "triangleCount": 3320
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2a319": {
+      "importer": "gltf-mesh",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@2a319",
+      "displayName": "",
+      "id": "2a319",
+      "name": "short04.mesh",
+      "userData": {
+        "gltfIndex": 5,
+        "triangleCount": 1050
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b6730": {
+      "importer": "gltf-mesh",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@b6730",
+      "displayName": "",
+      "id": "b6730",
+      "name": "teeth_base.002.mesh",
+      "userData": {
+        "gltfIndex": 6,
+        "triangleCount": 7120
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1b579": {
+      "importer": "gltf-mesh",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@1b579",
+      "displayName": "",
+      "id": "1b579",
+      "name": "jacket_tie_pants.mesh",
+      "userData": {
+        "gltfIndex": 7,
+        "triangleCount": 19202
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a6ba": {
+      "importer": "gltf-mesh",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@7a6ba",
+      "displayName": "",
+      "id": "7a6ba",
+      "name": "tongue01.002.mesh",
+      "userData": {
+        "gltfIndex": 8,
+        "triangleCount": 448
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "199ea": {
+      "importer": "gltf-animation",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@199ea",
+      "displayName": "",
+      "id": "199ea",
+      "name": "male_sales_Idle.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "ab79b": {
+      "importer": "gltf-animation",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@ab79b",
+      "displayName": "",
+      "id": "ab79b",
+      "name": "male_sales_Walk.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "3a61e": {
+      "importer": "gltf-animation",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@3a61e",
+      "displayName": "",
+      "id": "3a61e",
+      "name": "male_sales_Attack.animation",
+      "userData": {
+        "gltfIndex": 3,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "b73e7": {
+      "importer": "gltf-animation",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@b73e7",
+      "displayName": "",
+      "id": "b73e7",
+      "name": "male_sales_Hit.animation",
+      "userData": {
+        "gltfIndex": 4,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.375
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "34fa2": {
+      "importer": "gltf-animation",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@34fa2",
+      "displayName": "",
+      "id": "34fa2",
+      "name": "male_sales_Down.animation",
+      "userData": {
+        "gltfIndex": 5,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.75
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "494da": {
+      "importer": "gltf-animation",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@494da",
+      "displayName": "",
+      "id": "494da",
+      "name": "male_sales_Cast.animation",
+      "userData": {
+        "gltfIndex": 7,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "09775": {
+      "importer": "gltf-animation",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@09775",
+      "displayName": "",
+      "id": "09775",
+      "name": "male_sales_PistolHold.animation",
+      "userData": {
+        "gltfIndex": 8,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "e4d21": {
+      "importer": "gltf-animation",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@e4d21",
+      "displayName": "",
+      "id": "e4d21",
+      "name": "male_sales_PistolShot.animation",
+      "userData": {
+        "gltfIndex": 9,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "5b533": {
+      "importer": "gltf-animation",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@5b533",
+      "displayName": "",
+      "id": "5b533",
+      "name": "male_sales_PistolWalk.animation",
+      "userData": {
+        "gltfIndex": 10,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "2fdbb": {
+      "importer": "gltf-animation",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@2fdbb",
+      "displayName": "",
+      "id": "2fdbb",
+      "name": "male_sales_PistolRun.animation",
+      "userData": {
+        "gltfIndex": 11,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.75
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "a3022": {
+      "importer": "gltf-animation",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@a3022",
+      "displayName": "",
+      "id": "a3022",
+      "name": "male_sales_RifleHold.animation",
+      "userData": {
+        "gltfIndex": 12,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "99e6e": {
+      "importer": "gltf-animation",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@99e6e",
+      "displayName": "",
+      "id": "99e6e",
+      "name": "male_sales_RifleShot.animation",
+      "userData": {
+        "gltfIndex": 13,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "e5c2c": {
+      "importer": "gltf-animation",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@e5c2c",
+      "displayName": "",
+      "id": "e5c2c",
+      "name": "male_sales_RifleWalk.animation",
+      "userData": {
+        "gltfIndex": 14,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "aeecf": {
+      "importer": "gltf-animation",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@aeecf",
+      "displayName": "",
+      "id": "aeecf",
+      "name": "male_sales_RifleRun.animation",
+      "userData": {
+        "gltfIndex": 15,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.75
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "597a7": {
+      "importer": "gltf-animation",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@597a7",
+      "displayName": "",
+      "id": "597a7",
+      "name": "male_sales_Talk.animation",
+      "userData": {
+        "gltfIndex": 16,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "efbec": {
+      "importer": "gltf-skeleton",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@efbec",
+      "displayName": "",
+      "id": "efbec",
+      "name": "male_sales_Rig.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 53
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3effa": {
+      "importer": "texture",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@3effa",
+      "displayName": "",
+      "id": "3effa",
+      "name": "UnnamedTexture-0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/f50016a5507fc687dc8df06599c8ea48de950cd185de33a71cafc1319ddab4d5.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "221a5": {
+      "importer": "texture",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@221a5",
+      "displayName": "",
+      "id": "221a5",
+      "name": "UnnamedTexture-1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/9940f7d0b1b223709a19b05156ba6f6e9e4dbdbced02d7574f4d51d72c58967b.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0089c": {
+      "importer": "texture",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@0089c",
+      "displayName": "",
+      "id": "0089c",
+      "name": "UnnamedTexture-2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/4b69c0fff2648874460e9caf80c31413c444218a5c50afebc425aeaa65484a35.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9b633": {
+      "importer": "texture",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@9b633",
+      "displayName": "",
+      "id": "9b633",
+      "name": "UnnamedTexture-3.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/4659691c7295ad6206c78b003e5fd0e5f91dcd53032fa914a229bb48cabe424b.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9b782": {
+      "importer": "texture",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@9b782",
+      "displayName": "",
+      "id": "9b782",
+      "name": "UnnamedTexture-4.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/a9bfd7223e98b8f93100e89596135e3a94e6044f9db11b4d23cec625c37a4599.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "99ea5": {
+      "importer": "texture",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@99ea5",
+      "displayName": "",
+      "id": "99ea5",
+      "name": "UnnamedTexture-6.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/b715dc38810ea87484cbebd4f0d988b56461a39858bfaddd38adad07fa6158ee.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "006bd": {
+      "importer": "texture",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@006bd",
+      "displayName": "",
+      "id": "006bd",
+      "name": "UnnamedTexture-7.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/d0afb57869c6fbb56b98f5efc4aec629ee7593e70d8dd2bfb9de923acfb65f43.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "531b0": {
+      "importer": "texture",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@531b0",
+      "displayName": "",
+      "id": "531b0",
+      "name": "UnnamedTexture-8.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/27d98ecf5500f89d1bf363510def211e9e8c74f4ecc44daad7a7916e32dfc250.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9c3d2": {
+      "importer": "texture",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@9c3d2",
+      "displayName": "",
+      "id": "9c3d2",
+      "name": "UnnamedTexture-9.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/3150be398e48e8ba1feac164c3143c16c0b2e959d9ffb6155f0171f59cfb4ea9.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "09496": {
+      "importer": "gltf-material",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@09496",
+      "displayName": "",
+      "id": "09496",
+      "name": "male_sales_Body.body.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5d5aa": {
+      "importer": "gltf-material",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@5d5aa",
+      "displayName": "",
+      "id": "5d5aa",
+      "name": "male_sales_Body.eyebrow001.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8c45b": {
+      "importer": "gltf-material",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@8c45b",
+      "displayName": "",
+      "id": "8c45b",
+      "name": "male_sales_Body.eyelashes01.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "294de": {
+      "importer": "gltf-material",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@294de",
+      "displayName": "",
+      "id": "294de",
+      "name": "male_sales_Body.high-poly.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f1fdb": {
+      "importer": "gltf-material",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@f1fdb",
+      "displayName": "",
+      "id": "f1fdb",
+      "name": "male_sales_Body.short04.material",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8fe3b": {
+      "importer": "gltf-material",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@8fe3b",
+      "displayName": "",
+      "id": "8fe3b",
+      "name": "male_sales_Body.teeth_base.material",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cb118": {
+      "importer": "gltf-material",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@cb118",
+      "displayName": "",
+      "id": "cb118",
+      "name": "male_sales_Body.toigo_male_suit_tie_and_jacket.material",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "001f8": {
+      "importer": "gltf-material",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@001f8",
+      "displayName": "",
+      "id": "001f8",
+      "name": "male_sales_Body.tongue01.material",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4dc3d": {
+      "importer": "gltf-scene",
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@4dc3d",
+      "displayName": "",
+      "id": "4dc3d",
+      "name": "male_sales.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "young_lightskinned_male_diffuse3",
+        "uri": "db://assets/resources/textures/f50016a5507fc687dc8df06599c8ea48de950cd185de33a71cafc1319ddab4d5.png"
+      },
+      {
+        "name": "eyebrow001",
+        "uri": "db://assets/resources/textures/9940f7d0b1b223709a19b05156ba6f6e9e4dbdbced02d7574f4d51d72c58967b.png"
+      },
+      {
+        "name": "eyelashes01",
+        "uri": "db://assets/resources/textures/4b69c0fff2648874460e9caf80c31413c444218a5c50afebc425aeaa65484a35.png"
+      },
+      {
+        "name": "brown_eye",
+        "uri": "db://assets/resources/textures/4659691c7295ad6206c78b003e5fd0e5f91dcd53032fa914a229bb48cabe424b.png"
+      },
+      {
+        "name": "shoes04_normal",
+        "uri": "db://assets/resources/textures/a9bfd7223e98b8f93100e89596135e3a94e6044f9db11b4d23cec625c37a4599.png"
+      },
+      {
+        "name": "shoes04_diffuse",
+        "uri": "db://assets/resources/textures/dc3d3c294ba5bf4a47a7840172154ce7ab587ff0737ace0712c4cc310089c232.png"
+      },
+      {
+        "name": "Sales_Original_DarkHair-short04_diffuse",
+        "uri": "db://assets/resources/textures/b715dc38810ea87484cbebd4f0d988b56461a39858bfaddd38adad07fa6158ee.png"
+      },
+      {
+        "name": "teeth",
+        "uri": "db://assets/resources/textures/d0afb57869c6fbb56b98f5efc4aec629ee7593e70d8dd2bfb9de923acfb65f43.png"
+      },
+      {
+        "name": "Suit-tie-Jacket-diff",
+        "uri": "db://assets/resources/textures/27d98ecf5500f89d1bf363510def211e9e8c74f4ecc44daad7a7916e32dfc250.png"
+      },
+      {
+        "name": "tongue01_diffuse",
+        "uri": "db://assets/resources/textures/3150be398e48e8ba1feac164c3143c16c0b2e959d9ffb6155f0171f59cfb4ea9.png"
+      }
+    ],
+    "animationImportSettings": [
+      {
+        "name": "male_sales_Idle",
+        "duration": 4,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_sales_Idle",
+            "from": 0,
+            "to": 4,
+            "wrapMode": 2,
+            "previousId": "199ea"
+          }
+        ]
+      },
+      {
+        "name": "male_sales_Walk",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_sales_Walk",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2,
+            "previousId": "ab79b"
+          }
+        ]
+      },
+      {
+        "name": "male_sales_Run",
+        "duration": 0.75,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_sales_Run",
+            "from": 0,
+            "to": 0.75,
+            "wrapMode": 2,
+            "previousId": "20527"
+          }
+        ]
+      },
+      {
+        "name": "male_sales_Attack",
+        "duration": 0.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_sales_Attack",
+            "from": 0,
+            "to": 0.5,
+            "wrapMode": 2,
+            "previousId": "3a61e"
+          }
+        ]
+      },
+      {
+        "name": "male_sales_Hit",
+        "duration": 0.375,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_sales_Hit",
+            "from": 0,
+            "to": 0.375,
+            "wrapMode": 2,
+            "previousId": "b73e7"
+          }
+        ]
+      },
+      {
+        "name": "male_sales_Down",
+        "duration": 0.75,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_sales_Down",
+            "from": 0,
+            "to": 0.75,
+            "wrapMode": 2,
+            "previousId": "34fa2"
+          }
+        ]
+      },
+      {
+        "name": "male_sales_Rescue",
+        "duration": 2,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_sales_Rescue",
+            "from": 0,
+            "to": 2,
+            "wrapMode": 2,
+            "previousId": "94909"
+          }
+        ]
+      },
+      {
+        "name": "male_sales_Cast",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_sales_Cast",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2,
+            "previousId": "494da"
+          }
+        ]
+      },
+      {
+        "name": "male_sales_PistolHold",
+        "duration": 2,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_sales_PistolHold",
+            "from": 0,
+            "to": 2,
+            "wrapMode": 2,
+            "previousId": "09775"
+          }
+        ]
+      },
+      {
+        "name": "male_sales_PistolShot",
+        "duration": 0.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_sales_PistolShot",
+            "from": 0,
+            "to": 0.5,
+            "wrapMode": 2,
+            "previousId": "e4d21"
+          }
+        ]
+      },
+      {
+        "name": "male_sales_PistolWalk",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_sales_PistolWalk",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2,
+            "previousId": "5b533"
+          }
+        ]
+      },
+      {
+        "name": "male_sales_PistolRun",
+        "duration": 0.75,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_sales_PistolRun",
+            "from": 0,
+            "to": 0.75,
+            "wrapMode": 2,
+            "previousId": "2fdbb"
+          }
+        ]
+      },
+      {
+        "name": "male_sales_RifleHold",
+        "duration": 2,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_sales_RifleHold",
+            "from": 0,
+            "to": 2,
+            "wrapMode": 2,
+            "previousId": "a3022"
+          }
+        ]
+      },
+      {
+        "name": "male_sales_RifleShot",
+        "duration": 0.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_sales_RifleShot",
+            "from": 0,
+            "to": 0.5,
+            "wrapMode": 2,
+            "previousId": "99e6e"
+          }
+        ]
+      },
+      {
+        "name": "male_sales_RifleWalk",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_sales_RifleWalk",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2,
+            "previousId": "e5c2c"
+          }
+        ]
+      },
+      {
+        "name": "male_sales_RifleRun",
+        "duration": 0.75,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_sales_RifleRun",
+            "from": 0,
+            "to": 0.75,
+            "wrapMode": 2,
+            "previousId": "aeecf"
+          }
+        ]
+      },
+      {
+        "name": "male_sales_Talk",
+        "duration": 4,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "male_sales_Talk",
+            "from": 0,
+            "to": 4,
+            "wrapMode": 2,
+            "previousId": "597a7"
+          }
+        ]
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@89db9",
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@7a202",
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@4e09d",
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@12905",
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@b8af7",
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@2a319",
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@b6730",
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@1b579",
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@7a6ba"
+      ],
+      "skeletons": [
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@efbec"
+      ],
+      "textures": [
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@3effa",
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@221a5",
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@0089c",
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@9b633",
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@9b782",
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@50743",
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@99ea5",
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@006bd",
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@531b0",
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@9c3d2"
+      ],
+      "materials": [
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@09496",
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@5d5aa",
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@8c45b",
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@294de",
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@31946",
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@f1fdb",
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@8fe3b",
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@cb118",
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@001f8"
+      ],
+      "scenes": [
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@4dc3d"
+      ]
+    }
+  }
+}

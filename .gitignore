@@ -1,0 +1,27 @@
+node_modules/
+dist/
+*.blend1
+*.blend2
+.DS_Store
+*.log
+.env
+artifacts/
+__pycache__/
+*.pyc
+.animation-staging/
+# Cocos generated cache/builds; editable project/metadata remain tracked.
+platform/cocos/library/
+platform/cocos/temp/
+platform/cocos/local/
+platform/cocos/profiles/
+platform/cocos/build/
+platform/cocos/native/engine/common/localCfg.cmake
+
+# Python tool bytecode
+__pycache__/
+
+# Temporary platform derivative probes
+.platform-staging/
+
+# Intermediate environment extraction, promote validated versions explicitly.
+assets/environment-modules/staging/

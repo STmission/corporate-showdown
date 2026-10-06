@@ -1,0 +1,1474 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69",
+  "files": [
+    "__original-animation-0.bin",
+    "__original-animation-1.bin",
+    "__original-animation-10.bin",
+    "__original-animation-11.bin",
+    "__original-animation-12.bin",
+    "__original-animation-13.bin",
+    "__original-animation-14.bin",
+    "__original-animation-15.bin",
+    "__original-animation-16.bin",
+    "__original-animation-2.bin",
+    "__original-animation-3.bin",
+    "__original-animation-4.bin",
+    "__original-animation-5.bin",
+    "__original-animation-6.bin",
+    "__original-animation-7.bin",
+    "__original-animation-8.bin",
+    "__original-animation-9.bin"
+  ],
+  "subMetas": {
+    "11055": {
+      "importer": "gltf-mesh",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@11055",
+      "displayName": "",
+      "id": "11055",
+      "name": "teeth_base.005.mesh",
+      "userData": {
+        "gltfIndex": 12,
+        "triangleCount": 7120
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48866": {
+      "importer": "gltf-animation",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@48866",
+      "displayName": "",
+      "id": "48866",
+      "name": "female_doctor_Cast.animation",
+      "userData": {
+        "gltfIndex": 7,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "50743": {
+      "importer": "texture",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@50743",
+      "displayName": "",
+      "id": "50743",
+      "name": "UnnamedTexture-5.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/7fe5ea2600f6578cdf017da3392ae13aedabea8e8cc1dd6302a8f57e8fb7e5af.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "74296": {
+      "importer": "gltf-animation",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@74296",
+      "displayName": "",
+      "id": "74296",
+      "name": "female_doctor_RifleShot.animation",
+      "userData": {
+        "gltfIndex": 13,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "83516": {
+      "importer": "gltf-skeleton",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@83516",
+      "displayName": "",
+      "id": "83516",
+      "name": "female_doctor_Rig.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 53
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b85d1": {
+      "importer": "gltf-mesh",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@b85d1",
+      "displayName": "",
+      "id": "b85d1",
+      "name": "Doctor_Chest_Pocket.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 4
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c244a": {
+      "importer": "gltf-mesh",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@c244a",
+      "displayName": "",
+      "id": "c244a",
+      "name": "Cylinder.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 124
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "606e9": {
+      "importer": "gltf-mesh",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@606e9",
+      "displayName": "",
+      "id": "606e9",
+      "name": "Doctor_Chestpiece_Link.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 480
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2f6d1": {
+      "importer": "gltf-mesh",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@2f6d1",
+      "displayName": "",
+      "id": "2f6d1",
+      "name": "Cube.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 12
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8914d": {
+      "importer": "gltf-mesh",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@8914d",
+      "displayName": "",
+      "id": "8914d",
+      "name": "Doctor_Pocket_Seam.mesh",
+      "userData": {
+        "gltfIndex": 4,
+        "triangleCount": 480
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3f299": {
+      "importer": "gltf-mesh",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@3f299",
+      "displayName": "",
+      "id": "3f299",
+      "name": "Doctor_Stethoscope_Tubing.mesh",
+      "userData": {
+        "gltfIndex": 5,
+        "triangleCount": 1440
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "34ec0": {
+      "importer": "gltf-mesh",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@34ec0",
+      "displayName": "",
+      "id": "34ec0",
+      "name": "bob01.mesh",
+      "userData": {
+        "gltfIndex": 6,
+        "triangleCount": 8474
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "555bd": {
+      "importer": "gltf-mesh",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@555bd",
+      "displayName": "",
+      "id": "555bd",
+      "name": "base.005.mesh",
+      "userData": {
+        "gltfIndex": 7,
+        "triangleCount": 15000
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a85cd": {
+      "importer": "gltf-mesh",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@a85cd",
+      "displayName": "",
+      "id": "a85cd",
+      "name": "eyebrow001.005.mesh",
+      "userData": {
+        "gltfIndex": 8,
+        "triangleCount": 192
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3fef4": {
+      "importer": "gltf-mesh",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@3fef4",
+      "displayName": "",
+      "id": "3fef4",
+      "name": "eyelashes01.005.mesh",
+      "userData": {
+        "gltfIndex": 9,
+        "triangleCount": 368
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "307ac": {
+      "importer": "gltf-mesh",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@307ac",
+      "displayName": "",
+      "id": "307ac",
+      "name": "high-poly.005.mesh",
+      "userData": {
+        "gltfIndex": 10,
+        "triangleCount": 2040
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0341c": {
+      "importer": "gltf-mesh",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@0341c",
+      "displayName": "",
+      "id": "0341c",
+      "name": "shoes05.004.mesh",
+      "userData": {
+        "gltfIndex": 11,
+        "triangleCount": 3064
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a8727": {
+      "importer": "gltf-mesh",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@a8727",
+      "displayName": "",
+      "id": "a8727",
+      "name": "fem_suit2.001.mesh",
+      "userData": {
+        "gltfIndex": 13,
+        "triangleCount": 16214
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "16d54": {
+      "importer": "gltf-mesh",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@16d54",
+      "displayName": "",
+      "id": "16d54",
+      "name": "tongue01.005.mesh",
+      "userData": {
+        "gltfIndex": 14,
+        "triangleCount": 448
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "236b2": {
+      "importer": "gltf-animation",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@236b2",
+      "displayName": "",
+      "id": "236b2",
+      "name": "female_doctor_Idle.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "ad589": {
+      "importer": "gltf-animation",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@ad589",
+      "displayName": "",
+      "id": "ad589",
+      "name": "female_doctor_Walk.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "1fb3c": {
+      "importer": "gltf-animation",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@1fb3c",
+      "displayName": "",
+      "id": "1fb3c",
+      "name": "female_doctor_Run.animation",
+      "userData": {
+        "gltfIndex": 2,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.75
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "bc922": {
+      "importer": "gltf-animation",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@bc922",
+      "displayName": "",
+      "id": "bc922",
+      "name": "female_doctor_Attack.animation",
+      "userData": {
+        "gltfIndex": 3,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "3e4e1": {
+      "importer": "gltf-animation",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@3e4e1",
+      "displayName": "",
+      "id": "3e4e1",
+      "name": "female_doctor_Hit.animation",
+      "userData": {
+        "gltfIndex": 4,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.375
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "f719d": {
+      "importer": "gltf-animation",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@f719d",
+      "displayName": "",
+      "id": "f719d",
+      "name": "female_doctor_Down.animation",
+      "userData": {
+        "gltfIndex": 5,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.75
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "7fc28": {
+      "importer": "gltf-animation",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@7fc28",
+      "displayName": "",
+      "id": "7fc28",
+      "name": "female_doctor_Rescue.animation",
+      "userData": {
+        "gltfIndex": 6,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "3e62b": {
+      "importer": "gltf-animation",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@3e62b",
+      "displayName": "",
+      "id": "3e62b",
+      "name": "female_doctor_PistolHold.animation",
+      "userData": {
+        "gltfIndex": 8,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "7a1f8": {
+      "importer": "gltf-animation",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@7a1f8",
+      "displayName": "",
+      "id": "7a1f8",
+      "name": "female_doctor_PistolShot.animation",
+      "userData": {
+        "gltfIndex": 9,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "561e7": {
+      "importer": "gltf-animation",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@561e7",
+      "displayName": "",
+      "id": "561e7",
+      "name": "female_doctor_PistolWalk.animation",
+      "userData": {
+        "gltfIndex": 10,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "90dd4": {
+      "importer": "gltf-animation",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@90dd4",
+      "displayName": "",
+      "id": "90dd4",
+      "name": "female_doctor_PistolRun.animation",
+      "userData": {
+        "gltfIndex": 11,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.75
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "5107d": {
+      "importer": "gltf-animation",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@5107d",
+      "displayName": "",
+      "id": "5107d",
+      "name": "female_doctor_RifleHold.animation",
+      "userData": {
+        "gltfIndex": 12,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "5e90e": {
+      "importer": "gltf-animation",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@5e90e",
+      "displayName": "",
+      "id": "5e90e",
+      "name": "female_doctor_RifleWalk.animation",
+      "userData": {
+        "gltfIndex": 14,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "d338c": {
+      "importer": "gltf-animation",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@d338c",
+      "displayName": "",
+      "id": "d338c",
+      "name": "female_doctor_RifleRun.animation",
+      "userData": {
+        "gltfIndex": 15,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.75
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "ef1df": {
+      "importer": "gltf-animation",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@ef1df",
+      "displayName": "",
+      "id": "ef1df",
+      "name": "female_doctor_Talk.animation",
+      "userData": {
+        "gltfIndex": 16,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "3effa": {
+      "importer": "texture",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@3effa",
+      "displayName": "",
+      "id": "3effa",
+      "name": "UnnamedTexture-0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/00964e1e0ebeca27e6b1ee79aed03f141d9ca397d25fb0e0678c945a49a4616d.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "221a5": {
+      "importer": "texture",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@221a5",
+      "displayName": "",
+      "id": "221a5",
+      "name": "UnnamedTexture-1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0089c": {
+      "importer": "texture",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@0089c",
+      "displayName": "",
+      "id": "0089c",
+      "name": "UnnamedTexture-2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/9940f7d0b1b223709a19b05156ba6f6e9e4dbdbced02d7574f4d51d72c58967b.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9b633": {
+      "importer": "texture",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@9b633",
+      "displayName": "",
+      "id": "9b633",
+      "name": "UnnamedTexture-3.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/4b69c0fff2648874460e9caf80c31413c444218a5c50afebc425aeaa65484a35.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9b782": {
+      "importer": "texture",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@9b782",
+      "displayName": "",
+      "id": "9b782",
+      "name": "UnnamedTexture-4.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/4659691c7295ad6206c78b003e5fd0e5f91dcd53032fa914a229bb48cabe424b.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "99ea5": {
+      "importer": "texture",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@99ea5",
+      "displayName": "",
+      "id": "99ea5",
+      "name": "UnnamedTexture-6.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/d0afb57869c6fbb56b98f5efc4aec629ee7593e70d8dd2bfb9de923acfb65f43.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "006bd": {
+      "importer": "texture",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@006bd",
+      "displayName": "",
+      "id": "006bd",
+      "name": "UnnamedTexture-7.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/3150be398e48e8ba1feac164c3143c16c0b2e959d9ffb6155f0171f59cfb4ea9.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3c5a6": {
+      "importer": "gltf-material",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@3c5a6",
+      "displayName": "",
+      "id": "3c5a6",
+      "name": "Doctor_Coat_OffWhite.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "732fe": {
+      "importer": "gltf-material",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@732fe",
+      "displayName": "",
+      "id": "732fe",
+      "name": "Doctor_Brushed_Steel.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "347cb": {
+      "importer": "gltf-material",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@347cb",
+      "displayName": "",
+      "id": "347cb",
+      "name": "Doctor_Badge_Blue.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "76a62": {
+      "importer": "gltf-material",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@76a62",
+      "displayName": "",
+      "id": "76a62",
+      "name": "Doctor_Stethoscope_Charcoal.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c1474": {
+      "importer": "gltf-material",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@c1474",
+      "displayName": "",
+      "id": "c1474",
+      "name": "female_doctor_Body.bob01.material",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "16f86": {
+      "importer": "gltf-material",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@16f86",
+      "displayName": "",
+      "id": "16f86",
+      "name": "female_doctor_Body.body.material",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ff546": {
+      "importer": "gltf-material",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@ff546",
+      "displayName": "",
+      "id": "ff546",
+      "name": "female_doctor_Body.eyebrow001.material",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "366a6": {
+      "importer": "gltf-material",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@366a6",
+      "displayName": "",
+      "id": "366a6",
+      "name": "female_doctor_Body.eyelashes01.material",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "90a3c": {
+      "importer": "gltf-material",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@90a3c",
+      "displayName": "",
+      "id": "90a3c",
+      "name": "female_doctor_Body.high-poly.material",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d01a4": {
+      "importer": "gltf-material",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@d01a4",
+      "displayName": "",
+      "id": "d01a4",
+      "name": "female_doctor_Body.shoes05.material",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a1c59": {
+      "importer": "gltf-material",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@a1c59",
+      "displayName": "",
+      "id": "a1c59",
+      "name": "female_doctor_Body.teeth_base.material",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2e833": {
+      "importer": "gltf-material",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@2e833",
+      "displayName": "",
+      "id": "2e833",
+      "name": "Doctor_Trousers_Navy.material",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ddc2d": {
+      "importer": "gltf-material",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@ddc2d",
+      "displayName": "",
+      "id": "ddc2d",
+      "name": "Doctor_Inner_Teal.material",
+      "userData": {
+        "gltfIndex": 12
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8dfa3": {
+      "importer": "gltf-material",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@8dfa3",
+      "displayName": "",
+      "id": "8dfa3",
+      "name": "female_doctor_Body.tongue01.material",
+      "userData": {
+        "gltfIndex": 13
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1a0e5": {
+      "importer": "gltf-scene",
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@1a0e5",
+      "displayName": "",
+      "id": "1a0e5",
+      "name": "female_doctor.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Doctor_Original_Dark_Hair-bob01_diffuse",
+        "uri": "db://assets/resources/textures/00964e1e0ebeca27e6b1ee79aed03f141d9ca397d25fb0e0678c945a49a4616d.png"
+      },
+      {
+        "name": "young_lightskinned_female_diffuse3",
+        "uri": "db://assets/resources/textures/1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde.png"
+      },
+      {
+        "name": "eyebrow001",
+        "uri": "db://assets/resources/textures/9940f7d0b1b223709a19b05156ba6f6e9e4dbdbced02d7574f4d51d72c58967b.png"
+      },
+      {
+        "name": "eyelashes01",
+        "uri": "db://assets/resources/textures/4b69c0fff2648874460e9caf80c31413c444218a5c50afebc425aeaa65484a35.png"
+      },
+      {
+        "name": "brown_eye",
+        "uri": "db://assets/resources/textures/4659691c7295ad6206c78b003e5fd0e5f91dcd53032fa914a229bb48cabe424b.png"
+      },
+      {
+        "name": "shoes05_diffuse",
+        "uri": "db://assets/resources/textures/7fe5ea2600f6578cdf017da3392ae13aedabea8e8cc1dd6302a8f57e8fb7e5af.png"
+      },
+      {
+        "name": "teeth",
+        "uri": "db://assets/resources/textures/d0afb57869c6fbb56b98f5efc4aec629ee7593e70d8dd2bfb9de923acfb65f43.png"
+      },
+      {
+        "name": "tongue01_diffuse",
+        "uri": "db://assets/resources/textures/3150be398e48e8ba1feac164c3143c16c0b2e959d9ffb6155f0171f59cfb4ea9.png"
+      }
+    ],
+    "animationImportSettings": [
+      {
+        "name": "female_doctor_Idle",
+        "duration": 4,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_doctor_Idle",
+            "from": 0,
+            "to": 4,
+            "wrapMode": 2,
+            "previousId": "236b2"
+          }
+        ]
+      },
+      {
+        "name": "female_doctor_Walk",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_doctor_Walk",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2,
+            "previousId": "ad589"
+          }
+        ]
+      },
+      {
+        "name": "female_doctor_Run",
+        "duration": 0.75,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_doctor_Run",
+            "from": 0,
+            "to": 0.75,
+            "wrapMode": 2,
+            "previousId": "1fb3c"
+          }
+        ]
+      },
+      {
+        "name": "female_doctor_Attack",
+        "duration": 0.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_doctor_Attack",
+            "from": 0,
+            "to": 0.5,
+            "wrapMode": 2,
+            "previousId": "bc922"
+          }
+        ]
+      },
+      {
+        "name": "female_doctor_Hit",
+        "duration": 0.375,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_doctor_Hit",
+            "from": 0,
+            "to": 0.375,
+            "wrapMode": 2,
+            "previousId": "3e4e1"
+          }
+        ]
+      },
+      {
+        "name": "female_doctor_Down",
+        "duration": 0.75,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_doctor_Down",
+            "from": 0,
+            "to": 0.75,
+            "wrapMode": 2,
+            "previousId": "f719d"
+          }
+        ]
+      },
+      {
+        "name": "female_doctor_Rescue",
+        "duration": 2,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_doctor_Rescue",
+            "from": 0,
+            "to": 2,
+            "wrapMode": 2,
+            "previousId": "7fc28"
+          }
+        ]
+      },
+      {
+        "name": "female_doctor_Cast",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_doctor_Cast",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2,
+            "previousId": "48866"
+          }
+        ]
+      },
+      {
+        "name": "female_doctor_PistolHold",
+        "duration": 2,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_doctor_PistolHold",
+            "from": 0,
+            "to": 2,
+            "wrapMode": 2,
+            "previousId": "3e62b"
+          }
+        ]
+      },
+      {
+        "name": "female_doctor_PistolShot",
+        "duration": 0.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_doctor_PistolShot",
+            "from": 0,
+            "to": 0.5,
+            "wrapMode": 2,
+            "previousId": "7a1f8"
+          }
+        ]
+      },
+      {
+        "name": "female_doctor_PistolWalk",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_doctor_PistolWalk",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2,
+            "previousId": "561e7"
+          }
+        ]
+      },
+      {
+        "name": "female_doctor_PistolRun",
+        "duration": 0.75,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_doctor_PistolRun",
+            "from": 0,
+            "to": 0.75,
+            "wrapMode": 2,
+            "previousId": "90dd4"
+          }
+        ]
+      },
+      {
+        "name": "female_doctor_RifleHold",
+        "duration": 2,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_doctor_RifleHold",
+            "from": 0,
+            "to": 2,
+            "wrapMode": 2,
+            "previousId": "5107d"
+          }
+        ]
+      },
+      {
+        "name": "female_doctor_RifleShot",
+        "duration": 0.5,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_doctor_RifleShot",
+            "from": 0,
+            "to": 0.5,
+            "wrapMode": 2,
+            "previousId": "74296"
+          }
+        ]
+      },
+      {
+        "name": "female_doctor_RifleWalk",
+        "duration": 1,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_doctor_RifleWalk",
+            "from": 0,
+            "to": 1,
+            "wrapMode": 2,
+            "previousId": "5e90e"
+          }
+        ]
+      },
+      {
+        "name": "female_doctor_RifleRun",
+        "duration": 0.75,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_doctor_RifleRun",
+            "from": 0,
+            "to": 0.75,
+            "wrapMode": 2,
+            "previousId": "d338c"
+          }
+        ]
+      },
+      {
+        "name": "female_doctor_Talk",
+        "duration": 4,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_doctor_Talk",
+            "from": 0,
+            "to": 4,
+            "wrapMode": 2,
+            "previousId": "ef1df"
+          }
+        ]
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@b85d1",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@c244a",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@606e9",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@2f6d1",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@8914d",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@3f299",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@34ec0",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@555bd",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@a85cd",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@3fef4",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@307ac",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@0341c",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@11055",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@a8727",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@16d54"
+      ],
+      "skeletons": [
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@83516"
+      ],
+      "textures": [
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@3effa",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@221a5",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@0089c",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@9b633",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@9b782",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@50743",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@99ea5",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@006bd"
+      ],
+      "materials": [
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@3c5a6",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@732fe",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@347cb",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@76a62",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@c1474",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@16f86",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@ff546",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@366a6",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@90a3c",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@d01a4",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@a1c59",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@2e833",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@ddc2d",
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@8dfa3"
+      ],
+      "scenes": [
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@1a0e5"
+      ]
+    }
+  }
+}

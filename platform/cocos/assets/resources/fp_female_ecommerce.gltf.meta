@@ -1,0 +1,845 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54",
+  "files": [
+    "__original-animation-0.bin",
+    "__original-animation-1.bin",
+    "__original-animation-10.bin",
+    "__original-animation-11.bin",
+    "__original-animation-12.bin",
+    "__original-animation-13.bin",
+    "__original-animation-14.bin",
+    "__original-animation-15.bin",
+    "__original-animation-2.bin",
+    "__original-animation-3.bin",
+    "__original-animation-4.bin",
+    "__original-animation-5.bin",
+    "__original-animation-6.bin",
+    "__original-animation-7.bin",
+    "__original-animation-8.bin",
+    "__original-animation-9.bin"
+  ],
+  "subMetas": {
+    "62327": {
+      "importer": "gltf-mesh",
+      "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@62327",
+      "displayName": "",
+      "id": "62327",
+      "name": "fem_suit2.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 1787
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "69367": {
+      "importer": "gltf-animation",
+      "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@69367",
+      "displayName": "",
+      "id": "69367",
+      "name": "female_ecommerce_Rescue.animation",
+      "userData": {
+        "gltfIndex": 9,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.0416667461395264
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "72886": {
+      "importer": "gltf-scene",
+      "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@72886",
+      "displayName": "",
+      "id": "72886",
+      "name": "fp_female_ecommerce.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "555bd": {
+      "importer": "gltf-mesh",
+      "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@555bd",
+      "displayName": "",
+      "id": "555bd",
+      "name": "base.005.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 6392
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7790d": {
+      "importer": "gltf-animation",
+      "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@7790d",
+      "displayName": "",
+      "id": "7790d",
+      "name": "female_ecommerce_RifleRun.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.7916666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "a4008": {
+      "importer": "gltf-animation",
+      "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@a4008",
+      "displayName": "",
+      "id": "a4008",
+      "name": "female_ecommerce_RifleWalk.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.0416666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "1c41a": {
+      "importer": "gltf-animation",
+      "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@1c41a",
+      "displayName": "",
+      "id": "1c41a",
+      "name": "female_ecommerce_RifleShot.animation",
+      "userData": {
+        "gltfIndex": 2,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5416666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "060e3": {
+      "importer": "gltf-animation",
+      "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@060e3",
+      "displayName": "",
+      "id": "060e3",
+      "name": "female_ecommerce_RifleHold.animation",
+      "userData": {
+        "gltfIndex": 3,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.0416667461395264
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "b3cfc": {
+      "importer": "gltf-animation",
+      "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@b3cfc",
+      "displayName": "",
+      "id": "b3cfc",
+      "name": "female_ecommerce_PistolRun.animation",
+      "userData": {
+        "gltfIndex": 4,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.7916666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "054f5": {
+      "importer": "gltf-animation",
+      "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@054f5",
+      "displayName": "",
+      "id": "054f5",
+      "name": "female_ecommerce_PistolWalk.animation",
+      "userData": {
+        "gltfIndex": 5,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.0416666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "8c77e": {
+      "importer": "gltf-animation",
+      "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@8c77e",
+      "displayName": "",
+      "id": "8c77e",
+      "name": "female_ecommerce_PistolShot.animation",
+      "userData": {
+        "gltfIndex": 6,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5416666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "4e3d7": {
+      "importer": "gltf-animation",
+      "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@4e3d7",
+      "displayName": "",
+      "id": "4e3d7",
+      "name": "female_ecommerce_PistolHold.animation",
+      "userData": {
+        "gltfIndex": 7,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.0416667461395264
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "2a12d": {
+      "importer": "gltf-animation",
+      "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@2a12d",
+      "displayName": "",
+      "id": "2a12d",
+      "name": "female_ecommerce_Cast.animation",
+      "userData": {
+        "gltfIndex": 8,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.0416666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "d98a3": {
+      "importer": "gltf-animation",
+      "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@d98a3",
+      "displayName": "",
+      "id": "d98a3",
+      "name": "female_ecommerce_Down.animation",
+      "userData": {
+        "gltfIndex": 10,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.7916666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "a5780": {
+      "importer": "gltf-animation",
+      "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@a5780",
+      "displayName": "",
+      "id": "a5780",
+      "name": "female_ecommerce_Hit.animation",
+      "userData": {
+        "gltfIndex": 11,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.4166666567325592
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "f43e1": {
+      "importer": "gltf-animation",
+      "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@f43e1",
+      "displayName": "",
+      "id": "f43e1",
+      "name": "female_ecommerce_Attack.animation",
+      "userData": {
+        "gltfIndex": 12,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5416666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "9badc": {
+      "importer": "gltf-animation",
+      "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@9badc",
+      "displayName": "",
+      "id": "9badc",
+      "name": "female_ecommerce_Run.animation",
+      "userData": {
+        "gltfIndex": 13,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.7916666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "7ab5c": {
+      "importer": "gltf-animation",
+      "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@7ab5c",
+      "displayName": "",
+      "id": "7ab5c",
+      "name": "female_ecommerce_Walk.animation",
+      "userData": {
+        "gltfIndex": 14,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.0416666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "c05b8": {
+      "importer": "gltf-animation",
+      "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@c05b8",
+      "displayName": "",
+      "id": "c05b8",
+      "name": "female_ecommerce_Idle.animation",
+      "userData": {
+        "gltfIndex": 15,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4.041666507720947
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "9a17b": {
+      "importer": "gltf-skeleton",
+      "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@9a17b",
+      "displayName": "",
+      "id": "9a17b",
+      "name": "female_ecommerce_Rig.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 53
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3effa": {
+      "importer": "texture",
+      "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@3effa",
+      "displayName": "",
+      "id": "3effa",
+      "name": "UnnamedTexture-0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "221a5": {
+      "importer": "texture",
+      "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@221a5",
+      "displayName": "",
+      "id": "221a5",
+      "name": "UnnamedTexture-1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/2ce673245d1fb62b6aec0e785bb498268aaeef25a2576612393cc4ddc7cfc8bd.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0089c": {
+      "importer": "texture",
+      "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@0089c",
+      "displayName": "",
+      "id": "0089c",
+      "name": "UnnamedTexture-2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/b3f0a27b957783696a6b9bed71ba73779831515418a72d3f4680cdc972ce990a.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "61d72": {
+      "importer": "gltf-material",
+      "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@61d72",
+      "displayName": "",
+      "id": "61d72",
+      "name": "female_ecommerce_Body.body.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d5acc": {
+      "importer": "gltf-material",
+      "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@d5acc",
+      "displayName": "",
+      "id": "d5acc",
+      "name": "female_ecommerce_Body.toigo_female_suit_2.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "young_lightskinned_female_diffuse3",
+        "uri": "db://assets/resources/textures/1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde.png"
+      },
+      {
+        "name": "Fsuit2-norm",
+        "uri": "db://assets/resources/textures/2ce673245d1fb62b6aec0e785bb498268aaeef25a2576612393cc4ddc7cfc8bd.png"
+      },
+      {
+        "name": "Fsuit2",
+        "uri": "db://assets/resources/textures/b3f0a27b957783696a6b9bed71ba73779831515418a72d3f4680cdc972ce990a.png"
+      }
+    ],
+    "animationImportSettings": [
+      {
+        "name": "female_ecommerce_RifleRun",
+        "duration": 0.7916666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_ecommerce_RifleRun",
+            "from": 0,
+            "to": 0.7916666865348816,
+            "wrapMode": 2,
+            "previousId": "7790d"
+          }
+        ]
+      },
+      {
+        "name": "female_ecommerce_RifleWalk",
+        "duration": 1.0416666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_ecommerce_RifleWalk",
+            "from": 0,
+            "to": 1.0416666269302368,
+            "wrapMode": 2,
+            "previousId": "a4008"
+          }
+        ]
+      },
+      {
+        "name": "female_ecommerce_RifleShot",
+        "duration": 0.5416666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_ecommerce_RifleShot",
+            "from": 0,
+            "to": 0.5416666865348816,
+            "wrapMode": 2,
+            "previousId": "1c41a"
+          }
+        ]
+      },
+      {
+        "name": "female_ecommerce_RifleHold",
+        "duration": 2.0416667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_ecommerce_RifleHold",
+            "from": 0,
+            "to": 2.0416667461395264,
+            "wrapMode": 2,
+            "previousId": "060e3"
+          }
+        ]
+      },
+      {
+        "name": "female_ecommerce_PistolRun",
+        "duration": 0.7916666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_ecommerce_PistolRun",
+            "from": 0,
+            "to": 0.7916666865348816,
+            "wrapMode": 2,
+            "previousId": "b3cfc"
+          }
+        ]
+      },
+      {
+        "name": "female_ecommerce_PistolWalk",
+        "duration": 1.0416666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_ecommerce_PistolWalk",
+            "from": 0,
+            "to": 1.0416666269302368,
+            "wrapMode": 2,
+            "previousId": "054f5"
+          }
+        ]
+      },
+      {
+        "name": "female_ecommerce_PistolShot",
+        "duration": 0.5416666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_ecommerce_PistolShot",
+            "from": 0,
+            "to": 0.5416666865348816,
+            "wrapMode": 2,
+            "previousId": "8c77e"
+          }
+        ]
+      },
+      {
+        "name": "female_ecommerce_PistolHold",
+        "duration": 2.0416667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_ecommerce_PistolHold",
+            "from": 0,
+            "to": 2.0416667461395264,
+            "wrapMode": 2,
+            "previousId": "4e3d7"
+          }
+        ]
+      },
+      {
+        "name": "female_ecommerce_Cast",
+        "duration": 1.0416666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_ecommerce_Cast",
+            "from": 0,
+            "to": 1.0416666269302368,
+            "wrapMode": 2,
+            "previousId": "2a12d"
+          }
+        ]
+      },
+      {
+        "name": "female_ecommerce_Rescue",
+        "duration": 2.0416667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_ecommerce_Rescue",
+            "from": 0,
+            "to": 2.0416667461395264,
+            "wrapMode": 2,
+            "previousId": "69367"
+          }
+        ]
+      },
+      {
+        "name": "female_ecommerce_Down",
+        "duration": 0.7916666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_ecommerce_Down",
+            "from": 0,
+            "to": 0.7916666865348816,
+            "wrapMode": 2,
+            "previousId": "d98a3"
+          }
+        ]
+      },
+      {
+        "name": "female_ecommerce_Hit",
+        "duration": 0.4166666567325592,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_ecommerce_Hit",
+            "from": 0,
+            "to": 0.4166666567325592,
+            "wrapMode": 2,
+            "previousId": "a5780"
+          }
+        ]
+      },
+      {
+        "name": "female_ecommerce_Attack",
+        "duration": 0.5416666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_ecommerce_Attack",
+            "from": 0,
+            "to": 0.5416666865348816,
+            "wrapMode": 2,
+            "previousId": "f43e1"
+          }
+        ]
+      },
+      {
+        "name": "female_ecommerce_Run",
+        "duration": 0.7916666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_ecommerce_Run",
+            "from": 0,
+            "to": 0.7916666865348816,
+            "wrapMode": 2,
+            "previousId": "9badc"
+          }
+        ]
+      },
+      {
+        "name": "female_ecommerce_Walk",
+        "duration": 1.0416666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_ecommerce_Walk",
+            "from": 0,
+            "to": 1.0416666269302368,
+            "wrapMode": 2,
+            "previousId": "7ab5c"
+          }
+        ]
+      },
+      {
+        "name": "female_ecommerce_Idle",
+        "duration": 4.041666507720947,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_ecommerce_Idle",
+            "from": 0,
+            "to": 4.041666507720947,
+            "wrapMode": 2,
+            "previousId": "c05b8"
+          }
+        ]
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "a23113b1-597a-51c7-ac80-d27d7608dd54@555bd",
+        "a23113b1-597a-51c7-ac80-d27d7608dd54@62327"
+      ],
+      "skeletons": [
+        "a23113b1-597a-51c7-ac80-d27d7608dd54@9a17b"
+      ],
+      "textures": [
+        "a23113b1-597a-51c7-ac80-d27d7608dd54@3effa",
+        "a23113b1-597a-51c7-ac80-d27d7608dd54@221a5",
+        "a23113b1-597a-51c7-ac80-d27d7608dd54@0089c"
+      ],
+      "materials": [
+        "a23113b1-597a-51c7-ac80-d27d7608dd54@61d72",
+        "a23113b1-597a-51c7-ac80-d27d7608dd54@d5acc"
+      ],
+      "scenes": [
+        "a23113b1-597a-51c7-ac80-d27d7608dd54@72886"
+      ]
+    }
+  }
+}

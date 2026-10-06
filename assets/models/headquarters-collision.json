@@ -1,0 +1,3171 @@
+{
+  "revision": "headquarters-v0.8",
+  "walls": [
+    {
+      "id": "facade--30--20",
+      "x": -30,
+      "z": -20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--30-20",
+      "x": -30,
+      "z": 20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--24--20",
+      "x": -24,
+      "z": -20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--24-20",
+      "x": -24,
+      "z": 20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--18--20",
+      "x": -18,
+      "z": -20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--18-20",
+      "x": -18,
+      "z": 20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--12--20",
+      "x": -12,
+      "z": -20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--12-20",
+      "x": -12,
+      "z": 20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--6--20",
+      "x": -6,
+      "z": -20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--6-20",
+      "x": -6,
+      "z": 20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-0--20",
+      "x": 0,
+      "z": -20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-0-20",
+      "x": 0,
+      "z": 20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-6--20",
+      "x": 6,
+      "z": -20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-6-20",
+      "x": 6,
+      "z": 20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-12--20",
+      "x": 12,
+      "z": -20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-12-20",
+      "x": 12,
+      "z": 20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-18--20",
+      "x": 18,
+      "z": -20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-18-20",
+      "x": 18,
+      "z": 20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-24--20",
+      "x": 24,
+      "z": -20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-24-20",
+      "x": 24,
+      "z": 20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-30--20",
+      "x": 30,
+      "z": -20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-30-20",
+      "x": 30,
+      "z": 20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--32--18",
+      "x": -32,
+      "z": -18,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-32--18",
+      "x": 32,
+      "z": -18,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--32--12",
+      "x": -32,
+      "z": -12,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-32--12",
+      "x": 32,
+      "z": -12,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--32--6",
+      "x": -32,
+      "z": -6,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-32--6",
+      "x": 32,
+      "z": -6,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--32-0",
+      "x": -32,
+      "z": 0,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-32-0",
+      "x": 32,
+      "z": 0,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--32-6",
+      "x": -32,
+      "z": 6,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-32-6",
+      "x": 32,
+      "z": 6,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--32-12",
+      "x": -32,
+      "z": 12,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-32-12",
+      "x": 32,
+      "z": 12,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--32-18",
+      "x": -32,
+      "z": 18,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-32-18",
+      "x": 32,
+      "z": 18,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "pantry-side--1",
+      "x": 8,
+      "z": -8,
+      "w": 0.07,
+      "d": 20,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "pantry-side-1",
+      "x": 32,
+      "z": -8,
+      "w": 0.07,
+      "d": 20,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "pantry-front--1",
+      "x": 13.625,
+      "z": -18,
+      "w": 11.25,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "pantry-front-1",
+      "x": 26.375,
+      "z": -18,
+      "w": 11.25,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "pantry-south-0",
+      "x": 9.125,
+      "z": 2,
+      "w": 2.25,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "pantry-south-1",
+      "x": 14,
+      "z": 2,
+      "w": 4.5,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "pantry-south-2",
+      "x": 19.025,
+      "z": 2,
+      "w": 2.549999999999997,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "pantry-south-3",
+      "x": 24.8,
+      "z": 2,
+      "w": 6.600000000000001,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "pantry-south-4",
+      "x": 30.95,
+      "z": 2,
+      "w": 2.1000000000000014,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "chat-side--1",
+      "x": 8,
+      "z": 5,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "chat-side-1",
+      "x": 14,
+      "z": 5,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "talk-side--1",
+      "x": 14,
+      "z": 5,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "talk-side-1",
+      "x": 20,
+      "z": 5,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "phone-side--1",
+      "x": 20,
+      "z": 5,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "phone-side-1",
+      "x": 23,
+      "z": 5,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "rest-side--1",
+      "x": 5,
+      "z": 14,
+      "w": 0.07,
+      "d": 12,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "rest-side-1",
+      "x": 14,
+      "z": 14,
+      "w": 0.07,
+      "d": 12,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "rest-front--1",
+      "x": 6.875,
+      "z": 8,
+      "w": 3.75,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "rest-front-1",
+      "x": 12.125,
+      "z": 8,
+      "w": 3.75,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "cats-side--1",
+      "x": 14,
+      "z": 14,
+      "w": 0.07,
+      "d": 12,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "cats-side-1",
+      "x": 22,
+      "z": 14,
+      "w": 0.07,
+      "d": 12,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "cats-front--1",
+      "x": 15.625,
+      "z": 8,
+      "w": 3.25,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "cats-front-1",
+      "x": 20.375,
+      "z": 8,
+      "w": 3.25,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "meeting-side--1",
+      "x": 22,
+      "z": 14,
+      "w": 0.07,
+      "d": 12,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "meeting-side-1",
+      "x": 32,
+      "z": 14,
+      "w": 0.07,
+      "d": 12,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "meeting-front--1",
+      "x": 24.125,
+      "z": 8,
+      "w": 4.25,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "meeting-front-1",
+      "x": 29.875,
+      "z": 8,
+      "w": 4.25,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "female-outer",
+      "x": -5,
+      "z": 11,
+      "w": 0.12,
+      "d": 10,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "female-front",
+      "x": -3.25,
+      "z": 6,
+      "w": 3.5,
+      "d": 0.12,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "female-back",
+      "x": -3.25,
+      "z": 16,
+      "w": 3.5,
+      "d": 0.12,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "female-entry-0",
+      "x": -1.5,
+      "z": 6.425,
+      "w": 0.12,
+      "d": 0.8499999999999996,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "female-entry-1",
+      "x": -1.5,
+      "z": 12.075,
+      "w": 0.12,
+      "d": 7.85,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "male-outer",
+      "x": 5,
+      "z": 11,
+      "w": 0.12,
+      "d": 10,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "male-front",
+      "x": 3.25,
+      "z": 6,
+      "w": 3.5,
+      "d": 0.12,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "male-back",
+      "x": 3.25,
+      "z": 16,
+      "w": 3.5,
+      "d": 0.12,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "male-entry-0",
+      "x": 1.5,
+      "z": 6.425,
+      "w": 0.12,
+      "d": 0.8499999999999996,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "male-entry-1",
+      "x": 1.5,
+      "z": 12.075,
+      "w": 0.12,
+      "d": 7.85,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "female-shower-outer",
+      "x": -5,
+      "z": 18,
+      "w": 0.12,
+      "d": 4,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "female-shower-front",
+      "x": -3.25,
+      "z": 16,
+      "w": 3.5,
+      "d": 0.12,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "female-shower-back",
+      "x": -3.25,
+      "z": 20,
+      "w": 3.5,
+      "d": 0.12,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "female-shower-entry-0",
+      "x": -1.5,
+      "z": 16.675,
+      "w": 0.12,
+      "d": 1.3500000000000014,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "female-shower-entry-1",
+      "x": -1.5,
+      "z": 19.325,
+      "w": 0.12,
+      "d": 1.3500000000000014,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "male-shower-outer",
+      "x": 5,
+      "z": 18,
+      "w": 0.12,
+      "d": 4,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "male-shower-front",
+      "x": 3.25,
+      "z": 16,
+      "w": 3.5,
+      "d": 0.12,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "male-shower-back",
+      "x": 3.25,
+      "z": 20,
+      "w": 3.5,
+      "d": 0.12,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "male-shower-entry-0",
+      "x": 1.5,
+      "z": 16.675,
+      "w": 0.12,
+      "d": 1.3500000000000014,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "male-shower-entry-1",
+      "x": 1.5,
+      "z": 19.325,
+      "w": 0.12,
+      "d": 1.3500000000000014,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "office0-side--1",
+      "x": -31.5,
+      "z": 17,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office0-side-1",
+      "x": -26.5,
+      "z": 17,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office0-front--1",
+      "x": -30.625,
+      "z": 14,
+      "w": 1.75,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office0-front-1",
+      "x": -27.375,
+      "z": 14,
+      "w": 1.75,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office1-side--1",
+      "x": -25.5,
+      "z": 17,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office1-side-1",
+      "x": -20.5,
+      "z": 17,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office1-front--1",
+      "x": -24.625,
+      "z": 14,
+      "w": 1.75,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office1-front-1",
+      "x": -21.375,
+      "z": 14,
+      "w": 1.75,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office2-side--1",
+      "x": -19.5,
+      "z": 17,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office2-side-1",
+      "x": -14.5,
+      "z": 17,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office2-front--1",
+      "x": -18.625,
+      "z": 14,
+      "w": 1.75,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office2-front-1",
+      "x": -15.375,
+      "z": 14,
+      "w": 1.75,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office3-side--1",
+      "x": -13.5,
+      "z": 17,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office3-side-1",
+      "x": -8.5,
+      "z": 17,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office3-front--1",
+      "x": -12.625,
+      "z": 14,
+      "w": 1.75,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office3-front-1",
+      "x": -9.375,
+      "z": 14,
+      "w": 1.75,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "elevator-core",
+      "x": 0,
+      "z": 2,
+      "w": 7,
+      "d": 0.25,
+      "h": 3.6,
+      "material": "wood"
+    },
+    {
+      "id": "toilet-partition--1-10.2",
+      "x": -3.85,
+      "z": 8.899999999999999,
+      "w": 2.2,
+      "d": 0.08,
+      "h": 2.5,
+      "material": "white"
+    },
+    {
+      "id": "toilet-partition--1-13.8",
+      "x": -3.85,
+      "z": 12.5,
+      "w": 2.2,
+      "d": 0.08,
+      "h": 2.5,
+      "material": "white"
+    },
+    {
+      "id": "privacy-screen--1",
+      "x": -2.5,
+      "z": 8.65,
+      "w": 0.1,
+      "d": 2.5,
+      "h": 2.6,
+      "material": "white"
+    },
+    {
+      "id": "shower-divider--1",
+      "x": -3.7,
+      "z": 18,
+      "w": 1.8,
+      "d": 0.06,
+      "h": 2.4,
+      "material": "glass"
+    },
+    {
+      "id": "toilet-partition-1-10.2",
+      "x": 3.85,
+      "z": 8.899999999999999,
+      "w": 2.2,
+      "d": 0.08,
+      "h": 2.5,
+      "material": "white"
+    },
+    {
+      "id": "toilet-partition-1-13.8",
+      "x": 3.85,
+      "z": 12.5,
+      "w": 2.2,
+      "d": 0.08,
+      "h": 2.5,
+      "material": "white"
+    },
+    {
+      "id": "privacy-screen-1",
+      "x": 2.5,
+      "z": 8.65,
+      "w": 0.1,
+      "d": 2.5,
+      "h": 2.6,
+      "material": "white"
+    },
+    {
+      "id": "shower-divider-1",
+      "x": 3.7,
+      "z": 18,
+      "w": 1.8,
+      "d": 0.06,
+      "h": 2.4,
+      "material": "glass"
+    },
+    {
+      "id": "lobby--5--11",
+      "x": -5,
+      "z": -11,
+      "w": 0.08,
+      "d": 18,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "lobby--5-3",
+      "x": -5,
+      "z": 3,
+      "w": 0.08,
+      "d": 2,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "lobby-5--11",
+      "x": 5,
+      "z": -11,
+      "w": 0.08,
+      "d": 18,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "lobby-5-3",
+      "x": 5,
+      "z": 3,
+      "w": 0.08,
+      "d": 2,
+      "h": 3.45,
+      "material": "glass"
+    }
+  ],
+  "solids": [
+    {
+      "id": "facade--30--20",
+      "x": -30,
+      "z": -20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--30-20",
+      "x": -30,
+      "z": 20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--24--20",
+      "x": -24,
+      "z": -20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--24-20",
+      "x": -24,
+      "z": 20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--18--20",
+      "x": -18,
+      "z": -20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--18-20",
+      "x": -18,
+      "z": 20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--12--20",
+      "x": -12,
+      "z": -20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--12-20",
+      "x": -12,
+      "z": 20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--6--20",
+      "x": -6,
+      "z": -20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--6-20",
+      "x": -6,
+      "z": 20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-0--20",
+      "x": 0,
+      "z": -20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-0-20",
+      "x": 0,
+      "z": 20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-6--20",
+      "x": 6,
+      "z": -20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-6-20",
+      "x": 6,
+      "z": 20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-12--20",
+      "x": 12,
+      "z": -20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-12-20",
+      "x": 12,
+      "z": 20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-18--20",
+      "x": 18,
+      "z": -20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-18-20",
+      "x": 18,
+      "z": 20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-24--20",
+      "x": 24,
+      "z": -20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-24-20",
+      "x": 24,
+      "z": 20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-30--20",
+      "x": 30,
+      "z": -20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-30-20",
+      "x": 30,
+      "z": 20,
+      "w": 6,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--32--18",
+      "x": -32,
+      "z": -18,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-32--18",
+      "x": 32,
+      "z": -18,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--32--12",
+      "x": -32,
+      "z": -12,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-32--12",
+      "x": 32,
+      "z": -12,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--32--6",
+      "x": -32,
+      "z": -6,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-32--6",
+      "x": 32,
+      "z": -6,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--32-0",
+      "x": -32,
+      "z": 0,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-32-0",
+      "x": 32,
+      "z": 0,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--32-6",
+      "x": -32,
+      "z": 6,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-32-6",
+      "x": 32,
+      "z": 6,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--32-12",
+      "x": -32,
+      "z": 12,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-32-12",
+      "x": 32,
+      "z": 12,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade--32-18",
+      "x": -32,
+      "z": 18,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "facade-32-18",
+      "x": 32,
+      "z": 18,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "pantry-side--1",
+      "x": 8,
+      "z": -8,
+      "w": 0.07,
+      "d": 20,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "pantry-side-1",
+      "x": 32,
+      "z": -8,
+      "w": 0.07,
+      "d": 20,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "pantry-front--1",
+      "x": 13.625,
+      "z": -18,
+      "w": 11.25,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "pantry-front-1",
+      "x": 26.375,
+      "z": -18,
+      "w": 11.25,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "pantry-south-0",
+      "x": 9.125,
+      "z": 2,
+      "w": 2.25,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "pantry-south-1",
+      "x": 14,
+      "z": 2,
+      "w": 4.5,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "pantry-south-2",
+      "x": 19.025,
+      "z": 2,
+      "w": 2.549999999999997,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "pantry-south-3",
+      "x": 24.8,
+      "z": 2,
+      "w": 6.600000000000001,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "pantry-south-4",
+      "x": 30.95,
+      "z": 2,
+      "w": 2.1000000000000014,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "chat-side--1",
+      "x": 8,
+      "z": 5,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "chat-side-1",
+      "x": 14,
+      "z": 5,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "talk-side--1",
+      "x": 14,
+      "z": 5,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "talk-side-1",
+      "x": 20,
+      "z": 5,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "phone-side--1",
+      "x": 20,
+      "z": 5,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "phone-side-1",
+      "x": 23,
+      "z": 5,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "rest-side--1",
+      "x": 5,
+      "z": 14,
+      "w": 0.07,
+      "d": 12,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "rest-side-1",
+      "x": 14,
+      "z": 14,
+      "w": 0.07,
+      "d": 12,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "rest-front--1",
+      "x": 6.875,
+      "z": 8,
+      "w": 3.75,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "rest-front-1",
+      "x": 12.125,
+      "z": 8,
+      "w": 3.75,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "cats-side--1",
+      "x": 14,
+      "z": 14,
+      "w": 0.07,
+      "d": 12,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "cats-side-1",
+      "x": 22,
+      "z": 14,
+      "w": 0.07,
+      "d": 12,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "cats-front--1",
+      "x": 15.625,
+      "z": 8,
+      "w": 3.25,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "cats-front-1",
+      "x": 20.375,
+      "z": 8,
+      "w": 3.25,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "meeting-side--1",
+      "x": 22,
+      "z": 14,
+      "w": 0.07,
+      "d": 12,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "meeting-side-1",
+      "x": 32,
+      "z": 14,
+      "w": 0.07,
+      "d": 12,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "meeting-front--1",
+      "x": 24.125,
+      "z": 8,
+      "w": 4.25,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "meeting-front-1",
+      "x": 29.875,
+      "z": 8,
+      "w": 4.25,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "female-outer",
+      "x": -5,
+      "z": 11,
+      "w": 0.12,
+      "d": 10,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "female-front",
+      "x": -3.25,
+      "z": 6,
+      "w": 3.5,
+      "d": 0.12,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "female-back",
+      "x": -3.25,
+      "z": 16,
+      "w": 3.5,
+      "d": 0.12,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "female-entry-0",
+      "x": -1.5,
+      "z": 6.425,
+      "w": 0.12,
+      "d": 0.8499999999999996,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "female-entry-1",
+      "x": -1.5,
+      "z": 12.075,
+      "w": 0.12,
+      "d": 7.85,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "male-outer",
+      "x": 5,
+      "z": 11,
+      "w": 0.12,
+      "d": 10,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "male-front",
+      "x": 3.25,
+      "z": 6,
+      "w": 3.5,
+      "d": 0.12,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "male-back",
+      "x": 3.25,
+      "z": 16,
+      "w": 3.5,
+      "d": 0.12,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "male-entry-0",
+      "x": 1.5,
+      "z": 6.425,
+      "w": 0.12,
+      "d": 0.8499999999999996,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "male-entry-1",
+      "x": 1.5,
+      "z": 12.075,
+      "w": 0.12,
+      "d": 7.85,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "female-shower-outer",
+      "x": -5,
+      "z": 18,
+      "w": 0.12,
+      "d": 4,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "female-shower-front",
+      "x": -3.25,
+      "z": 16,
+      "w": 3.5,
+      "d": 0.12,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "female-shower-back",
+      "x": -3.25,
+      "z": 20,
+      "w": 3.5,
+      "d": 0.12,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "female-shower-entry-0",
+      "x": -1.5,
+      "z": 16.675,
+      "w": 0.12,
+      "d": 1.3500000000000014,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "female-shower-entry-1",
+      "x": -1.5,
+      "z": 19.325,
+      "w": 0.12,
+      "d": 1.3500000000000014,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "male-shower-outer",
+      "x": 5,
+      "z": 18,
+      "w": 0.12,
+      "d": 4,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "male-shower-front",
+      "x": 3.25,
+      "z": 16,
+      "w": 3.5,
+      "d": 0.12,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "male-shower-back",
+      "x": 3.25,
+      "z": 20,
+      "w": 3.5,
+      "d": 0.12,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "male-shower-entry-0",
+      "x": 1.5,
+      "z": 16.675,
+      "w": 0.12,
+      "d": 1.3500000000000014,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "male-shower-entry-1",
+      "x": 1.5,
+      "z": 19.325,
+      "w": 0.12,
+      "d": 1.3500000000000014,
+      "h": 3.45,
+      "material": "white"
+    },
+    {
+      "id": "office0-side--1",
+      "x": -31.5,
+      "z": 17,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office0-side-1",
+      "x": -26.5,
+      "z": 17,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office0-front--1",
+      "x": -30.625,
+      "z": 14,
+      "w": 1.75,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office0-front-1",
+      "x": -27.375,
+      "z": 14,
+      "w": 1.75,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office1-side--1",
+      "x": -25.5,
+      "z": 17,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office1-side-1",
+      "x": -20.5,
+      "z": 17,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office1-front--1",
+      "x": -24.625,
+      "z": 14,
+      "w": 1.75,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office1-front-1",
+      "x": -21.375,
+      "z": 14,
+      "w": 1.75,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office2-side--1",
+      "x": -19.5,
+      "z": 17,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office2-side-1",
+      "x": -14.5,
+      "z": 17,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office2-front--1",
+      "x": -18.625,
+      "z": 14,
+      "w": 1.75,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office2-front-1",
+      "x": -15.375,
+      "z": 14,
+      "w": 1.75,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office3-side--1",
+      "x": -13.5,
+      "z": 17,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office3-side-1",
+      "x": -8.5,
+      "z": 17,
+      "w": 0.07,
+      "d": 6,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office3-front--1",
+      "x": -12.625,
+      "z": 14,
+      "w": 1.75,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "office3-front-1",
+      "x": -9.375,
+      "z": 14,
+      "w": 1.75,
+      "d": 0.07,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "elevator-core",
+      "x": 0,
+      "z": 2,
+      "w": 7,
+      "d": 0.25,
+      "h": 3.6,
+      "material": "wood"
+    },
+    {
+      "id": "toilet-partition--1-10.2",
+      "x": -3.85,
+      "z": 8.899999999999999,
+      "w": 2.2,
+      "d": 0.08,
+      "h": 2.5,
+      "material": "white"
+    },
+    {
+      "id": "toilet-partition--1-13.8",
+      "x": -3.85,
+      "z": 12.5,
+      "w": 2.2,
+      "d": 0.08,
+      "h": 2.5,
+      "material": "white"
+    },
+    {
+      "id": "privacy-screen--1",
+      "x": -2.5,
+      "z": 8.65,
+      "w": 0.1,
+      "d": 2.5,
+      "h": 2.6,
+      "material": "white"
+    },
+    {
+      "id": "shower-divider--1",
+      "x": -3.7,
+      "z": 18,
+      "w": 1.8,
+      "d": 0.06,
+      "h": 2.4,
+      "material": "glass"
+    },
+    {
+      "id": "toilet-partition-1-10.2",
+      "x": 3.85,
+      "z": 8.899999999999999,
+      "w": 2.2,
+      "d": 0.08,
+      "h": 2.5,
+      "material": "white"
+    },
+    {
+      "id": "toilet-partition-1-13.8",
+      "x": 3.85,
+      "z": 12.5,
+      "w": 2.2,
+      "d": 0.08,
+      "h": 2.5,
+      "material": "white"
+    },
+    {
+      "id": "privacy-screen-1",
+      "x": 2.5,
+      "z": 8.65,
+      "w": 0.1,
+      "d": 2.5,
+      "h": 2.6,
+      "material": "white"
+    },
+    {
+      "id": "shower-divider-1",
+      "x": 3.7,
+      "z": 18,
+      "w": 1.8,
+      "d": 0.06,
+      "h": 2.4,
+      "material": "glass"
+    },
+    {
+      "id": "lobby--5--11",
+      "x": -5,
+      "z": -11,
+      "w": 0.08,
+      "d": 18,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "lobby--5-3",
+      "x": -5,
+      "z": 3,
+      "w": 0.08,
+      "d": 2,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "lobby-5--11",
+      "x": 5,
+      "z": -11,
+      "w": 0.08,
+      "d": 18,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "lobby-5-3",
+      "x": 5,
+      "z": 3,
+      "w": 0.08,
+      "d": 2,
+      "h": 3.45,
+      "material": "glass"
+    },
+    {
+      "id": "bench-0",
+      "x": -25,
+      "z": -15,
+      "w": 5.4,
+      "d": 1.6
+    },
+    {
+      "id": "bench-1",
+      "x": -25,
+      "z": -9,
+      "w": 5.4,
+      "d": 1.6
+    },
+    {
+      "id": "bench-2",
+      "x": -25,
+      "z": -3,
+      "w": 5.4,
+      "d": 1.6
+    },
+    {
+      "id": "bench-3",
+      "x": -25,
+      "z": 3,
+      "w": 5.4,
+      "d": 1.6
+    },
+    {
+      "id": "bench-4",
+      "x": -14,
+      "z": -15,
+      "w": 5.4,
+      "d": 1.6
+    },
+    {
+      "id": "bench-5",
+      "x": -14,
+      "z": -9,
+      "w": 5.4,
+      "d": 1.6
+    },
+    {
+      "id": "bench-6",
+      "x": -14,
+      "z": -3,
+      "w": 5.4,
+      "d": 1.6
+    },
+    {
+      "id": "bench-7",
+      "x": -14,
+      "z": 3,
+      "w": 5.4,
+      "d": 1.6
+    },
+    {
+      "id": "office0-desk",
+      "x": -29,
+      "z": 18,
+      "w": 2,
+      "d": 1
+    },
+    {
+      "id": "office1-desk",
+      "x": -23,
+      "z": 18,
+      "w": 2,
+      "d": 1
+    },
+    {
+      "id": "office2-desk",
+      "x": -17,
+      "z": 18,
+      "w": 2,
+      "d": 1
+    },
+    {
+      "id": "office3-desk",
+      "x": -11,
+      "z": 18,
+      "w": 2,
+      "d": 1
+    },
+    {
+      "id": "central-0",
+      "x": -3.8,
+      "z": -13,
+      "w": 0.95,
+      "d": 3
+    },
+    {
+      "id": "central-1",
+      "x": -2.25,
+      "z": -13,
+      "w": 1.05,
+      "d": 1.05
+    },
+    {
+      "id": "central-2",
+      "x": -3.45,
+      "z": -10.4,
+      "w": 1,
+      "d": 1
+    },
+    {
+      "id": "central-3",
+      "x": -2.4,
+      "z": -10.4,
+      "w": 0.75,
+      "d": 0.75
+    },
+    {
+      "id": "central-4",
+      "x": 3.8,
+      "z": -13,
+      "w": 0.95,
+      "d": 3
+    },
+    {
+      "id": "central-5",
+      "x": 2.25,
+      "z": -13,
+      "w": 1.05,
+      "d": 1.05
+    },
+    {
+      "id": "central-6",
+      "x": 3.45,
+      "z": -10.4,
+      "w": 1,
+      "d": 1
+    },
+    {
+      "id": "central-7",
+      "x": 2.4,
+      "z": -10.4,
+      "w": 0.75,
+      "d": 0.75
+    },
+    {
+      "id": "central-8",
+      "x": -3.8,
+      "z": -5.5,
+      "w": 0.95,
+      "d": 3
+    },
+    {
+      "id": "central-9",
+      "x": -2.25,
+      "z": -5.5,
+      "w": 1.05,
+      "d": 1.05
+    },
+    {
+      "id": "central-10",
+      "x": -3.45,
+      "z": -2.9,
+      "w": 1,
+      "d": 1
+    },
+    {
+      "id": "central-11",
+      "x": -2.4,
+      "z": -2.9,
+      "w": 0.75,
+      "d": 0.75
+    },
+    {
+      "id": "central-12",
+      "x": 3.8,
+      "z": -5.5,
+      "w": 0.95,
+      "d": 3
+    },
+    {
+      "id": "central-13",
+      "x": 2.25,
+      "z": -5.5,
+      "w": 1.05,
+      "d": 1.05
+    },
+    {
+      "id": "central-14",
+      "x": 3.45,
+      "z": -2.9,
+      "w": 1,
+      "d": 1
+    },
+    {
+      "id": "central-15",
+      "x": 2.4,
+      "z": -2.9,
+      "w": 0.75,
+      "d": 0.75
+    },
+    {
+      "id": "bookshelf--1",
+      "x": -3.6,
+      "z": -18.9,
+      "w": 2,
+      "d": 0.45
+    },
+    {
+      "id": "bookshelf-1",
+      "x": 3.6,
+      "z": -18.9,
+      "w": 2,
+      "d": 0.45
+    },
+    {
+      "id": "stage-speaker-8.9",
+      "x": 8.9,
+      "z": -14.7,
+      "w": 0.7,
+      "d": 0.7
+    },
+    {
+      "id": "stage-speaker-23.1",
+      "x": 23.1,
+      "z": -14.7,
+      "w": 0.7,
+      "d": 0.7
+    },
+    {
+      "id": "event-seat-0-0",
+      "x": 10.5,
+      "z": -11.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "event-seat-0-1",
+      "x": 12.5,
+      "z": -11.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "event-seat-0-2",
+      "x": 14.5,
+      "z": -11.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "event-seat-0-3",
+      "x": 17.5,
+      "z": -11.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "event-seat-0-4",
+      "x": 19.5,
+      "z": -11.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "event-seat-0-5",
+      "x": 21.5,
+      "z": -11.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "event-seat-1-0",
+      "x": 10.5,
+      "z": -9.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "event-seat-1-1",
+      "x": 12.5,
+      "z": -9.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "event-seat-1-2",
+      "x": 14.5,
+      "z": -9.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "event-seat-1-3",
+      "x": 17.5,
+      "z": -9.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "event-seat-1-4",
+      "x": 19.5,
+      "z": -9.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "event-seat-1-5",
+      "x": 21.5,
+      "z": -9.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "event-seat-2-0",
+      "x": 10.5,
+      "z": -7.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "event-seat-2-1",
+      "x": 12.5,
+      "z": -7.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "event-seat-2-2",
+      "x": 14.5,
+      "z": -7.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "event-seat-2-3",
+      "x": 17.5,
+      "z": -7.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "event-seat-2-4",
+      "x": 19.5,
+      "z": -7.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "event-seat-2-5",
+      "x": 21.5,
+      "z": -7.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "event-seat-3-0",
+      "x": 10.5,
+      "z": -5.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "event-seat-3-1",
+      "x": 12.5,
+      "z": -5.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "event-seat-3-2",
+      "x": 14.5,
+      "z": -5.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "event-seat-3-3",
+      "x": 17.5,
+      "z": -5.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "event-seat-3-4",
+      "x": 19.5,
+      "z": -5.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "event-seat-3-5",
+      "x": 21.5,
+      "z": -5.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "event-seat-4-0",
+      "x": 10.5,
+      "z": -3.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "event-seat-4-1",
+      "x": 12.5,
+      "z": -3.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "event-seat-4-2",
+      "x": 14.5,
+      "z": -3.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "event-seat-4-3",
+      "x": 17.5,
+      "z": -3.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "event-seat-4-4",
+      "x": 19.5,
+      "z": -3.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "event-seat-4-5",
+      "x": 21.5,
+      "z": -3.5,
+      "w": 0.68,
+      "d": 0.68
+    },
+    {
+      "id": "gift-table",
+      "x": 10.5,
+      "z": 0,
+      "w": 4,
+      "d": 1.1
+    },
+    {
+      "id": "av-desk",
+      "x": 24.5,
+      "z": -11,
+      "w": 1.8,
+      "d": 0.8
+    },
+    {
+      "id": "meeting-table",
+      "x": 27,
+      "z": 14,
+      "w": 7,
+      "d": 2.3
+    },
+    {
+      "id": "pantry-counter",
+      "x": 25,
+      "z": 0.8,
+      "w": 7.1,
+      "d": 1.18
+    },
+    {
+      "id": "pantry-island",
+      "x": 27,
+      "z": -3.2,
+      "w": 5.2,
+      "d": 1.4
+    },
+    {
+      "id": "pantry-fridge",
+      "x": 30.6,
+      "z": 0.85,
+      "w": 1.8,
+      "d": 1.15
+    },
+    {
+      "id": "pantry-cart",
+      "x": 30.5,
+      "z": -3,
+      "w": 1.2,
+      "d": 0.55
+    },
+    {
+      "id": "pantry-bin",
+      "x": 23.5,
+      "z": 0.8,
+      "w": 0.5,
+      "d": 0.5
+    },
+    {
+      "id": "cafe-table--14",
+      "x": 29,
+      "z": -14,
+      "w": 1.5,
+      "d": 1.5
+    },
+    {
+      "id": "cafe-chair-27.8--14",
+      "x": 27.8,
+      "z": -14,
+      "w": 0.75,
+      "d": 0.65
+    },
+    {
+      "id": "cafe-chair-30.2--14",
+      "x": 30.2,
+      "z": -14,
+      "w": 0.75,
+      "d": 0.65
+    },
+    {
+      "id": "cafe-table--10",
+      "x": 29,
+      "z": -10,
+      "w": 1.5,
+      "d": 1.5
+    },
+    {
+      "id": "cafe-chair-27.8--10",
+      "x": 27.8,
+      "z": -10,
+      "w": 0.75,
+      "d": 0.65
+    },
+    {
+      "id": "cafe-chair-30.2--10",
+      "x": 30.2,
+      "z": -10,
+      "w": 0.75,
+      "d": 0.65
+    },
+    {
+      "id": "cafe-table--6",
+      "x": 29,
+      "z": -6,
+      "w": 1.5,
+      "d": 1.5
+    },
+    {
+      "id": "cafe-chair-27.8--6",
+      "x": 27.8,
+      "z": -6,
+      "w": 0.75,
+      "d": 0.65
+    },
+    {
+      "id": "cafe-chair-30.2--6",
+      "x": 30.2,
+      "z": -6,
+      "w": 0.75,
+      "d": 0.65
+    },
+    {
+      "id": "chair-bench-0--1.8--1",
+      "x": -26.8,
+      "z": -16.65,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-0--1.8-1",
+      "x": -26.8,
+      "z": -13.35,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-0-0--1",
+      "x": -25,
+      "z": -16.65,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-0-0-1",
+      "x": -25,
+      "z": -13.35,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-0-1.8--1",
+      "x": -23.2,
+      "z": -16.65,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-0-1.8-1",
+      "x": -23.2,
+      "z": -13.35,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-1--1.8--1",
+      "x": -26.8,
+      "z": -10.65,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-1--1.8-1",
+      "x": -26.8,
+      "z": -7.35,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-1-0--1",
+      "x": -25,
+      "z": -10.65,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-1-0-1",
+      "x": -25,
+      "z": -7.35,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-1-1.8--1",
+      "x": -23.2,
+      "z": -10.65,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-1-1.8-1",
+      "x": -23.2,
+      "z": -7.35,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-2--1.8--1",
+      "x": -26.8,
+      "z": -4.65,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-2--1.8-1",
+      "x": -26.8,
+      "z": -1.35,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-2-0--1",
+      "x": -25,
+      "z": -4.65,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-2-0-1",
+      "x": -25,
+      "z": -1.35,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-2-1.8--1",
+      "x": -23.2,
+      "z": -4.65,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-2-1.8-1",
+      "x": -23.2,
+      "z": -1.35,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-3--1.8--1",
+      "x": -26.8,
+      "z": 1.35,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-3--1.8-1",
+      "x": -26.8,
+      "z": 4.65,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-3-0--1",
+      "x": -25,
+      "z": 1.35,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-3-0-1",
+      "x": -25,
+      "z": 4.65,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-3-1.8--1",
+      "x": -23.2,
+      "z": 1.35,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-3-1.8-1",
+      "x": -23.2,
+      "z": 4.65,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-4--1.8--1",
+      "x": -15.8,
+      "z": -16.65,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-4--1.8-1",
+      "x": -15.8,
+      "z": -13.35,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-4-0--1",
+      "x": -14,
+      "z": -16.65,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-4-0-1",
+      "x": -14,
+      "z": -13.35,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-4-1.8--1",
+      "x": -12.2,
+      "z": -16.65,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-4-1.8-1",
+      "x": -12.2,
+      "z": -13.35,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-5--1.8--1",
+      "x": -15.8,
+      "z": -10.65,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-5--1.8-1",
+      "x": -15.8,
+      "z": -7.35,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-5-0--1",
+      "x": -14,
+      "z": -10.65,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-5-0-1",
+      "x": -14,
+      "z": -7.35,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-5-1.8--1",
+      "x": -12.2,
+      "z": -10.65,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-5-1.8-1",
+      "x": -12.2,
+      "z": -7.35,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-6--1.8--1",
+      "x": -15.8,
+      "z": -4.65,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-6--1.8-1",
+      "x": -15.8,
+      "z": -1.35,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-6-0--1",
+      "x": -14,
+      "z": -4.65,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-6-0-1",
+      "x": -14,
+      "z": -1.35,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-6-1.8--1",
+      "x": -12.2,
+      "z": -4.65,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-6-1.8-1",
+      "x": -12.2,
+      "z": -1.35,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-7--1.8--1",
+      "x": -15.8,
+      "z": 1.35,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-7--1.8-1",
+      "x": -15.8,
+      "z": 4.65,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-7-0--1",
+      "x": -14,
+      "z": 1.35,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-7-0-1",
+      "x": -14,
+      "z": 4.65,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-7-1.8--1",
+      "x": -12.2,
+      "z": 1.35,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-bench-7-1.8-1",
+      "x": -12.2,
+      "z": 4.65,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-office0",
+      "x": -29,
+      "z": 17,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-office1",
+      "x": -23,
+      "z": 17,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-office2",
+      "x": -17,
+      "z": 17,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "chair-office3",
+      "x": -11,
+      "z": 17,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "meeting-chair-24.2--1",
+      "x": 24.2,
+      "z": 12.05,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "meeting-chair-24.2-1",
+      "x": 24.2,
+      "z": 15.95,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "meeting-chair-26--1",
+      "x": 26,
+      "z": 12.05,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "meeting-chair-26-1",
+      "x": 26,
+      "z": 15.95,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "meeting-chair-27.8--1",
+      "x": 27.8,
+      "z": 12.05,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "meeting-chair-27.8-1",
+      "x": 27.8,
+      "z": 15.95,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "meeting-chair-29.6--1",
+      "x": 29.6,
+      "z": 12.05,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "meeting-chair-29.6-1",
+      "x": 29.6,
+      "z": 15.95,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "west-sofa-a",
+      "x": -23,
+      "z": 10,
+      "w": 3,
+      "d": 0.95
+    },
+    {
+      "id": "west-sofa-b",
+      "x": -18,
+      "z": 8.2,
+      "w": 2.5,
+      "d": 0.95
+    },
+    {
+      "id": "west-table-a",
+      "x": -21,
+      "z": 9,
+      "w": 1.8,
+      "d": 1.8
+    },
+    {
+      "id": "west-table-b",
+      "x": -19.4,
+      "z": 9.6,
+      "w": 1,
+      "d": 1
+    },
+    {
+      "id": "west-ottoman--24",
+      "x": -24,
+      "z": 8.6,
+      "w": 1.3,
+      "d": 1.3
+    },
+    {
+      "id": "west-ottoman--17",
+      "x": -17,
+      "z": 8.6,
+      "w": 1.3,
+      "d": 1.3
+    },
+    {
+      "id": "chat-sofa--1",
+      "x": 9.5,
+      "z": 5,
+      "w": 0.95,
+      "d": 2.2
+    },
+    {
+      "id": "chat-sofa-1",
+      "x": 12.5,
+      "z": 5,
+      "w": 0.95,
+      "d": 2.2
+    },
+    {
+      "id": "chat-table",
+      "x": 11,
+      "z": 5,
+      "w": 1.3,
+      "d": 1.3
+    },
+    {
+      "id": "talk-sofa--1",
+      "x": 15.5,
+      "z": 5,
+      "w": 0.95,
+      "d": 2.2
+    },
+    {
+      "id": "talk-sofa-1",
+      "x": 18.5,
+      "z": 5,
+      "w": 0.95,
+      "d": 2.2
+    },
+    {
+      "id": "talk-table",
+      "x": 17,
+      "z": 5,
+      "w": 1.3,
+      "d": 1.3
+    },
+    {
+      "id": "phone-table-3.5",
+      "x": 21.5,
+      "z": 3.5,
+      "w": 0.96,
+      "d": 0.96
+    },
+    {
+      "id": "phone-chair-3.5",
+      "x": 21.5,
+      "z": 4.4,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "phone-table-6.5",
+      "x": 21.5,
+      "z": 6.5,
+      "w": 0.96,
+      "d": 0.96
+    },
+    {
+      "id": "phone-chair-6.5",
+      "x": 21.5,
+      "z": 7.4,
+      "w": 0.65,
+      "d": 0.75
+    },
+    {
+      "id": "rest-recliner-11",
+      "x": 7.5,
+      "z": 11,
+      "w": 0.8,
+      "d": 1.8
+    },
+    {
+      "id": "rest-recliner-15",
+      "x": 7.5,
+      "z": 15,
+      "w": 0.8,
+      "d": 1.8
+    },
+    {
+      "id": "rest-hammock",
+      "x": 11.3,
+      "z": 15.5,
+      "w": 3.1,
+      "d": 1.6
+    },
+    {
+      "id": "corridor-sink--1",
+      "x": -1.22,
+      "z": 12.2,
+      "w": 0.54,
+      "d": 3.2
+    },
+    {
+      "id": "toilet--1-10.2",
+      "x": -3.42,
+      "z": 10.2,
+      "w": 0.85,
+      "d": 0.65
+    },
+    {
+      "id": "toilet--1-13.8",
+      "x": -3.42,
+      "z": 13.8,
+      "w": 0.85,
+      "d": 0.65
+    },
+    {
+      "id": "corridor-sink-1",
+      "x": 1.22,
+      "z": 12.2,
+      "w": 0.54,
+      "d": 3.2
+    },
+    {
+      "id": "toilet-1-10.2",
+      "x": 3.42,
+      "z": 10.2,
+      "w": 0.85,
+      "d": 0.65
+    },
+    {
+      "id": "toilet-1-13.8",
+      "x": 3.42,
+      "z": 13.8,
+      "w": 0.85,
+      "d": 0.65
+    }
+  ]
+}

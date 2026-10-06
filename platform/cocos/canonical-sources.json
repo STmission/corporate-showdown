@@ -1,0 +1,102 @@
+[
+  {
+    "source": "prototype/client/session.mjs",
+    "destination": "assets/scripts/canonical/client/session.js",
+    "sha256": "7d17ac10c21d687f4faebeda187d46a64f456128fba51f5eb21d97fa4c3638b0"
+  },
+  {
+    "source": "prototype/client/input-controls.mjs",
+    "destination": "assets/scripts/canonical/client/input-controls.js",
+    "sha256": "985520c393b60297054bf04db8ac32864b070fe11141ce893de55b26f14b0ea5"
+  },
+  {
+    "source": "prototype/client/audio-cues.mjs",
+    "destination": "assets/scripts/canonical/client/audio-cues.js",
+    "sha256": "f3a9abaa5fa5ed42768bd1b6c4d52f419f8a2dcc479c6724af689dfbddfe85a2"
+  },
+  {
+    "source": "prototype/public/audio-settings.mjs",
+    "destination": "assets/scripts/canonical/public/audio-settings.js",
+    "sha256": "2dd72c9f7ba9476037903a525a1a371705f69ef1c3f6a91936fbe814846efd11"
+  },
+  {
+    "source": "prototype/public/conversation-focus.mjs",
+    "destination": "assets/scripts/canonical/public/conversation-focus.js",
+    "sha256": "de76700a05357611b8e8f2b8dc63370c644a443b18e84d3bb3c2108d7f9aa172"
+  },
+  {
+    "source": "prototype/shared/character-assets.mjs",
+    "destination": "assets/scripts/canonical/shared/character-assets.js",
+    "sha256": "58e107170e78d28a3b3e70ce42e9309f3c0de093c5c38aa76ea3150078945ec0"
+  },
+  {
+    "source": "prototype/shared/weapon-geometry.mjs",
+    "destination": "assets/scripts/canonical/shared/weapon-geometry.js",
+    "sha256": "8c2622aeba6f2200e311b346a8296a6d12d79479f9a0f2daa67a9655c58dfa14"
+  },
+  {
+    "source": "prototype/shared/weapon-grip.mjs",
+    "destination": "assets/scripts/canonical/shared/weapon-grip.js",
+    "sha256": "388d840e2661daf659e539a16dfdba40a41cc4f4fa7646ebb794d07fc8f91cfe"
+  },
+  {
+    "source": "prototype/shared/weapons.mjs",
+    "destination": "assets/scripts/canonical/shared/weapons.js",
+    "sha256": "d4f408ed3434f6f6c12c102990a0d8c921d511bfc0318d4a47f391c1aef4eb37"
+  },
+  {
+    "source": "prototype/shared/story.mjs",
+    "destination": "assets/scripts/canonical/shared/story.js",
+    "sha256": "9c4e223128232bd63c65647617c40368a4ed8ccf687d7dd912f20a7c63f9c482"
+  },
+  {
+    "source": "prototype/shared/camera-rig.mjs",
+    "destination": "assets/scripts/canonical/shared/camera-rig.js",
+    "sha256": "1fd94f11d8c04579eb6f1d0580434801087275859c83d1ea7cd35bce9f5250d5"
+  },
+  {
+    "source": "prototype/shared/protocol.mjs",
+    "destination": "assets/scripts/canonical/shared/protocol.js",
+    "sha256": "8e678b75ef15d3472e8e24ac437e7a4b15057ca71fae315f6868db97d7303ecf"
+  },
+  {
+    "source": "prototype/shared/level.mjs",
+    "destination": "assets/scripts/canonical/shared/level.js",
+    "sha256": "bcedb7a446873262ec0e2f8188b7441845c194606112740c6b085ec8eb5331e3"
+  },
+  {
+    "source": "prototype/shared/appearance.mjs",
+    "destination": "assets/scripts/canonical/shared/appearance.js",
+    "sha256": "c71ba239b495d2b039e7092e894acd9738db600903416f97e40a6f5292337016"
+  },
+  {
+    "source": "prototype/shared/animation.mjs",
+    "destination": "assets/scripts/canonical/shared/animation.js",
+    "sha256": "951c152542297577e06a91e5aa20f8d416b61e691a1c7b9a44e9477e781d6202"
+  },
+  {
+    "source": "prototype/shared/movement.mjs",
+    "destination": "assets/scripts/canonical/shared/movement.js",
+    "sha256": "688d871f627f6fa233204f2110f0e16ee55d5f2f9e845a31aadef74e3b54aa47"
+  },
+  {
+    "source": "prototype/shared/headquarters-layout.mjs",
+    "destination": "assets/scripts/canonical/shared/headquarters-layout.js",
+    "sha256": "e7aa8ef5c75879c8939562930211ec3c7904ecb3cfd0cc53ca74a65a3a49e69c"
+  },
+  {
+    "source": "prototype/shared/office-design.mjs",
+    "destination": "assets/scripts/canonical/shared/office-design.js",
+    "sha256": "43c961310cdbc152449b9d8cb38e2ba8eeff7abec732a62b35e715278b4dba45"
+  },
+  {
+    "source": "prototype/public/reliable-channel.mjs",
+    "destination": "assets/scripts/canonical/public/reliable-channel.js",
+    "sha256": "da3afd9b7135880e1214aeec8362d66c24aafcf4df0e8ea50b6087fdd44dd06f"
+  },
+  {
+    "source": "prototype/public/network-state.mjs",
+    "destination": "assets/scripts/canonical/public/network-state.js",
+    "sha256": "a2b24dd0f551e2443c9455c5d358bab8d5870441a6718e337335cc470f35e3d1"
+  }
+]

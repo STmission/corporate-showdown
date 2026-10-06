@@ -1,0 +1,13 @@
+{
+  "revision": "headquarters-v0.8",
+  "modified_shower_panes": [
+    "Mesh_7.064",
+    "Mesh_7.065"
+  ],
+  "walls_verified": 112,
+  "collision_solids": 276,
+  "exports": {
+    "coastal-headquarters-complete.glb": 66418604,
+    "coastal-headquarters-gameplay.glb": 5768892
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "sourceSHA256": "d1a73d3c9c6bab85badd853e46dcd82f0e04ece606387d2f0eca31e9ac548d08",
+  "scope": "nine saved Blender scenes loaded; actual nine GLB imports and reassembly; all source mesh IDs, bidirectional world vertices, triangles and surface area compared; cutaway render; no engine/device acceptance",
+  "sourceReloads": [
+    {
+      "id": "office",
+      "meshes": 1872,
+      "units": "meters",
+      "maxBoundsErrorMeters": 1.9073486328125e-06
+    },
+    {
+      "id": "central-lounge",
+      "meshes": 606,
+      "units": "meters",
+      "maxBoundsErrorMeters": 1.9073486328125e-06
+    },
+    {
+      "id": "townhall",
+      "meshes": 288,
+      "units": "meters",
+      "maxBoundsErrorMeters": 1.9073486328125e-06
+    },
+    {
+      "id": "pantry",
+      "meshes": 369,
+      "units": "meters",
+      "maxBoundsErrorMeters": 1.9073486328125e-06
+    },
+    {
+      "id": "service-core",
+      "meshes": 122,
+      "units": "meters",
+      "maxBoundsErrorMeters": 1.9073486328125e-06
+    },
+    {
+      "id": "cats-rest",
+      "meshes": 460,
+      "units": "meters",
+      "maxBoundsErrorMeters": 1.9073486328125e-06
+    },
+    {
+      "id": "meeting-rooms",
+      "meshes": 410,
+      "units": "meters",
+      "maxBoundsErrorMeters": 1.9073486328125e-06
+    },
+    {
+      "id": "architecture",
+      "meshes": 670,
+      "units": "meters",
+      "maxBoundsErrorMeters": 3.37185338139534e-06
+    },
+    {
+      "id": "coastal-exterior",
+      "meshes": 1503,
+      "units": "meters",
+      "maxBoundsErrorMeters": 4.76837158203125e-07
+    }
+  ],
+  "modules": [
+    {
+      "id": "office",
+      "importedMeshes": 1872,
+      "triangles": 338592,
+      "maxBidirectionalVertexErrorMeters": 1.90827972801344e-06,
+      "maxRelativeAreaError": 7.265559550073049e-06
+    },
+    {
+      "id": "central-lounge",
+      "importedMeshes": 606,
+      "triangles": 131672,
+      "maxBidirectionalVertexErrorMeters": 2.1358100639190525e-06,
+      "maxRelativeAreaError": 6.46950385426624e-06
+    },
+    {
+      "id": "townhall",
+      "importedMeshes": 288,
+      "triangles": 28220,
+      "maxBidirectionalVertexErrorMeters": 1.9560859527700813e-06,
+      "maxRelativeAreaError": 3.559453931342331e-06
+    },
+    {
+      "id": "pantry",
+      "importedMeshes": 369,
+      "triangles": 68324,
+      "maxBidirectionalVertexErrorMeters": 1.911070285132155e-06,
+      "maxRelativeAreaError": 5.586795201654062e-06
+    },
+    {
+      "id": "service-core",
+      "importedMeshes": 122,
+      "triangles": 10264,
+      "maxBidirectionalVertexErrorMeters": 1.922192041092785e-06,
+      "maxRelativeAreaError": 4.2080922749686916e-06
+    },
+    {
+      "id": "cats-rest",
+      "importedMeshes": 460,
+      "triangles": 105048,
+      "maxBidirectionalVertexErrorMeters": 1.980453362193657e-06,
+      "maxRelativeAreaError": 1.783341900403524e-06
+    },
+    {
+      "id": "meeting-rooms",
+      "importedMeshes": 410,
+      "triangles": 74424,
+      "maxBidirectionalVertexErrorMeters": 1.9660499219753547e-06,
+      "maxRelativeAreaError": 1.8121178386339395e-06
+    },
+    {
+      "id": "architecture",
+      "importedMeshes": 670,
+      "triangles": 31954,
+      "maxBidirectionalVertexErrorMeters": 5.091297680337448e-06,
+      "maxRelativeAreaError": 1.907348009524479e-07
+    },
+    {
+      "id": "coastal-exterior",
+      "importedMeshes": 1503,
+      "triangles": 34036,
+      "maxBidirectionalVertexErrorMeters": 5.394796517066425e-06,
+      "maxRelativeAreaError": 1.1800962465667951e-06
+    }
+  ],
+  "sourceMeshes": 6300,
+  "status": "passed"
+}

@@ -1,0 +1,200 @@
+{
+  "version": "weapon-ready-v1",
+  "generatorSHA256": "085445f7cb8162c584505c658c60372186ad5a57eb88b68338b725b1efedad56",
+  "bank": "assets/animations/weapon-poses-v1/workplace-weapon-poses.glb",
+  "bankSHA256": "a086c55f58de3ff54613f7b445d3508d613a6442deb35f9d9c98cd4c1d528fca",
+  "bankBlend": "assets/animations/weapon-poses-v1/weapon-pose-pilot.blend",
+  "characters": [
+    {
+      "slot": "male_programmer",
+      "source": "assets/characters/grounded-v1/male_programmer.glb",
+      "sourceSHA256": "d56f49ffcc3d8c86223ddb8dcf1e121d79696afac0ce877899b29d6aabf5833a",
+      "sourceBlend": "assets/characters/grounded-v1/male_programmer.blend",
+      "sourceBlendSHA256": "c62e471d8b7b7f19e7a63dd258bf732d52cd4a4479a8177331987fde082d4a01",
+      "glb": "assets/characters/weapon-ready-v1/male_programmer.glb",
+      "glbSHA256": "6e8e585538085d1521c41972c0961e9352039c6877e28b87952e9c7268480137",
+      "clips": [
+        "male_programmer_PistolHold",
+        "male_programmer_PistolShot",
+        "male_programmer_PistolWalk",
+        "male_programmer_PistolRun",
+        "male_programmer_RifleHold",
+        "male_programmer_RifleShot",
+        "male_programmer_RifleWalk",
+        "male_programmer_RifleRun"
+      ]
+    },
+    {
+      "slot": "male_ecommerce",
+      "source": "assets/characters/grounded-v1/male_ecommerce.glb",
+      "sourceSHA256": "71d99f9cd3a765c1ba25364caee66ff6a78ebacdfe0f0c1f5c50e1719de9f513",
+      "sourceBlend": "assets/characters/grounded-v1/male_ecommerce.blend",
+      "sourceBlendSHA256": "284f107ecdb9b66d938cb43fdd9d676c608b71d177d9f787a9419eace875e7f8",
+      "glb": "assets/characters/weapon-ready-v1/male_ecommerce.glb",
+      "glbSHA256": "b28db2dac173d9e5058dc28fcdc0fc487dace2547b9c854f51779b4556a3678c",
+      "clips": [
+        "male_ecommerce_PistolHold",
+        "male_ecommerce_PistolShot",
+        "male_ecommerce_PistolWalk",
+        "male_ecommerce_PistolRun",
+        "male_ecommerce_RifleHold",
+        "male_ecommerce_RifleShot",
+        "male_ecommerce_RifleWalk",
+        "male_ecommerce_RifleRun"
+      ]
+    },
+    {
+      "slot": "male_sales",
+      "source": "assets/characters/grounded-v1/male_sales.glb",
+      "sourceSHA256": "ae31e042b020b935a7cc12f51db9d13ec53ec5666d9c194b50f6452551945463",
+      "sourceBlend": "assets/characters/grounded-v1/male_sales.blend",
+      "sourceBlendSHA256": "664885a85aead08b805cc7191f826ef292f817100d241af38140c833d8fb62a7",
+      "glb": "assets/characters/weapon-ready-v1/male_sales.glb",
+      "glbSHA256": "a674c7e5140884888745d8e95c342c7c7a4a5940b0c8eea001a5e31d311e3087",
+      "clips": [
+        "male_sales_PistolHold",
+        "male_sales_PistolShot",
+        "male_sales_PistolWalk",
+        "male_sales_PistolRun",
+        "male_sales_RifleHold",
+        "male_sales_RifleShot",
+        "male_sales_RifleWalk",
+        "male_sales_RifleRun"
+      ]
+    },
+    {
+      "slot": "male_celebrity",
+      "source": "assets/characters/grounded-v1/male_celebrity.glb",
+      "sourceSHA256": "df582e74c9fdc97b9dbf7ee7b055e8cc2693dd85bb6a529370685d66d2fe6bf4",
+      "sourceBlend": "assets/characters/grounded-v1/male_celebrity.blend",
+      "sourceBlendSHA256": "bd4276d9205b4c35258c35d43a637a3f5b3ebbe2d067ec6a998a27dc95c31338",
+      "glb": "assets/characters/weapon-ready-v1/male_celebrity.glb",
+      "glbSHA256": "0d48ee57a6b058cafa7357e8e02a871dc6665bb2e497b5810c8648c3e011ce19",
+      "clips": [
+        "male_celebrity_PistolHold",
+        "male_celebrity_PistolShot",
+        "male_celebrity_PistolWalk",
+        "male_celebrity_PistolRun",
+        "male_celebrity_RifleHold",
+        "male_celebrity_RifleShot",
+        "male_celebrity_RifleWalk",
+        "male_celebrity_RifleRun"
+      ]
+    },
+    {
+      "slot": "female_programmer",
+      "source": "assets/characters/grounded-v1/female_programmer.glb",
+      "sourceSHA256": "4dcc6fd53fdccf0d2d3b83e159d4fd9058dc002c9d32f6abf9582c55c222d7f2",
+      "sourceBlend": "assets/characters/grounded-v1/female_programmer.blend",
+      "sourceBlendSHA256": "b8fdd9d4922ce8281557ce25b66a9f06f7eb01b4b31d061b1e3f26b987f30f64",
+      "glb": "assets/characters/weapon-ready-v1/female_programmer.glb",
+      "glbSHA256": "bc91bab0805b75479c2f8f9a275cdf9dc5b8235ec44223f5d465f9ac83f6af7e",
+      "clips": [
+        "female_programmer_PistolHold",
+        "female_programmer_PistolShot",
+        "female_programmer_PistolWalk",
+        "female_programmer_PistolRun",
+        "female_programmer_RifleHold",
+        "female_programmer_RifleShot",
+        "female_programmer_RifleWalk",
+        "female_programmer_RifleRun"
+      ]
+    },
+    {
+      "slot": "female_ecommerce",
+      "source": "assets/characters/grounded-v1/female_ecommerce.glb",
+      "sourceSHA256": "9910c684e0cb44c75925ea7e93853bc9414e2a7bfb9ffd2f13940414f628c231",
+      "sourceBlend": "assets/characters/grounded-v1/female_ecommerce.blend",
+      "sourceBlendSHA256": "0abad470d6f8cce1157f12664c29f51320d2f83a24d1330cf47987189e068d67",
+      "glb": "assets/characters/weapon-ready-v1/female_ecommerce.glb",
+      "glbSHA256": "febcedd1369f82c080dbf416e2ddc3d28cef2b85834c76dc836aad02dcf59ed5",
+      "clips": [
+        "female_ecommerce_PistolHold",
+        "female_ecommerce_PistolShot",
+        "female_ecommerce_PistolWalk",
+        "female_ecommerce_PistolRun",
+        "female_ecommerce_RifleHold",
+        "female_ecommerce_RifleShot",
+        "female_ecommerce_RifleWalk",
+        "female_ecommerce_RifleRun"
+      ]
+    },
+    {
+      "slot": "female_sales",
+      "source": "assets/characters/grounded-v1/female_sales.glb",
+      "sourceSHA256": "223afd3071818bc3200d493bbb275f1a85413873341166199b5264e29beaf580",
+      "sourceBlend": "assets/characters/grounded-v1/female_sales.blend",
+      "sourceBlendSHA256": "861a5feeccaf89df2cc1fde4af8b2d5d75e458efd5d05b8861d23d3daa50c51c",
+      "glb": "assets/characters/weapon-ready-v1/female_sales.glb",
+      "glbSHA256": "6464d40ab94365a232d56dd54beb5321130ed69d7f555fb252b7b0ee76fe8b7b",
+      "clips": [
+        "female_sales_PistolHold",
+        "female_sales_PistolShot",
+        "female_sales_PistolWalk",
+        "female_sales_PistolRun",
+        "female_sales_RifleHold",
+        "female_sales_RifleShot",
+        "female_sales_RifleWalk",
+        "female_sales_RifleRun"
+      ]
+    },
+    {
+      "slot": "female_celebrity",
+      "source": "assets/characters/grounded-v1/female_celebrity.glb",
+      "sourceSHA256": "b9c54d3cf12d569b56c6f9e7943f1dc92b8e3cb0ad54cb3bd66e4e56a986fa5c",
+      "sourceBlend": "assets/characters/grounded-v1/female_celebrity.blend",
+      "sourceBlendSHA256": "026c01391b269a6f0662ed4f1a6337fb114d7274813a4a72b5dc011f7bf233dd",
+      "glb": "assets/characters/weapon-ready-v1/female_celebrity.glb",
+      "glbSHA256": "c146578d3a24cffb1466a5a16a4dfe17b789a6b92a25548935bd80bd247e402b",
+      "clips": [
+        "female_celebrity_PistolHold",
+        "female_celebrity_PistolShot",
+        "female_celebrity_PistolWalk",
+        "female_celebrity_PistolRun",
+        "female_celebrity_RifleHold",
+        "female_celebrity_RifleShot",
+        "female_celebrity_RifleWalk",
+        "female_celebrity_RifleRun"
+      ]
+    },
+    {
+      "slot": "female_doctor",
+      "source": "assets/characters/grounded-v1/female_doctor.glb",
+      "sourceSHA256": "681843ac45973286b55dbce260c7712b8caae8b3b30bdccf0490935ae6f554a0",
+      "sourceBlend": "assets/characters/grounded-v1/female_doctor.blend",
+      "sourceBlendSHA256": "4471a16f49257010e76c7b7e3b62eceea3abe507293876292256a472957528c9",
+      "glb": "assets/characters/weapon-ready-v1/female_doctor.glb",
+      "glbSHA256": "5bae11cd019e7a10f1d1de3269b5e61eb755b60620d7ed75ac85f7385fa8a862",
+      "clips": [
+        "female_doctor_PistolHold",
+        "female_doctor_PistolShot",
+        "female_doctor_PistolWalk",
+        "female_doctor_PistolRun",
+        "female_doctor_RifleHold",
+        "female_doctor_RifleShot",
+        "female_doctor_RifleWalk",
+        "female_doctor_RifleRun"
+      ]
+    },
+    {
+      "slot": "female_teacher",
+      "source": "assets/characters/grounded-v1/female_teacher.glb",
+      "sourceSHA256": "33772d511d5eb08d5303022b2b63452b0ecee157401b914eb261ccf1782e551b",
+      "sourceBlend": "assets/characters/grounded-v1/female_teacher.blend",
+      "sourceBlendSHA256": "c32f6629180a56c4adb1312cf6d18fe149c78e88a340b991edb042d71d0881e4",
+      "glb": "assets/characters/weapon-ready-v1/female_teacher.glb",
+      "glbSHA256": "40e423f4528ea0e44fd4b3ff894f61e8b45954e86fa1dc3ce0c79911c339f725",
+      "clips": [
+        "female_teacher_PistolHold",
+        "female_teacher_PistolShot",
+        "female_teacher_PistolWalk",
+        "female_teacher_PistolRun",
+        "female_teacher_RifleHold",
+        "female_teacher_RifleShot",
+        "female_teacher_RifleWalk",
+        "female_teacher_RifleRun"
+      ]
+    }
+  ],
+  "scope": "Rotation retarget and arm-over-locomotion derivatives; runtime and rendered costume validation pending"
+}

@@ -1,0 +1,47 @@
+{
+  "sourceReload": true,
+  "sourceMeshes": 16,
+  "bones": 53,
+  "animations": [
+    "female_teacher_Idle",
+    "female_teacher_Walk",
+    "female_teacher_Run",
+    "female_teacher_Attack",
+    "female_teacher_Hit",
+    "female_teacher_Down",
+    "female_teacher_Rescue",
+    "female_teacher_Cast"
+  ],
+  "embeddedTextures": 8,
+  "gltfReimport": true,
+  "poses": [
+    {
+      "clip": "Idle",
+      "frame": 1,
+      "height": 1.6799717359244823,
+      "attachmentVertices": 1297
+    },
+    {
+      "clip": "Walk",
+      "frame": 10,
+      "height": 1.6802400092128664,
+      "attachmentVertices": 1297
+    },
+    {
+      "clip": "Attack",
+      "frame": 7,
+      "height": 1.6799997501075268,
+      "attachmentVertices": 1297
+    },
+    {
+      "clip": "Down",
+      "frame": 18,
+      "height": 0.6359197348356247,
+      "attachmentVertices": 1297
+    }
+  ],
+  "blendSHA256": "286f6e7bcad9f1fe10c7b56ebe29fe7535ddb736391a60e621ae88db0fee7e7b",
+  "glbSHA256": "19014cb2adfce785ab69d11d2576250a843dbf33e62c7f60e3766b3ea7d54b0c",
+  "scope": "actual source reload, skin-weight checks, GLB import and four posed render checks; not final art or Cocos/device acceptance",
+  "status": "passed"
+}

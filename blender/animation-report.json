@@ -1,0 +1,117 @@
+{
+  "version": "0.9",
+  "characters": [
+    {
+      "appearance": "female_celebrity",
+      "clips": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Down",
+        "Rescue",
+        "Cast"
+      ],
+      "bytes": 14085108
+    },
+    {
+      "appearance": "female_ecommerce",
+      "clips": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Down",
+        "Rescue",
+        "Cast"
+      ],
+      "bytes": 16152656
+    },
+    {
+      "appearance": "female_programmer",
+      "clips": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Down",
+        "Rescue",
+        "Cast"
+      ],
+      "bytes": 14687052
+    },
+    {
+      "appearance": "female_sales",
+      "clips": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Down",
+        "Rescue",
+        "Cast"
+      ],
+      "bytes": 12343196
+    },
+    {
+      "appearance": "male_celebrity",
+      "clips": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Down",
+        "Rescue",
+        "Cast"
+      ],
+      "bytes": 14193960
+    },
+    {
+      "appearance": "male_ecommerce",
+      "clips": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Down",
+        "Rescue",
+        "Cast"
+      ],
+      "bytes": 18683060
+    },
+    {
+      "appearance": "male_programmer",
+      "clips": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Down",
+        "Rescue",
+        "Cast"
+      ],
+      "bytes": 14678792
+    },
+    {
+      "appearance": "male_sales",
+      "clips": [
+        "Idle",
+        "Walk",
+        "Run",
+        "Attack",
+        "Hit",
+        "Down",
+        "Rescue",
+        "Cast"
+      ],
+      "bytes": 11336476
+    }
+  ]
+}

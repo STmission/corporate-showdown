@@ -1,0 +1,257 @@
+{
+  "version": "first-person-v0.1",
+  "generatorSHA256": "2c76547eadbe3641a39e8e17992d685c0579e52fffd27f221a47d692c92b2e17",
+  "sourceCharacterBankSHA256": "ff197800c0b8d3ac7144a02d1e873af737523c3b4c72fbf278bb994105df1019",
+  "characters": [
+    {
+      "slot": "male_programmer",
+      "source": "assets/characters/weapon-ready-v1/male_programmer.glb",
+      "sourceSHA256": "6e8e585538085d1521c41972c0961e9352039c6877e28b87952e9c7268480137",
+      "glb": "assets/characters/first-person-v1/male_programmer.glb",
+      "glbSHA256": "b0c2a14a6c49ae0321983db16d25fb34bba17bc021d07688422e7fb8491e6d37",
+      "blend": "assets/characters/first-person-v1/male_programmer.blend",
+      "blendSHA256": "1116a355ce735f937b558ebfd40a156e47d13f6386329dc5fcd35132a5c76983",
+      "meshes": [
+        {
+          "mesh": "male_programmer_Body",
+          "sourceFaces": 15816,
+          "armFaces": 6712,
+          "vertices": 3844
+        },
+        {
+          "mesh": "male_programmer_male_casualsuit03",
+          "sourceFaces": 4800,
+          "armFaces": 1059,
+          "vertices": 627
+        }
+      ],
+      "bones": 53,
+      "sourceReload": true
+    },
+    {
+      "slot": "male_ecommerce",
+      "source": "assets/characters/weapon-ready-v1/male_ecommerce.glb",
+      "sourceSHA256": "b28db2dac173d9e5058dc28fcdc0fc487dace2547b9c854f51779b4556a3678c",
+      "glb": "assets/characters/first-person-v1/male_ecommerce.glb",
+      "glbSHA256": "3a29d14c035a2cf7a15da996a1950a9b273403b892014bc4fcaea05dcd3fcb17",
+      "blend": "assets/characters/first-person-v1/male_ecommerce.blend",
+      "blendSHA256": "50f47310f9c4af299b87eeaba4e806c62405a0f0390fbba6426fa2a977204190",
+      "meshes": [
+        {
+          "mesh": "male_ecommerce_Body",
+          "sourceFaces": 15500,
+          "armFaces": 6472,
+          "vertices": 3718
+        },
+        {
+          "mesh": "male_ecommerce_male_casualsuit01",
+          "sourceFaces": 16672,
+          "armFaces": 2002,
+          "vertices": 1103
+        }
+      ],
+      "bones": 53,
+      "sourceReload": true
+    },
+    {
+      "slot": "male_sales",
+      "source": "assets/characters/weapon-ready-v1/male_sales.glb",
+      "sourceSHA256": "a674c7e5140884888745d8e95c342c7c7a4a5940b0c8eea001a5e31d311e3087",
+      "glb": "assets/characters/first-person-v1/male_sales.glb",
+      "glbSHA256": "2e5a72d772809402f0550e28af3e93e7e67d6209d867524eaba0405af61ffc06",
+      "blend": "assets/characters/first-person-v1/male_sales.blend",
+      "blendSHA256": "7ec0c4c726c82e61870a2c1f00753b60220bded0da96b8eb3f475c2d4df9aeb6",
+      "meshes": [
+        {
+          "mesh": "male_sales_Body",
+          "sourceFaces": 15240,
+          "armFaces": 6632,
+          "vertices": 3802
+        },
+        {
+          "mesh": "male_sales_toigo_male_suit_tie_and_jacket",
+          "sourceFaces": 19202,
+          "armFaces": 3020,
+          "vertices": 1628
+        }
+      ],
+      "bones": 53,
+      "sourceReload": true
+    },
+    {
+      "slot": "male_celebrity",
+      "source": "assets/characters/weapon-ready-v1/male_celebrity.glb",
+      "sourceSHA256": "0d48ee57a6b058cafa7357e8e02a871dc6665bb2e497b5810c8648c3e011ce19",
+      "glb": "assets/characters/first-person-v1/male_celebrity.glb",
+      "glbSHA256": "fe423a949002b019a031485d9d3e5f6eb99de41edcae3ff29ca6701db02bce90",
+      "blend": "assets/characters/first-person-v1/male_celebrity.blend",
+      "blendSHA256": "4df75f73539352c5ff0c9c697750797d879be61f57e80aa7d3f1d87d5ac96f24",
+      "meshes": [
+        {
+          "mesh": "male_celebrity_Body",
+          "sourceFaces": 15816,
+          "armFaces": 6712,
+          "vertices": 3844
+        },
+        {
+          "mesh": "male_celebrity_male_casualsuit05",
+          "sourceFaces": 5996,
+          "armFaces": 670,
+          "vertices": 390
+        }
+      ],
+      "bones": 53,
+      "sourceReload": true
+    },
+    {
+      "slot": "female_programmer",
+      "source": "assets/characters/weapon-ready-v1/female_programmer.glb",
+      "sourceSHA256": "bc91bab0805b75479c2f8f9a275cdf9dc5b8235ec44223f5d465f9ac83f6af7e",
+      "glb": "assets/characters/first-person-v1/female_programmer.glb",
+      "glbSHA256": "dc78266130b06687873b03a5dc1e8923bf2e1a55d4e7884a4897b7f08bdbe1bd",
+      "blend": "assets/characters/first-person-v1/female_programmer.blend",
+      "blendSHA256": "c7afe04fed5598d5eb2661ce4f79207e576b9b75ed8d19700954b35e826a5f86",
+      "meshes": [
+        {
+          "mesh": "female_programmer_Body",
+          "sourceFaces": 17218,
+          "armFaces": 6792,
+          "vertices": 3886
+        },
+        {
+          "mesh": "female_programmer_female_elegantsuit01",
+          "sourceFaces": 4192,
+          "armFaces": 692,
+          "vertices": 425
+        }
+      ],
+      "bones": 53,
+      "sourceReload": true
+    },
+    {
+      "slot": "female_ecommerce",
+      "source": "assets/characters/weapon-ready-v1/female_ecommerce.glb",
+      "sourceSHA256": "febcedd1369f82c080dbf416e2ddc3d28cef2b85834c76dc836aad02dcf59ed5",
+      "glb": "assets/characters/first-person-v1/female_ecommerce.glb",
+      "glbSHA256": "042f618137cbd4e965dca793b9b205d2064b596903665e73fc5c4a69ffa7d736",
+      "blend": "assets/characters/first-person-v1/female_ecommerce.blend",
+      "blendSHA256": "0f9e5e7bb1180a018a7f87db45aed1d0b870d6611ada0ae22cde75f1196b4829",
+      "meshes": [
+        {
+          "mesh": "female_ecommerce_Body",
+          "sourceFaces": 15000,
+          "armFaces": 6392,
+          "vertices": 3634
+        },
+        {
+          "mesh": "female_ecommerce_toigo_female_suit_2",
+          "sourceFaces": 16214,
+          "armFaces": 1787,
+          "vertices": 1047
+        }
+      ],
+      "bones": 53,
+      "sourceReload": true
+    },
+    {
+      "slot": "female_sales",
+      "source": "assets/characters/weapon-ready-v1/female_sales.glb",
+      "sourceSHA256": "6464d40ab94365a232d56dd54beb5321130ed69d7f555fb252b7b0ee76fe8b7b",
+      "glb": "assets/characters/first-person-v1/female_sales.glb",
+      "glbSHA256": "2c4f70207f491ee8abfb8ca1efcb4aeb5a8f3f766fc5dc61c09cb7fb42823e78",
+      "blend": "assets/characters/first-person-v1/female_sales.blend",
+      "blendSHA256": "a1eed26e7c18b6ca6a16d60d5ebafad9d259763bec6c0442983ebb30c9976363",
+      "meshes": [
+        {
+          "mesh": "female_sales_Body",
+          "sourceFaces": 16596,
+          "armFaces": 6632,
+          "vertices": 3802
+        },
+        {
+          "mesh": "female_sales_toigo_female_suit",
+          "sourceFaces": 27938,
+          "armFaces": 2606,
+          "vertices": 1413
+        }
+      ],
+      "bones": 53,
+      "sourceReload": true
+    },
+    {
+      "slot": "female_celebrity",
+      "source": "assets/characters/weapon-ready-v1/female_celebrity.glb",
+      "sourceSHA256": "c146578d3a24cffb1466a5a16a4dfe17b789a6b92a25548935bd80bd247e402b",
+      "glb": "assets/characters/first-person-v1/female_celebrity.glb",
+      "glbSHA256": "8429afd4a8fbe361edf8c8af580af17f6a1968beb0eb8dad9d6ff105e539bb30",
+      "blend": "assets/characters/first-person-v1/female_celebrity.blend",
+      "blendSHA256": "8b2a81c8953f38b72886611bd63c5b091ddbd311ddbd1010a29a056354bc74fa",
+      "meshes": [
+        {
+          "mesh": "female_celebrity_Body",
+          "sourceFaces": 17012,
+          "armFaces": 7268,
+          "vertices": 4136
+        }
+      ],
+      "bones": 53,
+      "sourceReload": true
+    },
+    {
+      "slot": "female_doctor",
+      "source": "assets/characters/weapon-ready-v1/female_doctor.glb",
+      "sourceSHA256": "5bae11cd019e7a10f1d1de3269b5e61eb755b60620d7ed75ac85f7385fa8a862",
+      "glb": "assets/characters/first-person-v1/female_doctor.glb",
+      "glbSHA256": "8077dc872dec3162ad887244231764fda4d76d50661dcedab34bde7983a38aa0",
+      "blend": "assets/characters/first-person-v1/female_doctor.blend",
+      "blendSHA256": "8b08521844a5b8a79047ac6e4cc593d443ad8ab282ed6ce02a97f0d80a13be6f",
+      "meshes": [
+        {
+          "mesh": "female_doctor_Body",
+          "sourceFaces": 15000,
+          "armFaces": 6392,
+          "vertices": 3634
+        },
+        {
+          "mesh": "female_doctor_toigo_female_suit_2",
+          "sourceFaces": 16214,
+          "armFaces": 1787,
+          "vertices": 1047
+        }
+      ],
+      "bones": 53,
+      "sourceReload": true
+    },
+    {
+      "slot": "female_teacher",
+      "source": "assets/characters/weapon-ready-v1/female_teacher.glb",
+      "sourceSHA256": "40e423f4528ea0e44fd4b3ff894f61e8b45954e86fa1dc3ce0c79911c339f725",
+      "glb": "assets/characters/first-person-v1/female_teacher.glb",
+      "glbSHA256": "c14d04cf8ca3862ad48bf2f26ccfefbc5c828ec44c8544eeefe53ce006b1abba",
+      "blend": "assets/characters/first-person-v1/female_teacher.blend",
+      "blendSHA256": "c9448423be8d4e008773d870f3983097ca4eb88ec0982e36008f11f20ad49cdf",
+      "meshes": [
+        {
+          "mesh": "female_teacher_Body",
+          "sourceFaces": 17218,
+          "armFaces": 6792,
+          "vertices": 3886
+        },
+        {
+          "mesh": "female_teacher_female_elegantsuit01",
+          "sourceFaces": 4192,
+          "armFaces": 692,
+          "vertices": 425
+        }
+      ],
+      "bones": 53,
+      "sourceReload": true
+    }
+  ],
+  "runtimeIntegrated": false,
+  "limitations": [
+    "Open elbow edges must stay outside camera; camera fit pending",
+    "Finger closure and reload pending",
+    "Actual GLB reimport/render validation recorded separately"
+  ]
+}

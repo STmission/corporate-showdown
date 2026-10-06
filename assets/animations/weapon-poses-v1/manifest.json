@@ -1,0 +1,105 @@
+{
+  "version": "weapon-poses-v0.1",
+  "source": "assets/characters/grounded-v1/male_programmer.blend",
+  "sourceSHA256": "c62e471d8b7b7f19e7a63dd258bf732d52cd4a4479a8177331987fde082d4a01",
+  "generatorSHA256": "e5177965b1ab9c8905293f740d1c7a895de9da141c89e7763a1161002d58febf",
+  "blendSHA256": "93f1e8d980c3fa6e3690614ccba31a42fe3acbc5074da1e719b225e6838c0b77",
+  "glbSHA256": "a086c55f58de3ff54613f7b445d3508d613a6442deb35f9d9c98cd4c1d528fca",
+  "clips": [
+    {
+      "clip": "Weapon_PistolHold",
+      "duration": 2.0,
+      "samples": 49,
+      "maximumBakeErrorMetres": 8.690073079957565e-07,
+      "initialElbows": {
+        "r": [
+          -0.3149213492870331,
+          -0.15255098044872284,
+          1.2269119024276733
+        ],
+        "l": [
+          0.18468530476093292,
+          -0.20387811958789825,
+          1.2332971096038818
+        ]
+      },
+      "maximumWristErrorMetres": {
+        "r": 0.0018820500927746893,
+        "l": 0.0018814282817086042
+      }
+    },
+    {
+      "clip": "Weapon_PistolShot",
+      "duration": 0.5,
+      "samples": 13,
+      "maximumBakeErrorMetres": 8.690073079957565e-07,
+      "initialElbows": {
+        "r": [
+          -0.3149213492870331,
+          -0.15255098044872284,
+          1.2269119024276733
+        ],
+        "l": [
+          0.18468530476093292,
+          -0.20387811958789825,
+          1.2332971096038818
+        ]
+      },
+      "maximumWristErrorMetres": {
+        "r": 0.001883040805108132,
+        "l": 0.0018815072830267701
+      }
+    },
+    {
+      "clip": "Weapon_RifleHold",
+      "duration": 2.0,
+      "samples": 49,
+      "maximumBakeErrorMetres": 7.272717007551115e-07,
+      "initialElbows": {
+        "r": [
+          -0.3149213492870331,
+          -0.15255098044872284,
+          1.2269119024276733
+        ],
+        "l": [
+          0.17952628433704376,
+          -0.2461794912815094,
+          1.2980839014053345
+        ]
+      },
+      "maximumWristErrorMetres": {
+        "r": 0.0018820500927746893,
+        "l": 0.0018815204892431326
+      }
+    },
+    {
+      "clip": "Weapon_RifleShot",
+      "duration": 0.5,
+      "samples": 13,
+      "maximumBakeErrorMetres": 8.980654298206479e-07,
+      "initialElbows": {
+        "r": [
+          -0.3149213492870331,
+          -0.15255098044872284,
+          1.2269119024276733
+        ],
+        "l": [
+          0.17952628433704376,
+          -0.2461794912815094,
+          1.2980839014053345
+        ]
+      },
+      "maximumWristErrorMetres": {
+        "r": 0.001883040805108132,
+        "l": 0.0018815626035010107
+      }
+    }
+  ],
+  "runtimeIntegrated": false,
+  "limitations": [
+    "Finger closure pending",
+    "No reload or moving aim clips",
+    "Only male programmer source authored",
+    "Actual GLB reimport and rendered validation pending"
+  ]
+}

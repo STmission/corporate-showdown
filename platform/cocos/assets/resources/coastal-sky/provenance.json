@@ -1,0 +1,50 @@
+{
+  "version": "coastal-daylight-v1",
+  "generatorSHA256": "c1b265cbd73a738d544596340615ccf6b827f0db70a2a185898b06dd70b582b9",
+  "license": "CC0-1.0 project-authored pixels; no external imagery",
+  "faces": [
+    {
+      "face": "right",
+      "path": "assets/resources/coastal-sky/right.png",
+      "sha256": "3c758d846c54c926733cbd5f8cb89803dc1815c96ea58de0beed2c0ecbed031f",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "face": "left",
+      "path": "assets/resources/coastal-sky/left.png",
+      "sha256": "dd3405fa4e50b96948bdcdf7d7c01f1388658ef9ce4cf9d91146a15ce9214f44",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "face": "top",
+      "path": "assets/resources/coastal-sky/top.png",
+      "sha256": "4937ae5b8ab123adc5b2b3e04368147fb05714c37ad63ffdc429351005e465b9",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "face": "bottom",
+      "path": "assets/resources/coastal-sky/bottom.png",
+      "sha256": "a080b02e40c1209de040c09eb6970ecc646431277f7a4bbe7403241e9cfaded1",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "face": "front",
+      "path": "assets/resources/coastal-sky/front.png",
+      "sha256": "d75972beeb8cce0edc52075220089f95a15941c1c6d50639254ca225fb0b9fde",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "face": "back",
+      "path": "assets/resources/coastal-sky/back.png",
+      "sha256": "64b53fdb288fa4e15c87bfd0524b6edcdc1ec205b87061b6feeb3d3390c46ee2",
+      "width": 256,
+      "height": 256
+    }
+  ],
+  "scope": "visual daytime background, not calibrated HDR/IBL lighting"
+}

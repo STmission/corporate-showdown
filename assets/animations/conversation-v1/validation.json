@@ -1,0 +1,77 @@
+{
+  "status": "passed",
+  "sourceReload": true,
+  "sourceBones": 53,
+  "checkedSourcePoses": [
+    {
+      "clip": "Conversation_Explain",
+      "frame": 1
+    },
+    {
+      "clip": "Conversation_Explain",
+      "frame": 24
+    },
+    {
+      "clip": "Conversation_Explain",
+      "frame": 48
+    },
+    {
+      "clip": "Conversation_Explain",
+      "frame": 72
+    },
+    {
+      "clip": "Conversation_Explain",
+      "frame": 97
+    },
+    {
+      "clip": "Conversation_Listen",
+      "frame": 1
+    },
+    {
+      "clip": "Conversation_Listen",
+      "frame": 24
+    },
+    {
+      "clip": "Conversation_Listen",
+      "frame": 48
+    },
+    {
+      "clip": "Conversation_Listen",
+      "frame": 72
+    },
+    {
+      "clip": "Conversation_Listen",
+      "frame": 97
+    },
+    {
+      "clip": "Conversation_Comfort",
+      "frame": 1
+    },
+    {
+      "clip": "Conversation_Comfort",
+      "frame": 24
+    },
+    {
+      "clip": "Conversation_Comfort",
+      "frame": 48
+    },
+    {
+      "clip": "Conversation_Comfort",
+      "frame": 72
+    },
+    {
+      "clip": "Conversation_Comfort",
+      "frame": 97
+    }
+  ],
+  "actualGLBImport": true,
+  "importedBones": 53,
+  "importerDisplayMeshes": 1,
+  "importedClips": [
+    "Conversation_Comfort",
+    "Conversation_Explain",
+    "Conversation_Listen"
+  ],
+  "glbSHA256": "f5381bb08c104c43f0b416aca0bb63a20fe5a6216a236984bc3698dfbf8f7f68",
+  "scope": "source reload and animation-only GLB actual import; runtime retarget and visual quality checked separately"
+}

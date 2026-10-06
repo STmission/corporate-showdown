@@ -1,0 +1,817 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63",
+  "files": [
+    "__original-animation-0.bin",
+    "__original-animation-1.bin",
+    "__original-animation-10.bin",
+    "__original-animation-11.bin",
+    "__original-animation-12.bin",
+    "__original-animation-13.bin",
+    "__original-animation-14.bin",
+    "__original-animation-15.bin",
+    "__original-animation-2.bin",
+    "__original-animation-3.bin",
+    "__original-animation-4.bin",
+    "__original-animation-5.bin",
+    "__original-animation-6.bin",
+    "__original-animation-7.bin",
+    "__original-animation-8.bin",
+    "__original-animation-9.bin"
+  ],
+  "subMetas": {
+    "37573": {
+      "importer": "gltf-skeleton",
+      "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@37573",
+      "displayName": "",
+      "id": "37573",
+      "name": "female_sales_Rig.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 53
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0d813": {
+      "importer": "gltf-mesh",
+      "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@0d813",
+      "displayName": "",
+      "id": "0d813",
+      "name": "base.006.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 6632
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a16d": {
+      "importer": "gltf-mesh",
+      "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@7a16d",
+      "displayName": "",
+      "id": "7a16d",
+      "name": "fem_suit.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 2606
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "20d90": {
+      "importer": "gltf-animation",
+      "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@20d90",
+      "displayName": "",
+      "id": "20d90",
+      "name": "female_sales_RifleRun.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.7916666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "79d25": {
+      "importer": "gltf-animation",
+      "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@79d25",
+      "displayName": "",
+      "id": "79d25",
+      "name": "female_sales_RifleWalk.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.0416666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "111c5": {
+      "importer": "gltf-animation",
+      "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@111c5",
+      "displayName": "",
+      "id": "111c5",
+      "name": "female_sales_RifleShot.animation",
+      "userData": {
+        "gltfIndex": 2,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5416666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "0ce65": {
+      "importer": "gltf-animation",
+      "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@0ce65",
+      "displayName": "",
+      "id": "0ce65",
+      "name": "female_sales_RifleHold.animation",
+      "userData": {
+        "gltfIndex": 3,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.0416667461395264
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "eb70d": {
+      "importer": "gltf-animation",
+      "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@eb70d",
+      "displayName": "",
+      "id": "eb70d",
+      "name": "female_sales_PistolRun.animation",
+      "userData": {
+        "gltfIndex": 4,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.7916666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "663a6": {
+      "importer": "gltf-animation",
+      "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@663a6",
+      "displayName": "",
+      "id": "663a6",
+      "name": "female_sales_PistolWalk.animation",
+      "userData": {
+        "gltfIndex": 5,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.0416666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "e15a2": {
+      "importer": "gltf-animation",
+      "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@e15a2",
+      "displayName": "",
+      "id": "e15a2",
+      "name": "female_sales_PistolShot.animation",
+      "userData": {
+        "gltfIndex": 6,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5416666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "73e0c": {
+      "importer": "gltf-animation",
+      "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@73e0c",
+      "displayName": "",
+      "id": "73e0c",
+      "name": "female_sales_PistolHold.animation",
+      "userData": {
+        "gltfIndex": 7,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.0416667461395264
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "604f6": {
+      "importer": "gltf-animation",
+      "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@604f6",
+      "displayName": "",
+      "id": "604f6",
+      "name": "female_sales_Cast.animation",
+      "userData": {
+        "gltfIndex": 8,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.0416666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "e1584": {
+      "importer": "gltf-animation",
+      "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@e1584",
+      "displayName": "",
+      "id": "e1584",
+      "name": "female_sales_Rescue.animation",
+      "userData": {
+        "gltfIndex": 9,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 2.0416667461395264
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "cf45f": {
+      "importer": "gltf-animation",
+      "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@cf45f",
+      "displayName": "",
+      "id": "cf45f",
+      "name": "female_sales_Down.animation",
+      "userData": {
+        "gltfIndex": 10,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.7916666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "ae7fb": {
+      "importer": "gltf-animation",
+      "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@ae7fb",
+      "displayName": "",
+      "id": "ae7fb",
+      "name": "female_sales_Hit.animation",
+      "userData": {
+        "gltfIndex": 11,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.4166666567325592
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "a258f": {
+      "importer": "gltf-animation",
+      "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@a258f",
+      "displayName": "",
+      "id": "a258f",
+      "name": "female_sales_Attack.animation",
+      "userData": {
+        "gltfIndex": 12,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.5416666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "754ce": {
+      "importer": "gltf-animation",
+      "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@754ce",
+      "displayName": "",
+      "id": "754ce",
+      "name": "female_sales_Run.animation",
+      "userData": {
+        "gltfIndex": 13,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.7916666865348816
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "8e322": {
+      "importer": "gltf-animation",
+      "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@8e322",
+      "displayName": "",
+      "id": "8e322",
+      "name": "female_sales_Walk.animation",
+      "userData": {
+        "gltfIndex": 14,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.0416666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "dde6f": {
+      "importer": "gltf-animation",
+      "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@dde6f",
+      "displayName": "",
+      "id": "dde6f",
+      "name": "female_sales_Idle.animation",
+      "userData": {
+        "gltfIndex": 15,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 4.041666507720947
+        },
+        "events": []
+      },
+      "ver": "1.0.18",
+      "imported": true,
+      "files": [
+        ".bin"
+      ],
+      "subMetas": {}
+    },
+    "3effa": {
+      "importer": "texture",
+      "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@3effa",
+      "displayName": "",
+      "id": "3effa",
+      "name": "UnnamedTexture-0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "221a5": {
+      "importer": "texture",
+      "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@221a5",
+      "displayName": "",
+      "id": "221a5",
+      "name": "UnnamedTexture-1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/resources/textures/f1d15f99341184f87d9657e0ef754150b51f4d00d503e393beb6e11cf1c60507.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "84eba": {
+      "importer": "gltf-material",
+      "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@84eba",
+      "displayName": "",
+      "id": "84eba",
+      "name": "female_sales_Body.body.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2e650": {
+      "importer": "gltf-material",
+      "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@2e650",
+      "displayName": "",
+      "id": "2e650",
+      "name": "female_sales_Body.toigo_female_suit.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b73a5": {
+      "importer": "gltf-scene",
+      "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@b73a5",
+      "displayName": "",
+      "id": "b73a5",
+      "name": "fp_female_sales.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "young_lightskinned_female_diffuse3",
+        "uri": "db://assets/resources/textures/1d82f782b7d2da732229633bd2d14754d873fff53cdb1d088977bcf67ae19dde.png"
+      },
+      {
+        "name": "MHSuitsFem-diff",
+        "uri": "db://assets/resources/textures/f1d15f99341184f87d9657e0ef754150b51f4d00d503e393beb6e11cf1c60507.png"
+      }
+    ],
+    "animationImportSettings": [
+      {
+        "name": "female_sales_RifleRun",
+        "duration": 0.7916666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_sales_RifleRun",
+            "from": 0,
+            "to": 0.7916666865348816,
+            "wrapMode": 2,
+            "previousId": "20d90"
+          }
+        ]
+      },
+      {
+        "name": "female_sales_RifleWalk",
+        "duration": 1.0416666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_sales_RifleWalk",
+            "from": 0,
+            "to": 1.0416666269302368,
+            "wrapMode": 2,
+            "previousId": "79d25"
+          }
+        ]
+      },
+      {
+        "name": "female_sales_RifleShot",
+        "duration": 0.5416666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_sales_RifleShot",
+            "from": 0,
+            "to": 0.5416666865348816,
+            "wrapMode": 2,
+            "previousId": "111c5"
+          }
+        ]
+      },
+      {
+        "name": "female_sales_RifleHold",
+        "duration": 2.0416667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_sales_RifleHold",
+            "from": 0,
+            "to": 2.0416667461395264,
+            "wrapMode": 2,
+            "previousId": "0ce65"
+          }
+        ]
+      },
+      {
+        "name": "female_sales_PistolRun",
+        "duration": 0.7916666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_sales_PistolRun",
+            "from": 0,
+            "to": 0.7916666865348816,
+            "wrapMode": 2,
+            "previousId": "eb70d"
+          }
+        ]
+      },
+      {
+        "name": "female_sales_PistolWalk",
+        "duration": 1.0416666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_sales_PistolWalk",
+            "from": 0,
+            "to": 1.0416666269302368,
+            "wrapMode": 2,
+            "previousId": "663a6"
+          }
+        ]
+      },
+      {
+        "name": "female_sales_PistolShot",
+        "duration": 0.5416666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_sales_PistolShot",
+            "from": 0,
+            "to": 0.5416666865348816,
+            "wrapMode": 2,
+            "previousId": "e15a2"
+          }
+        ]
+      },
+      {
+        "name": "female_sales_PistolHold",
+        "duration": 2.0416667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_sales_PistolHold",
+            "from": 0,
+            "to": 2.0416667461395264,
+            "wrapMode": 2,
+            "previousId": "73e0c"
+          }
+        ]
+      },
+      {
+        "name": "female_sales_Cast",
+        "duration": 1.0416666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_sales_Cast",
+            "from": 0,
+            "to": 1.0416666269302368,
+            "wrapMode": 2,
+            "previousId": "604f6"
+          }
+        ]
+      },
+      {
+        "name": "female_sales_Rescue",
+        "duration": 2.0416667461395264,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_sales_Rescue",
+            "from": 0,
+            "to": 2.0416667461395264,
+            "wrapMode": 2,
+            "previousId": "e1584"
+          }
+        ]
+      },
+      {
+        "name": "female_sales_Down",
+        "duration": 0.7916666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_sales_Down",
+            "from": 0,
+            "to": 0.7916666865348816,
+            "wrapMode": 2,
+            "previousId": "cf45f"
+          }
+        ]
+      },
+      {
+        "name": "female_sales_Hit",
+        "duration": 0.4166666567325592,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_sales_Hit",
+            "from": 0,
+            "to": 0.4166666567325592,
+            "wrapMode": 2,
+            "previousId": "ae7fb"
+          }
+        ]
+      },
+      {
+        "name": "female_sales_Attack",
+        "duration": 0.5416666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_sales_Attack",
+            "from": 0,
+            "to": 0.5416666865348816,
+            "wrapMode": 2,
+            "previousId": "a258f"
+          }
+        ]
+      },
+      {
+        "name": "female_sales_Run",
+        "duration": 0.7916666865348816,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_sales_Run",
+            "from": 0,
+            "to": 0.7916666865348816,
+            "wrapMode": 2,
+            "previousId": "754ce"
+          }
+        ]
+      },
+      {
+        "name": "female_sales_Walk",
+        "duration": 1.0416666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_sales_Walk",
+            "from": 0,
+            "to": 1.0416666269302368,
+            "wrapMode": 2,
+            "previousId": "8e322"
+          }
+        ]
+      },
+      {
+        "name": "female_sales_Idle",
+        "duration": 4.041666507720947,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "female_sales_Idle",
+            "from": 0,
+            "to": 4.041666507720947,
+            "wrapMode": 2,
+            "previousId": "dde6f"
+          }
+        ]
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "18fa4027-076f-5e17-96a9-a4c44aca7d63@0d813",
+        "18fa4027-076f-5e17-96a9-a4c44aca7d63@7a16d"
+      ],
+      "skeletons": [
+        "18fa4027-076f-5e17-96a9-a4c44aca7d63@37573"
+      ],
+      "textures": [
+        "18fa4027-076f-5e17-96a9-a4c44aca7d63@3effa",
+        "18fa4027-076f-5e17-96a9-a4c44aca7d63@221a5"
+      ],
+      "materials": [
+        "18fa4027-076f-5e17-96a9-a4c44aca7d63@84eba",
+        "18fa4027-076f-5e17-96a9-a4c44aca7d63@2e650"
+      ],
+      "scenes": [
+        "18fa4027-076f-5e17-96a9-a4c44aca7d63@b73a5"
+      ]
+    }
+  }
+}

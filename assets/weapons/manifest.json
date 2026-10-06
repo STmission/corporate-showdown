@@ -1,0 +1,89 @@
+{
+  "source": "prototype/shared/weapon-geometry.mjs",
+  "sourceSHA256": "8c2622aeba6f2200e311b346a8296a6d12d79479f9a0f2daa67a9655c58dfa14",
+  "scriptSHA256": "517fb589fd68e9b4f3ba10cd4948021ccbb7610e4082519a63dc4720c4be71e4",
+  "license": "Original project-authored part definitions and geometry",
+  "status": "eight source reloads and actual GLB reimports validated; independent library render inspected; runtime uses shared part definitions, export bevel geometry not yet used by Cocos",
+  "weapons": [
+    {
+      "id": "pistol",
+      "name": "海风手枪",
+      "parts": 10,
+      "blend": "pistol.blend",
+      "blendSHA256": "1983aa8600102a38ec94bb0b55c9cde4443dd6f8baba675a640263263130584f",
+      "glb": "pistol.glb",
+      "glbSHA256": "ea751739319d0ceb9938d1d28a4622fa2fe5f58ef24fb4f57d43d82386c40780",
+      "vertices": 640
+    },
+    {
+      "id": "smg",
+      "name": "疾风冲锋枪",
+      "parts": 20,
+      "blend": "smg.blend",
+      "blendSHA256": "1c20154905f1fd90c430e5e81650b7b49ad6d4e633341effe00e86320985da41",
+      "glb": "smg.glb",
+      "glbSHA256": "83adae21ece22b82af64acf2df157fdf1cf0c8335e036e9ab266be2d77b591d2",
+      "vertices": 1200
+    },
+    {
+      "id": "rifle",
+      "name": "破局步枪",
+      "parts": 20,
+      "blend": "rifle.blend",
+      "blendSHA256": "fbd33ef802be2d9a40f6726f2f2df483cb042ad35d32f98dab5dfc4baa4864a1",
+      "glb": "rifle.glb",
+      "glbSHA256": "151e124b16fadfc3f09ca3dafd0512f81ddea6bbf78b6f614b069b34b1a38ee4",
+      "vertices": 1200
+    },
+    {
+      "id": "sniper",
+      "name": "远望狙击枪",
+      "parts": 21,
+      "blend": "sniper.blend",
+      "blendSHA256": "1c29b8aa614785aff0af9adf255db7808db3ba0531094273470673c7236152d7",
+      "glb": "sniper.glb",
+      "glbSHA256": "634049c4918201a7403014d0a92f2f8f0db489d6656284857a9514656fa9b803",
+      "vertices": 1336
+    },
+    {
+      "id": "shotgun",
+      "name": "回声霰弹枪",
+      "parts": 20,
+      "blend": "shotgun.blend",
+      "blendSHA256": "02d9096d5ac7ebfdaa9a04f0985127a9db711705740380b3bdbddc71d4995ea9",
+      "glb": "shotgun.glb",
+      "glbSHA256": "f6a6fde6f2d89e663faa9d87271de88d4c2a78334810c269906528422fe4a643",
+      "vertices": 1240
+    },
+    {
+      "id": "lmg",
+      "name": "风暴机关枪",
+      "parts": 22,
+      "blend": "lmg.blend",
+      "blendSHA256": "37fdb18241a6c197f3ad97aacc82db1410ee48eaf8ec32accf654cf5a9961ab4",
+      "glb": "lmg.glb",
+      "glbSHA256": "b9529d2a664ed9bebef8233a0578f0f52299136d521977c24eaf1e6bbd165542",
+      "vertices": 1312
+    },
+    {
+      "id": "hammer",
+      "name": "解压锤",
+      "parts": 3,
+      "blend": "hammer.blend",
+      "blendSHA256": "2aedc8f38f58755ef0cb1adabbaadf1e7518d8ee48128aea5dba72b83f359939",
+      "glb": "hammer.glb",
+      "glbSHA256": "64bd8171a5a258d56b34989be96ee81788089931163203fe82c3f1c30eaf0559",
+      "vertices": 208
+    },
+    {
+      "id": "scissors",
+      "name": "办公剪刀",
+      "parts": 5,
+      "blend": "scissors.blend",
+      "blendSHA256": "faf013dd87bc6ec42249d8195b3f617f34725317218a42ad06e2c2c07aba8823",
+      "glb": "scissors.glb",
+      "glbSHA256": "891f679422b856fc8b61e0bc22d46cbf409a46e165184e1cf036a591be23bb16",
+      "vertices": 320
+    }
+  ]
+}

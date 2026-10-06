@@ -1,0 +1,5 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {Vector3,Euler,Matrix4} from 'three';import {weaponGrip} from '../shared/weapon-grip.mjs';import {WEAPONS} from '../shared/weapons.mjs';
+test('all eight weapon families place their geometric grip at the hand socket palm',()=>{
+ for(const family of new Set(Object.values(WEAPONS).map(w=>w.family))){const grip=weaponGrip(family);assert.equal(grip.bone,'hand_r');const model=new Matrix4().makeRotationFromEuler(new Euler(...grip.rotation));model.setPosition(...grip.position);const pivot=new Vector3(...grip.pivot).applyMatrix4(model);assert.ok(pivot.distanceTo(new Vector3(...grip.palm))<1e-7,family);for(const phase of [0,.5,1]){const hand=new Matrix4().makeRotationFromEuler(new Euler(phase,-phase,.4*phase));hand.setPosition(phase,.85+phase*.5,-phase);const weapon=hand.clone().multiply(model);assert.ok(new Vector3(...grip.pivot).applyMatrix4(weapon).distanceTo(new Vector3(...grip.palm).applyMatrix4(hand))<1e-7,'articulated '+family);}}
+ assert.throws(()=>weaponGrip('unknown'),/未知/);
+});

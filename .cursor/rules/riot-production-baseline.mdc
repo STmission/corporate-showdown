@@ -1,0 +1,8 @@
+---
+description: Corporate Showdown 全项目 Riot 公开实践参考与制作基线
+alwaysApply: true
+---
+
+读取并遵循项目根目录 `AGENTS.md` 和 `docs/11-riot-production-baseline.md`。
+范围覆盖全部代码、配置、策划、美术、音频和文档。
+参考公开实践，执行本项目标准；不要将计划、原型或内部标准猜测写成已验收成果。

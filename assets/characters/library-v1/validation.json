@@ -1,0 +1,197 @@
+{
+  "scope": "actual individual Blender reload, geometry/rig/action/image/origin checks; visual quality and mobile runtime not accepted",
+  "checks": [
+    {
+      "id": "female_celebrity",
+      "scene": "female_celebrity_Asset",
+      "bones": 53,
+      "meshes": 9,
+      "clips": [
+        "female_celebrity_Idle",
+        "female_celebrity_Walk",
+        "female_celebrity_Run",
+        "female_celebrity_Attack",
+        "female_celebrity_Hit",
+        "female_celebrity_Down",
+        "female_celebrity_Rescue",
+        "female_celebrity_Cast"
+      ],
+      "images": 10,
+      "packedImages": true,
+      "origin": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bytes": 16146285
+    },
+    {
+      "id": "female_ecommerce",
+      "scene": "female_ecommerce_Asset",
+      "bones": 53,
+      "meshes": 9,
+      "clips": [
+        "female_ecommerce_Idle",
+        "female_ecommerce_Walk",
+        "female_ecommerce_Run",
+        "female_ecommerce_Attack",
+        "female_ecommerce_Hit",
+        "female_ecommerce_Down",
+        "female_ecommerce_Rescue",
+        "female_ecommerce_Cast"
+      ],
+      "images": 10,
+      "packedImages": true,
+      "origin": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bytes": 19535791
+    },
+    {
+      "id": "female_programmer",
+      "scene": "female_programmer_Asset",
+      "bones": 53,
+      "meshes": 9,
+      "clips": [
+        "female_programmer_Idle",
+        "female_programmer_Walk",
+        "female_programmer_Run",
+        "female_programmer_Attack",
+        "female_programmer_Hit",
+        "female_programmer_Down",
+        "female_programmer_Rescue",
+        "female_programmer_Cast"
+      ],
+      "images": 11,
+      "packedImages": true,
+      "origin": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bytes": 17109126
+    },
+    {
+      "id": "female_sales",
+      "scene": "female_sales_Asset",
+      "bones": 53,
+      "meshes": 9,
+      "clips": [
+        "female_sales_Idle",
+        "female_sales_Walk",
+        "female_sales_Run",
+        "female_sales_Attack",
+        "female_sales_Hit",
+        "female_sales_Down",
+        "female_sales_Rescue",
+        "female_sales_Cast"
+      ],
+      "images": 10,
+      "packedImages": true,
+      "origin": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bytes": 14785116
+    },
+    {
+      "id": "male_celebrity",
+      "scene": "male_celebrity_Asset",
+      "bones": 53,
+      "meshes": 9,
+      "clips": [
+        "male_celebrity_Idle",
+        "male_celebrity_Walk",
+        "male_celebrity_Run",
+        "male_celebrity_Attack",
+        "male_celebrity_Hit",
+        "male_celebrity_Down",
+        "male_celebrity_Rescue",
+        "male_celebrity_Cast"
+      ],
+      "images": 10,
+      "packedImages": true,
+      "origin": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bytes": 15787536
+    },
+    {
+      "id": "male_ecommerce",
+      "scene": "male_ecommerce_Asset",
+      "bones": 53,
+      "meshes": 9,
+      "clips": [
+        "male_ecommerce_Idle",
+        "male_ecommerce_Walk",
+        "male_ecommerce_Run",
+        "male_ecommerce_Attack",
+        "male_ecommerce_Hit",
+        "male_ecommerce_Down",
+        "male_ecommerce_Rescue",
+        "male_ecommerce_Cast"
+      ],
+      "images": 10,
+      "packedImages": true,
+      "origin": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bytes": 19299152
+    },
+    {
+      "id": "male_programmer",
+      "scene": "male_programmer_Asset",
+      "bones": 53,
+      "meshes": 9,
+      "clips": [
+        "male_programmer_Idle",
+        "male_programmer_Walk",
+        "male_programmer_Run",
+        "male_programmer_Attack",
+        "male_programmer_Hit",
+        "male_programmer_Down",
+        "male_programmer_Rescue",
+        "male_programmer_Cast"
+      ],
+      "images": 11,
+      "packedImages": true,
+      "origin": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bytes": 17453112
+    },
+    {
+      "id": "male_sales",
+      "scene": "male_sales_Asset",
+      "bones": 53,
+      "meshes": 9,
+      "clips": [
+        "male_sales_Idle",
+        "male_sales_Walk",
+        "male_sales_Run",
+        "male_sales_Attack",
+        "male_sales_Hit",
+        "male_sales_Down",
+        "male_sales_Rescue",
+        "male_sales_Cast"
+      ],
+      "images": 10,
+      "packedImages": true,
+      "origin": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "bytes": 12575566
+    }
+  ]
+}

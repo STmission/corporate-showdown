@@ -1,0 +1,176 @@
+{
+  "source": "assets/characters/workplace-characters.blend",
+  "sourceSHA256": "3c97fb93730de39cbab999230ffb64687c170e349166548b0104dceaf7b1aa2b",
+  "toolSHA256": "3e596dc337f48b3001e4e7f7967c87dda11f814d368ba774b12890a9876ab00e",
+  "scope": "editable source extraction; original v0.9 art and animations, visual refinement pending",
+  "characters": [
+    {
+      "id": "female_celebrity",
+      "blend": "assets/characters/library-v1/female_celebrity.blend",
+      "blendSHA256": "9c804961ff7bf298b39b6f79b55932c3ea3ce1f376d84461ecf13b5f1b65776a",
+      "glb": "assets/characters/female_celebrity.glb",
+      "glbSHA256": "65311dc46b5882458a35183468cbd8574b1c9ccffd1448630717ad3d3d73d55a",
+      "bones": 53,
+      "meshes": 9,
+      "clips": [
+        "female_celebrity_Idle",
+        "female_celebrity_Walk",
+        "female_celebrity_Run",
+        "female_celebrity_Attack",
+        "female_celebrity_Hit",
+        "female_celebrity_Down",
+        "female_celebrity_Rescue",
+        "female_celebrity_Cast"
+      ],
+      "packedImages": true,
+      "status": "individual Blender source reload verified; visual refinement pending"
+    },
+    {
+      "id": "female_ecommerce",
+      "blend": "assets/characters/library-v1/female_ecommerce.blend",
+      "blendSHA256": "c0a4b553a646ad410318116f2494274f1efefaee0bb5a3e841aaa7eeb41b9b1e",
+      "glb": "assets/characters/female_ecommerce.glb",
+      "glbSHA256": "b3b45660bacfe08113c9be0465f0680d1dffb5ee55ee000430eaf44371035a7f",
+      "bones": 53,
+      "meshes": 9,
+      "clips": [
+        "female_ecommerce_Idle",
+        "female_ecommerce_Walk",
+        "female_ecommerce_Run",
+        "female_ecommerce_Attack",
+        "female_ecommerce_Hit",
+        "female_ecommerce_Down",
+        "female_ecommerce_Rescue",
+        "female_ecommerce_Cast"
+      ],
+      "packedImages": true,
+      "status": "individual Blender source reload verified; visual refinement pending"
+    },
+    {
+      "id": "female_programmer",
+      "blend": "assets/characters/library-v1/female_programmer.blend",
+      "blendSHA256": "93289f11fe9a63e4c5a18c0bf1e6fa538ba58588d28e6cd0c168c379d9359f8e",
+      "glb": "assets/characters/female_programmer.glb",
+      "glbSHA256": "8bcea000211572287a9ed99a76f58b64e4381c6a6339d2807a54432133492761",
+      "bones": 53,
+      "meshes": 9,
+      "clips": [
+        "female_programmer_Idle",
+        "female_programmer_Walk",
+        "female_programmer_Run",
+        "female_programmer_Attack",
+        "female_programmer_Hit",
+        "female_programmer_Down",
+        "female_programmer_Rescue",
+        "female_programmer_Cast"
+      ],
+      "packedImages": true,
+      "status": "individual Blender source reload verified; visual refinement pending"
+    },
+    {
+      "id": "female_sales",
+      "blend": "assets/characters/library-v1/female_sales.blend",
+      "blendSHA256": "8a62e70c11c52f2d5fccd13598317d13b44a8d962d81d5775fc5cd30de898315",
+      "glb": "assets/characters/female_sales.glb",
+      "glbSHA256": "91f78a2ca91003cf85e597ee4cd85c577a37fdef0d49adb6d63682df77efcf21",
+      "bones": 53,
+      "meshes": 9,
+      "clips": [
+        "female_sales_Idle",
+        "female_sales_Walk",
+        "female_sales_Run",
+        "female_sales_Attack",
+        "female_sales_Hit",
+        "female_sales_Down",
+        "female_sales_Rescue",
+        "female_sales_Cast"
+      ],
+      "packedImages": true,
+      "status": "individual Blender source reload verified; visual refinement pending"
+    },
+    {
+      "id": "male_celebrity",
+      "blend": "assets/characters/library-v1/male_celebrity.blend",
+      "blendSHA256": "ca26f773552d83fddd0e6f2ce96f971b7b32d0ba0f53f3af847864233693f687",
+      "glb": "assets/characters/male_celebrity.glb",
+      "glbSHA256": "293ff17d537095f25623a2d7375ac93d3954e9f2c00a28f246fe6aa4399a6678",
+      "bones": 53,
+      "meshes": 9,
+      "clips": [
+        "male_celebrity_Idle",
+        "male_celebrity_Walk",
+        "male_celebrity_Run",
+        "male_celebrity_Attack",
+        "male_celebrity_Hit",
+        "male_celebrity_Down",
+        "male_celebrity_Rescue",
+        "male_celebrity_Cast"
+      ],
+      "packedImages": true,
+      "status": "individual Blender source reload verified; visual refinement pending"
+    },
+    {
+      "id": "male_ecommerce",
+      "blend": "assets/characters/library-v1/male_ecommerce.blend",
+      "blendSHA256": "b1a4bb945d53c603b5e7dbcbbaf7e14aaad3ed836faae408448096dbeed407c8",
+      "glb": "assets/characters/male_ecommerce.glb",
+      "glbSHA256": "831b501839424f216f3003b27c50494c154546f0a406704eb4246c00c8aa3fe3",
+      "bones": 53,
+      "meshes": 9,
+      "clips": [
+        "male_ecommerce_Idle",
+        "male_ecommerce_Walk",
+        "male_ecommerce_Run",
+        "male_ecommerce_Attack",
+        "male_ecommerce_Hit",
+        "male_ecommerce_Down",
+        "male_ecommerce_Rescue",
+        "male_ecommerce_Cast"
+      ],
+      "packedImages": true,
+      "status": "individual Blender source reload verified; visual refinement pending"
+    },
+    {
+      "id": "male_programmer",
+      "blend": "assets/characters/library-v1/male_programmer.blend",
+      "blendSHA256": "4e2b947276f7dc0d3a2ee1538cfb8b0c5e74127c9b1193dcccfd83ae57c3330d",
+      "glb": "assets/characters/male_programmer.glb",
+      "glbSHA256": "6490e8cbb7e6e3b5a965a7bd26dccab748a00bdcf80f0ae05b5d1d085246f0ea",
+      "bones": 53,
+      "meshes": 9,
+      "clips": [
+        "male_programmer_Idle",
+        "male_programmer_Walk",
+        "male_programmer_Run",
+        "male_programmer_Attack",
+        "male_programmer_Hit",
+        "male_programmer_Down",
+        "male_programmer_Rescue",
+        "male_programmer_Cast"
+      ],
+      "packedImages": true,
+      "status": "individual Blender source reload verified; visual refinement pending"
+    },
+    {
+      "id": "male_sales",
+      "blend": "assets/characters/library-v1/male_sales.blend",
+      "blendSHA256": "2e2c66cb341948211847365129f13d0e0083664cc33c123ed4a69541a3c8eb89",
+      "glb": "assets/characters/male_sales.glb",
+      "glbSHA256": "a5e59922c2d8ab0dac0df56b4143735ec94843a19482708afcc7e85a7fbc2132",
+      "bones": 53,
+      "meshes": 9,
+      "clips": [
+        "male_sales_Idle",
+        "male_sales_Walk",
+        "male_sales_Run",
+        "male_sales_Attack",
+        "male_sales_Hit",
+        "male_sales_Down",
+        "male_sales_Rescue",
+        "male_sales_Cast"
+      ],
+      "packedImages": true,
+      "status": "individual Blender source reload verified; visual refinement pending"
+    }
+  ]
+}

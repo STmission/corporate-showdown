@@ -1,0 +1,110 @@
+{
+  "license": "Original project-generated sounds; no third-party samples",
+  "generatorSHA256": "50b297af7a396cd120c447446b345d8e2724f20e762ae815df9277e5e5218232",
+  "clips": [
+    {
+      "name": "shot",
+      "path": "shot.wav",
+      "frames": 2205,
+      "sampleRate": 22050,
+      "sha256": "11d5211738cdc172d8434adaa1c5d077eb04fbcd57b8eb2722a8b36d56df29fb",
+      "peak": 0.30561297782431573
+    },
+    {
+      "name": "reload",
+      "path": "reload.wav",
+      "frames": 5513,
+      "sampleRate": 22050,
+      "sha256": "b8ba0b5c5b508fd69331744323172d0a020f50b783c26f038e1253cb834f02f3",
+      "peak": 0.31681743583820693
+    },
+    {
+      "name": "empty",
+      "path": "empty.wav",
+      "frames": 992,
+      "sampleRate": 22050,
+      "sha256": "5a8e3e66cbd41686175c5e83523a79525e5558c720f765130e3f1cac6ccd08cb",
+      "peak": 0.22875522609683943
+    },
+    {
+      "name": "ambient",
+      "path": "ambient.wav",
+      "frames": 44100,
+      "sampleRate": 22050,
+      "sha256": "c4972322aea9f0d45c2a035cb4ca090cca14cca11eb2445b6d6764d733025df1",
+      "peak": 0.4058893924198629
+    },
+    {
+      "name": "step",
+      "path": "step.wav",
+      "frames": 2646,
+      "sampleRate": 22050,
+      "sha256": "d773cbffd6b2db94d4d0ba0669767a3989b27f65e67b459c8dde5b3827c07211",
+      "peak": 0.3286619316067314
+    },
+    {
+      "name": "hit",
+      "path": "hit.wav",
+      "frames": 4190,
+      "sampleRate": 22050,
+      "sha256": "7057bf35f28b3d6931ecf1344ea01bd807c8093f0c96ca89691a40df9d89025b",
+      "peak": 0.34091668987939655
+    },
+    {
+      "name": "skill",
+      "path": "skill.wav",
+      "frames": 7717,
+      "sampleRate": 22050,
+      "sha256": "d7aee1a280d2ac84ff757e486813e5f16adb5bde4f7e5cf25e232aff6c788059",
+      "peak": 0.3856305771463531
+    },
+    {
+      "name": "danger",
+      "path": "danger.wav",
+      "frames": 7498,
+      "sampleRate": 22050,
+      "sha256": "a7e60ce005339b3c64a2c3c0a818aab7f200535f6c9bda08e51cffb060367a24",
+      "peak": 0.35205136090822564
+    },
+    {
+      "name": "notice",
+      "path": "notice.wav",
+      "frames": 7938,
+      "sampleRate": 22050,
+      "sha256": "ba6698c36cf2711ffaf45ddc073639997d7d7574cec3c0cc53a256db67eedd83",
+      "peak": 0.3655280776538992
+    },
+    {
+      "name": "pulse_108",
+      "path": "pulse_108.wav",
+      "frames": 49000,
+      "sampleRate": 22050,
+      "sha256": "40b15ccf0799978460ee53d7ec35299888ffe31948746afee0a3a18855975e85",
+      "peak": 0.2974370270419031
+    },
+    {
+      "name": "pulse_132",
+      "path": "pulse_132.wav",
+      "frames": 40092,
+      "sampleRate": 22050,
+      "sha256": "060e43fe377b47a9af6389f00aa8b602490635eab38fb745b6b203c6c9ffaba6",
+      "peak": 0.2974370270419031
+    },
+    {
+      "name": "pulse_158",
+      "path": "pulse_158.wav",
+      "frames": 33492,
+      "sampleRate": 22050,
+      "sha256": "25f9520921d3a60b20aefd6e60f050bc16cb1081e72474943d40729a1019d0ba",
+      "peak": 0.2974370270419031
+    },
+    {
+      "name": "pulse_184",
+      "path": "pulse_184.wav",
+      "frames": 28760,
+      "sampleRate": 22050,
+      "sha256": "6010808d0fbaaf89822b84dcd5099c42d177158343c525fa95cc239e586a165d",
+      "peak": 0.2974370270419031
+    }
+  ]
+}

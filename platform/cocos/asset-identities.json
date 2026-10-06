@@ -1,0 +1,6080 @@
+{
+  "source": "Cocos 0.2.0 GLB importer metadata before external-image migration; identity/sampler contract only",
+  "models": {
+    "headquarters": {
+      "uuid": "25e0b63a-5796-4227-a8da-eff51e924e88",
+      "prefabs": [
+        "25e0b63a-5796-4227-a8da-eff51e924e88@4b906"
+      ],
+      "meshes": 386,
+      "skeletons": 0,
+      "animations": {},
+      "textureSamplers": {
+        "10486": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "14738": {
+          "wrapModeS": "clamp-to-edge",
+          "wrapModeT": "clamp-to-edge",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "50743": {
+          "wrapModeS": "clamp-to-edge",
+          "wrapModeT": "clamp-to-edge",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "51278": {
+          "wrapModeS": "clamp-to-edge",
+          "wrapModeT": "clamp-to-edge",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "55257": {
+          "wrapModeS": "clamp-to-edge",
+          "wrapModeT": "clamp-to-edge",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "72311": {
+          "wrapModeS": "clamp-to-edge",
+          "wrapModeT": "clamp-to-edge",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "98962": {
+          "wrapModeS": "clamp-to-edge",
+          "wrapModeT": "clamp-to-edge",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "3effa": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "221a5": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "0089c": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9b633": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9b782": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "99ea5": {
+          "wrapModeS": "clamp-to-edge",
+          "wrapModeT": "clamp-to-edge",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "006bd": {
+          "wrapModeS": "clamp-to-edge",
+          "wrapModeT": "clamp-to-edge",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "531b0": {
+          "wrapModeS": "clamp-to-edge",
+          "wrapModeT": "clamp-to-edge",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9c3d2": {
+          "wrapModeS": "clamp-to-edge",
+          "wrapModeT": "clamp-to-edge",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "f7e17": {
+          "wrapModeS": "clamp-to-edge",
+          "wrapModeT": "clamp-to-edge",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "a2905": {
+          "wrapModeS": "clamp-to-edge",
+          "wrapModeT": "clamp-to-edge",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "809d9": {
+          "wrapModeS": "clamp-to-edge",
+          "wrapModeT": "clamp-to-edge",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "b4841": {
+          "wrapModeS": "clamp-to-edge",
+          "wrapModeT": "clamp-to-edge",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "3c999": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "d4524": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "d932b": {
+          "wrapModeS": "clamp-to-edge",
+          "wrapModeT": "clamp-to-edge",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "0c93e": {
+          "wrapModeS": "clamp-to-edge",
+          "wrapModeT": "clamp-to-edge",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "50f7f": {
+          "wrapModeS": "clamp-to-edge",
+          "wrapModeT": "clamp-to-edge",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "d0968": {
+          "wrapModeS": "clamp-to-edge",
+          "wrapModeT": "clamp-to-edge",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "0dd94": {
+          "wrapModeS": "clamp-to-edge",
+          "wrapModeT": "clamp-to-edge",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "bcb27": {
+          "wrapModeS": "clamp-to-edge",
+          "wrapModeT": "clamp-to-edge",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "240d8": {
+          "wrapModeS": "clamp-to-edge",
+          "wrapModeT": "clamp-to-edge",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "2a87f": {
+          "wrapModeS": "clamp-to-edge",
+          "wrapModeT": "clamp-to-edge",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "96cab": {
+          "wrapModeS": "clamp-to-edge",
+          "wrapModeT": "clamp-to-edge",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "a2999": {
+          "wrapModeS": "clamp-to-edge",
+          "wrapModeT": "clamp-to-edge",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        }
+      }
+    },
+    "male_celebrity": {
+      "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376",
+      "prefabs": [
+        "123909aa-7a04-4d48-a57e-c0a14c670376@1d483"
+      ],
+      "meshes": 9,
+      "skeletons": 1,
+      "animations": {
+        "0eeef": {
+          "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@0eeef",
+          "name": "male_celebrity_Idle.animation",
+          "settings": {
+            "gltfIndex": 0,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4
+            },
+            "events": []
+          }
+        },
+        "a90b9": {
+          "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@a90b9",
+          "name": "male_celebrity_Walk.animation",
+          "settings": {
+            "gltfIndex": 1,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "e52e3": {
+          "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@e52e3",
+          "name": "male_celebrity_Run.animation",
+          "settings": {
+            "gltfIndex": 2,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "d7dd3": {
+          "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@d7dd3",
+          "name": "male_celebrity_Attack.animation",
+          "settings": {
+            "gltfIndex": 3,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "45aee": {
+          "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@45aee",
+          "name": "male_celebrity_Hit.animation",
+          "settings": {
+            "gltfIndex": 4,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.375
+            },
+            "events": []
+          }
+        },
+        "867e7": {
+          "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@867e7",
+          "name": "male_celebrity_Down.animation",
+          "settings": {
+            "gltfIndex": 5,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "53c53": {
+          "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@53c53",
+          "name": "male_celebrity_Rescue.animation",
+          "settings": {
+            "gltfIndex": 6,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "f6bff": {
+          "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@f6bff",
+          "name": "male_celebrity_Cast.animation",
+          "settings": {
+            "gltfIndex": 7,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "976bb": {
+          "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@976bb",
+          "name": "male_celebrity_PistolHold.animation",
+          "settings": {
+            "gltfIndex": 8,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "8470b": {
+          "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@8470b",
+          "name": "male_celebrity_PistolShot.animation",
+          "settings": {
+            "gltfIndex": 9,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "4017e": {
+          "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@4017e",
+          "name": "male_celebrity_PistolWalk.animation",
+          "settings": {
+            "gltfIndex": 10,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "c08c3": {
+          "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@c08c3",
+          "name": "male_celebrity_PistolRun.animation",
+          "settings": {
+            "gltfIndex": 11,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "5cfdd": {
+          "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@5cfdd",
+          "name": "male_celebrity_RifleHold.animation",
+          "settings": {
+            "gltfIndex": 12,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "6cd69": {
+          "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@6cd69",
+          "name": "male_celebrity_RifleShot.animation",
+          "settings": {
+            "gltfIndex": 13,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "e1871": {
+          "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@e1871",
+          "name": "male_celebrity_RifleWalk.animation",
+          "settings": {
+            "gltfIndex": 14,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "fb045": {
+          "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@fb045",
+          "name": "male_celebrity_RifleRun.animation",
+          "settings": {
+            "gltfIndex": 15,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "25d25": {
+          "uuid": "123909aa-7a04-4d48-a57e-c0a14c670376@25d25",
+          "name": "male_celebrity_Talk.animation",
+          "settings": {
+            "gltfIndex": 16,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4
+            },
+            "events": []
+          }
+        }
+      },
+      "textureSamplers": {
+        "50743": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "3effa": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "221a5": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "0089c": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9b633": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9b782": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "99ea5": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "006bd": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "531b0": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9c3d2": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        }
+      }
+    },
+    "male_ecommerce": {
+      "uuid": "d9e07bae-49c1-4fc9-bc29-cefdc534d0e9",
+      "prefabs": [
+        "d9e07bae-49c1-4fc9-bc29-cefdc534d0e9@d6181"
+      ],
+      "meshes": 9,
+      "skeletons": 1,
+      "animations": {
+        "18091": {
+          "uuid": "d9e07bae-49c1-4fc9-bc29-cefdc534d0e9@18091",
+          "name": "male_ecommerce_PistolWalk.animation",
+          "settings": {
+            "gltfIndex": 10,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "78866": {
+          "uuid": "d9e07bae-49c1-4fc9-bc29-cefdc534d0e9@78866",
+          "name": "male_ecommerce_PistolShot.animation",
+          "settings": {
+            "gltfIndex": 9,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "eba62": {
+          "uuid": "d9e07bae-49c1-4fc9-bc29-cefdc534d0e9@eba62",
+          "name": "male_ecommerce_Idle.animation",
+          "settings": {
+            "gltfIndex": 0,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4
+            },
+            "events": []
+          }
+        },
+        "f057f": {
+          "uuid": "d9e07bae-49c1-4fc9-bc29-cefdc534d0e9@f057f",
+          "name": "male_ecommerce_Walk.animation",
+          "settings": {
+            "gltfIndex": 1,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "59f75": {
+          "uuid": "d9e07bae-49c1-4fc9-bc29-cefdc534d0e9@59f75",
+          "name": "male_ecommerce_Run.animation",
+          "settings": {
+            "gltfIndex": 2,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "18d54": {
+          "uuid": "d9e07bae-49c1-4fc9-bc29-cefdc534d0e9@18d54",
+          "name": "male_ecommerce_Attack.animation",
+          "settings": {
+            "gltfIndex": 3,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "f4335": {
+          "uuid": "d9e07bae-49c1-4fc9-bc29-cefdc534d0e9@f4335",
+          "name": "male_ecommerce_Hit.animation",
+          "settings": {
+            "gltfIndex": 4,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.375
+            },
+            "events": []
+          }
+        },
+        "ab761": {
+          "uuid": "d9e07bae-49c1-4fc9-bc29-cefdc534d0e9@ab761",
+          "name": "male_ecommerce_Down.animation",
+          "settings": {
+            "gltfIndex": 5,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "2dffb": {
+          "uuid": "d9e07bae-49c1-4fc9-bc29-cefdc534d0e9@2dffb",
+          "name": "male_ecommerce_Rescue.animation",
+          "settings": {
+            "gltfIndex": 6,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "64e9a": {
+          "uuid": "d9e07bae-49c1-4fc9-bc29-cefdc534d0e9@64e9a",
+          "name": "male_ecommerce_Cast.animation",
+          "settings": {
+            "gltfIndex": 7,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "df416": {
+          "uuid": "d9e07bae-49c1-4fc9-bc29-cefdc534d0e9@df416",
+          "name": "male_ecommerce_PistolHold.animation",
+          "settings": {
+            "gltfIndex": 8,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "41be0": {
+          "uuid": "d9e07bae-49c1-4fc9-bc29-cefdc534d0e9@41be0",
+          "name": "male_ecommerce_PistolRun.animation",
+          "settings": {
+            "gltfIndex": 11,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "aedbd": {
+          "uuid": "d9e07bae-49c1-4fc9-bc29-cefdc534d0e9@aedbd",
+          "name": "male_ecommerce_RifleHold.animation",
+          "settings": {
+            "gltfIndex": 12,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "7212f": {
+          "uuid": "d9e07bae-49c1-4fc9-bc29-cefdc534d0e9@7212f",
+          "name": "male_ecommerce_RifleShot.animation",
+          "settings": {
+            "gltfIndex": 13,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "e8fa2": {
+          "uuid": "d9e07bae-49c1-4fc9-bc29-cefdc534d0e9@e8fa2",
+          "name": "male_ecommerce_RifleWalk.animation",
+          "settings": {
+            "gltfIndex": 14,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "1498d": {
+          "uuid": "d9e07bae-49c1-4fc9-bc29-cefdc534d0e9@1498d",
+          "name": "male_ecommerce_RifleRun.animation",
+          "settings": {
+            "gltfIndex": 15,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "8e8a5": {
+          "uuid": "d9e07bae-49c1-4fc9-bc29-cefdc534d0e9@8e8a5",
+          "name": "male_ecommerce_Talk.animation",
+          "settings": {
+            "gltfIndex": 16,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4
+            },
+            "events": []
+          }
+        }
+      },
+      "textureSamplers": {
+        "50743": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "3effa": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "221a5": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "0089c": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9b633": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9b782": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "99ea5": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "006bd": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "531b0": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9c3d2": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        }
+      }
+    },
+    "male_sales": {
+      "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79",
+      "prefabs": [
+        "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@4dc3d"
+      ],
+      "meshes": 9,
+      "skeletons": 1,
+      "animations": {
+        "20527": {
+          "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@20527",
+          "name": "male_sales_Run.animation",
+          "settings": {
+            "gltfIndex": 2,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "94909": {
+          "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@94909",
+          "name": "male_sales_Rescue.animation",
+          "settings": {
+            "gltfIndex": 6,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "199ea": {
+          "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@199ea",
+          "name": "male_sales_Idle.animation",
+          "settings": {
+            "gltfIndex": 0,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4
+            },
+            "events": []
+          }
+        },
+        "ab79b": {
+          "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@ab79b",
+          "name": "male_sales_Walk.animation",
+          "settings": {
+            "gltfIndex": 1,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "3a61e": {
+          "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@3a61e",
+          "name": "male_sales_Attack.animation",
+          "settings": {
+            "gltfIndex": 3,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "b73e7": {
+          "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@b73e7",
+          "name": "male_sales_Hit.animation",
+          "settings": {
+            "gltfIndex": 4,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.375
+            },
+            "events": []
+          }
+        },
+        "34fa2": {
+          "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@34fa2",
+          "name": "male_sales_Down.animation",
+          "settings": {
+            "gltfIndex": 5,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "494da": {
+          "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@494da",
+          "name": "male_sales_Cast.animation",
+          "settings": {
+            "gltfIndex": 7,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "09775": {
+          "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@09775",
+          "name": "male_sales_PistolHold.animation",
+          "settings": {
+            "gltfIndex": 8,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "e4d21": {
+          "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@e4d21",
+          "name": "male_sales_PistolShot.animation",
+          "settings": {
+            "gltfIndex": 9,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "5b533": {
+          "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@5b533",
+          "name": "male_sales_PistolWalk.animation",
+          "settings": {
+            "gltfIndex": 10,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "2fdbb": {
+          "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@2fdbb",
+          "name": "male_sales_PistolRun.animation",
+          "settings": {
+            "gltfIndex": 11,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "a3022": {
+          "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@a3022",
+          "name": "male_sales_RifleHold.animation",
+          "settings": {
+            "gltfIndex": 12,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "99e6e": {
+          "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@99e6e",
+          "name": "male_sales_RifleShot.animation",
+          "settings": {
+            "gltfIndex": 13,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "e5c2c": {
+          "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@e5c2c",
+          "name": "male_sales_RifleWalk.animation",
+          "settings": {
+            "gltfIndex": 14,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "aeecf": {
+          "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@aeecf",
+          "name": "male_sales_RifleRun.animation",
+          "settings": {
+            "gltfIndex": 15,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "597a7": {
+          "uuid": "46239ccc-7fa0-4aeb-8ee1-6f6c23497f79@597a7",
+          "name": "male_sales_Talk.animation",
+          "settings": {
+            "gltfIndex": 16,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4
+            },
+            "events": []
+          }
+        }
+      },
+      "textureSamplers": {
+        "50743": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "3effa": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "221a5": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "0089c": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9b633": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9b782": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "99ea5": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "006bd": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "531b0": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9c3d2": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        }
+      }
+    },
+    "female_sales": {
+      "uuid": "ede83361-5e3d-442b-a5c3-460eea4d2e0a",
+      "prefabs": [
+        "ede83361-5e3d-442b-a5c3-460eea4d2e0a@7f3bb"
+      ],
+      "meshes": 9,
+      "skeletons": 1,
+      "animations": {
+        "dde6f": {
+          "uuid": "ede83361-5e3d-442b-a5c3-460eea4d2e0a@dde6f",
+          "name": "female_sales_Idle.animation",
+          "settings": {
+            "gltfIndex": 0,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4
+            },
+            "events": []
+          }
+        },
+        "8e322": {
+          "uuid": "ede83361-5e3d-442b-a5c3-460eea4d2e0a@8e322",
+          "name": "female_sales_Walk.animation",
+          "settings": {
+            "gltfIndex": 1,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "754ce": {
+          "uuid": "ede83361-5e3d-442b-a5c3-460eea4d2e0a@754ce",
+          "name": "female_sales_Run.animation",
+          "settings": {
+            "gltfIndex": 2,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "a258f": {
+          "uuid": "ede83361-5e3d-442b-a5c3-460eea4d2e0a@a258f",
+          "name": "female_sales_Attack.animation",
+          "settings": {
+            "gltfIndex": 3,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "ae7fb": {
+          "uuid": "ede83361-5e3d-442b-a5c3-460eea4d2e0a@ae7fb",
+          "name": "female_sales_Hit.animation",
+          "settings": {
+            "gltfIndex": 4,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.375
+            },
+            "events": []
+          }
+        },
+        "cf45f": {
+          "uuid": "ede83361-5e3d-442b-a5c3-460eea4d2e0a@cf45f",
+          "name": "female_sales_Down.animation",
+          "settings": {
+            "gltfIndex": 5,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "e1584": {
+          "uuid": "ede83361-5e3d-442b-a5c3-460eea4d2e0a@e1584",
+          "name": "female_sales_Rescue.animation",
+          "settings": {
+            "gltfIndex": 6,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "604f6": {
+          "uuid": "ede83361-5e3d-442b-a5c3-460eea4d2e0a@604f6",
+          "name": "female_sales_Cast.animation",
+          "settings": {
+            "gltfIndex": 7,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "73e0c": {
+          "uuid": "ede83361-5e3d-442b-a5c3-460eea4d2e0a@73e0c",
+          "name": "female_sales_PistolHold.animation",
+          "settings": {
+            "gltfIndex": 8,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "e15a2": {
+          "uuid": "ede83361-5e3d-442b-a5c3-460eea4d2e0a@e15a2",
+          "name": "female_sales_PistolShot.animation",
+          "settings": {
+            "gltfIndex": 9,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "663a6": {
+          "uuid": "ede83361-5e3d-442b-a5c3-460eea4d2e0a@663a6",
+          "name": "female_sales_PistolWalk.animation",
+          "settings": {
+            "gltfIndex": 10,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "eb70d": {
+          "uuid": "ede83361-5e3d-442b-a5c3-460eea4d2e0a@eb70d",
+          "name": "female_sales_PistolRun.animation",
+          "settings": {
+            "gltfIndex": 11,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "0ce65": {
+          "uuid": "ede83361-5e3d-442b-a5c3-460eea4d2e0a@0ce65",
+          "name": "female_sales_RifleHold.animation",
+          "settings": {
+            "gltfIndex": 12,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "111c5": {
+          "uuid": "ede83361-5e3d-442b-a5c3-460eea4d2e0a@111c5",
+          "name": "female_sales_RifleShot.animation",
+          "settings": {
+            "gltfIndex": 13,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "79d25": {
+          "uuid": "ede83361-5e3d-442b-a5c3-460eea4d2e0a@79d25",
+          "name": "female_sales_RifleWalk.animation",
+          "settings": {
+            "gltfIndex": 14,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "20d90": {
+          "uuid": "ede83361-5e3d-442b-a5c3-460eea4d2e0a@20d90",
+          "name": "female_sales_RifleRun.animation",
+          "settings": {
+            "gltfIndex": 15,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "beee1": {
+          "uuid": "ede83361-5e3d-442b-a5c3-460eea4d2e0a@beee1",
+          "name": "female_sales_Talk.animation",
+          "settings": {
+            "gltfIndex": 16,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4
+            },
+            "events": []
+          }
+        }
+      },
+      "textureSamplers": {
+        "50743": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "3effa": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "221a5": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "0089c": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9b633": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9b782": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "99ea5": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "006bd": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "531b0": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9c3d2": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        }
+      }
+    },
+    "programmer": {
+      "uuid": "a165760f-e1f7-48d8-aaf0-055fe126d8dc",
+      "prefabs": [
+        "a165760f-e1f7-48d8-aaf0-055fe126d8dc@e0595"
+      ],
+      "meshes": 9,
+      "skeletons": 1,
+      "animations": {
+        "48014": {
+          "uuid": "a165760f-e1f7-48d8-aaf0-055fe126d8dc@48014",
+          "name": "male_programmer_PistolHold.animation",
+          "settings": {
+            "gltfIndex": 8,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "1c65b": {
+          "uuid": "a165760f-e1f7-48d8-aaf0-055fe126d8dc@1c65b",
+          "name": "male_programmer_Idle.animation",
+          "settings": {
+            "gltfIndex": 0,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4
+            },
+            "events": []
+          }
+        },
+        "ac3ba": {
+          "uuid": "a165760f-e1f7-48d8-aaf0-055fe126d8dc@ac3ba",
+          "name": "male_programmer_Walk.animation",
+          "settings": {
+            "gltfIndex": 1,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "8bd13": {
+          "uuid": "a165760f-e1f7-48d8-aaf0-055fe126d8dc@8bd13",
+          "name": "male_programmer_Run.animation",
+          "settings": {
+            "gltfIndex": 2,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "44a72": {
+          "uuid": "a165760f-e1f7-48d8-aaf0-055fe126d8dc@44a72",
+          "name": "male_programmer_Attack.animation",
+          "settings": {
+            "gltfIndex": 3,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "4d176": {
+          "uuid": "a165760f-e1f7-48d8-aaf0-055fe126d8dc@4d176",
+          "name": "male_programmer_Hit.animation",
+          "settings": {
+            "gltfIndex": 4,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.375
+            },
+            "events": []
+          }
+        },
+        "6187f": {
+          "uuid": "a165760f-e1f7-48d8-aaf0-055fe126d8dc@6187f",
+          "name": "male_programmer_Down.animation",
+          "settings": {
+            "gltfIndex": 5,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "c5d1f": {
+          "uuid": "a165760f-e1f7-48d8-aaf0-055fe126d8dc@c5d1f",
+          "name": "male_programmer_Rescue.animation",
+          "settings": {
+            "gltfIndex": 6,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "ce594": {
+          "uuid": "a165760f-e1f7-48d8-aaf0-055fe126d8dc@ce594",
+          "name": "male_programmer_Cast.animation",
+          "settings": {
+            "gltfIndex": 7,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "5f9c1": {
+          "uuid": "a165760f-e1f7-48d8-aaf0-055fe126d8dc@5f9c1",
+          "name": "male_programmer_PistolShot.animation",
+          "settings": {
+            "gltfIndex": 9,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "57d8c": {
+          "uuid": "a165760f-e1f7-48d8-aaf0-055fe126d8dc@57d8c",
+          "name": "male_programmer_PistolWalk.animation",
+          "settings": {
+            "gltfIndex": 10,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "4d096": {
+          "uuid": "a165760f-e1f7-48d8-aaf0-055fe126d8dc@4d096",
+          "name": "male_programmer_PistolRun.animation",
+          "settings": {
+            "gltfIndex": 11,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "bda9e": {
+          "uuid": "a165760f-e1f7-48d8-aaf0-055fe126d8dc@bda9e",
+          "name": "male_programmer_RifleHold.animation",
+          "settings": {
+            "gltfIndex": 12,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "1e087": {
+          "uuid": "a165760f-e1f7-48d8-aaf0-055fe126d8dc@1e087",
+          "name": "male_programmer_RifleShot.animation",
+          "settings": {
+            "gltfIndex": 13,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "6a406": {
+          "uuid": "a165760f-e1f7-48d8-aaf0-055fe126d8dc@6a406",
+          "name": "male_programmer_RifleWalk.animation",
+          "settings": {
+            "gltfIndex": 14,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "30eb6": {
+          "uuid": "a165760f-e1f7-48d8-aaf0-055fe126d8dc@30eb6",
+          "name": "male_programmer_RifleRun.animation",
+          "settings": {
+            "gltfIndex": 15,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "082ae": {
+          "uuid": "a165760f-e1f7-48d8-aaf0-055fe126d8dc@082ae",
+          "name": "male_programmer_Talk.animation",
+          "settings": {
+            "gltfIndex": 16,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4
+            },
+            "events": []
+          }
+        }
+      },
+      "textureSamplers": {
+        "50743": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "3effa": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "221a5": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "0089c": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9b633": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9b782": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "99ea5": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "006bd": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "531b0": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9c3d2": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "f7e17": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        }
+      }
+    },
+    "female_programmer": {
+      "uuid": "aa70c412-beb0-488a-9a4b-8948c3c728aa",
+      "prefabs": [
+        "aa70c412-beb0-488a-9a4b-8948c3c728aa@97528"
+      ],
+      "meshes": 9,
+      "skeletons": 1,
+      "animations": {
+        "42848": {
+          "uuid": "aa70c412-beb0-488a-9a4b-8948c3c728aa@42848",
+          "name": "female_programmer_RifleHold.animation",
+          "settings": {
+            "gltfIndex": 12,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "8e035": {
+          "uuid": "aa70c412-beb0-488a-9a4b-8948c3c728aa@8e035",
+          "name": "female_programmer_Idle.animation",
+          "settings": {
+            "gltfIndex": 0,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4
+            },
+            "events": []
+          }
+        },
+        "b0c37": {
+          "uuid": "aa70c412-beb0-488a-9a4b-8948c3c728aa@b0c37",
+          "name": "female_programmer_Walk.animation",
+          "settings": {
+            "gltfIndex": 1,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "b332a": {
+          "uuid": "aa70c412-beb0-488a-9a4b-8948c3c728aa@b332a",
+          "name": "female_programmer_Run.animation",
+          "settings": {
+            "gltfIndex": 2,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "a3e37": {
+          "uuid": "aa70c412-beb0-488a-9a4b-8948c3c728aa@a3e37",
+          "name": "female_programmer_Attack.animation",
+          "settings": {
+            "gltfIndex": 3,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "30cb8": {
+          "uuid": "aa70c412-beb0-488a-9a4b-8948c3c728aa@30cb8",
+          "name": "female_programmer_Hit.animation",
+          "settings": {
+            "gltfIndex": 4,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.375
+            },
+            "events": []
+          }
+        },
+        "80f3d": {
+          "uuid": "aa70c412-beb0-488a-9a4b-8948c3c728aa@80f3d",
+          "name": "female_programmer_Down.animation",
+          "settings": {
+            "gltfIndex": 5,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "26fb2": {
+          "uuid": "aa70c412-beb0-488a-9a4b-8948c3c728aa@26fb2",
+          "name": "female_programmer_Rescue.animation",
+          "settings": {
+            "gltfIndex": 6,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "b49b1": {
+          "uuid": "aa70c412-beb0-488a-9a4b-8948c3c728aa@b49b1",
+          "name": "female_programmer_Cast.animation",
+          "settings": {
+            "gltfIndex": 7,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "fa7b3": {
+          "uuid": "aa70c412-beb0-488a-9a4b-8948c3c728aa@fa7b3",
+          "name": "female_programmer_PistolHold.animation",
+          "settings": {
+            "gltfIndex": 8,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "bd84d": {
+          "uuid": "aa70c412-beb0-488a-9a4b-8948c3c728aa@bd84d",
+          "name": "female_programmer_PistolShot.animation",
+          "settings": {
+            "gltfIndex": 9,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "370eb": {
+          "uuid": "aa70c412-beb0-488a-9a4b-8948c3c728aa@370eb",
+          "name": "female_programmer_PistolWalk.animation",
+          "settings": {
+            "gltfIndex": 10,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "816dc": {
+          "uuid": "aa70c412-beb0-488a-9a4b-8948c3c728aa@816dc",
+          "name": "female_programmer_PistolRun.animation",
+          "settings": {
+            "gltfIndex": 11,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "840dc": {
+          "uuid": "aa70c412-beb0-488a-9a4b-8948c3c728aa@840dc",
+          "name": "female_programmer_RifleShot.animation",
+          "settings": {
+            "gltfIndex": 13,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "3814f": {
+          "uuid": "aa70c412-beb0-488a-9a4b-8948c3c728aa@3814f",
+          "name": "female_programmer_RifleWalk.animation",
+          "settings": {
+            "gltfIndex": 14,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "f2e11": {
+          "uuid": "aa70c412-beb0-488a-9a4b-8948c3c728aa@f2e11",
+          "name": "female_programmer_RifleRun.animation",
+          "settings": {
+            "gltfIndex": 15,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "023be": {
+          "uuid": "aa70c412-beb0-488a-9a4b-8948c3c728aa@023be",
+          "name": "female_programmer_Talk.animation",
+          "settings": {
+            "gltfIndex": 16,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4
+            },
+            "events": []
+          }
+        }
+      },
+      "textureSamplers": {
+        "50743": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "3effa": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "221a5": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "0089c": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9b633": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9b782": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "99ea5": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "006bd": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "531b0": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9c3d2": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "f7e17": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        }
+      }
+    },
+    "female_ecommerce": {
+      "uuid": "39565c78-4f20-4371-929d-9ac3c38d8003",
+      "prefabs": [
+        "39565c78-4f20-4371-929d-9ac3c38d8003@b8e2d"
+      ],
+      "meshes": 9,
+      "skeletons": 1,
+      "animations": {
+        "69367": {
+          "uuid": "39565c78-4f20-4371-929d-9ac3c38d8003@69367",
+          "name": "female_ecommerce_Rescue.animation",
+          "settings": {
+            "gltfIndex": 6,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "c05b8": {
+          "uuid": "39565c78-4f20-4371-929d-9ac3c38d8003@c05b8",
+          "name": "female_ecommerce_Idle.animation",
+          "settings": {
+            "gltfIndex": 0,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4
+            },
+            "events": []
+          }
+        },
+        "7ab5c": {
+          "uuid": "39565c78-4f20-4371-929d-9ac3c38d8003@7ab5c",
+          "name": "female_ecommerce_Walk.animation",
+          "settings": {
+            "gltfIndex": 1,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "9badc": {
+          "uuid": "39565c78-4f20-4371-929d-9ac3c38d8003@9badc",
+          "name": "female_ecommerce_Run.animation",
+          "settings": {
+            "gltfIndex": 2,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "f43e1": {
+          "uuid": "39565c78-4f20-4371-929d-9ac3c38d8003@f43e1",
+          "name": "female_ecommerce_Attack.animation",
+          "settings": {
+            "gltfIndex": 3,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "a5780": {
+          "uuid": "39565c78-4f20-4371-929d-9ac3c38d8003@a5780",
+          "name": "female_ecommerce_Hit.animation",
+          "settings": {
+            "gltfIndex": 4,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.375
+            },
+            "events": []
+          }
+        },
+        "d98a3": {
+          "uuid": "39565c78-4f20-4371-929d-9ac3c38d8003@d98a3",
+          "name": "female_ecommerce_Down.animation",
+          "settings": {
+            "gltfIndex": 5,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "2a12d": {
+          "uuid": "39565c78-4f20-4371-929d-9ac3c38d8003@2a12d",
+          "name": "female_ecommerce_Cast.animation",
+          "settings": {
+            "gltfIndex": 7,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "4e3d7": {
+          "uuid": "39565c78-4f20-4371-929d-9ac3c38d8003@4e3d7",
+          "name": "female_ecommerce_PistolHold.animation",
+          "settings": {
+            "gltfIndex": 8,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "8c77e": {
+          "uuid": "39565c78-4f20-4371-929d-9ac3c38d8003@8c77e",
+          "name": "female_ecommerce_PistolShot.animation",
+          "settings": {
+            "gltfIndex": 9,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "054f5": {
+          "uuid": "39565c78-4f20-4371-929d-9ac3c38d8003@054f5",
+          "name": "female_ecommerce_PistolWalk.animation",
+          "settings": {
+            "gltfIndex": 10,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "b3cfc": {
+          "uuid": "39565c78-4f20-4371-929d-9ac3c38d8003@b3cfc",
+          "name": "female_ecommerce_PistolRun.animation",
+          "settings": {
+            "gltfIndex": 11,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "060e3": {
+          "uuid": "39565c78-4f20-4371-929d-9ac3c38d8003@060e3",
+          "name": "female_ecommerce_RifleHold.animation",
+          "settings": {
+            "gltfIndex": 12,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "1c41a": {
+          "uuid": "39565c78-4f20-4371-929d-9ac3c38d8003@1c41a",
+          "name": "female_ecommerce_RifleShot.animation",
+          "settings": {
+            "gltfIndex": 13,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "a4008": {
+          "uuid": "39565c78-4f20-4371-929d-9ac3c38d8003@a4008",
+          "name": "female_ecommerce_RifleWalk.animation",
+          "settings": {
+            "gltfIndex": 14,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "7790d": {
+          "uuid": "39565c78-4f20-4371-929d-9ac3c38d8003@7790d",
+          "name": "female_ecommerce_RifleRun.animation",
+          "settings": {
+            "gltfIndex": 15,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "700a6": {
+          "uuid": "39565c78-4f20-4371-929d-9ac3c38d8003@700a6",
+          "name": "female_ecommerce_Talk.animation",
+          "settings": {
+            "gltfIndex": 16,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4
+            },
+            "events": []
+          }
+        }
+      },
+      "textureSamplers": {
+        "50743": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "3effa": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "221a5": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "0089c": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9b633": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9b782": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "99ea5": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "006bd": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "531b0": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9c3d2": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        }
+      }
+    },
+    "female_celebrity": {
+      "uuid": "c8df07a5-1b40-4709-8ba1-103e1f2ce10d",
+      "prefabs": [
+        "c8df07a5-1b40-4709-8ba1-103e1f2ce10d@ad70a"
+      ],
+      "meshes": 9,
+      "skeletons": 1,
+      "animations": {
+        "15318": {
+          "uuid": "c8df07a5-1b40-4709-8ba1-103e1f2ce10d@15318",
+          "name": "female_celebrity_Run.animation",
+          "settings": {
+            "gltfIndex": 2,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "31390": {
+          "uuid": "c8df07a5-1b40-4709-8ba1-103e1f2ce10d@31390",
+          "name": "female_celebrity_Attack.animation",
+          "settings": {
+            "gltfIndex": 3,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "edc41": {
+          "uuid": "c8df07a5-1b40-4709-8ba1-103e1f2ce10d@edc41",
+          "name": "female_celebrity_Idle.animation",
+          "settings": {
+            "gltfIndex": 0,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4
+            },
+            "events": []
+          }
+        },
+        "6a019": {
+          "uuid": "c8df07a5-1b40-4709-8ba1-103e1f2ce10d@6a019",
+          "name": "female_celebrity_Walk.animation",
+          "settings": {
+            "gltfIndex": 1,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "27d70": {
+          "uuid": "c8df07a5-1b40-4709-8ba1-103e1f2ce10d@27d70",
+          "name": "female_celebrity_Hit.animation",
+          "settings": {
+            "gltfIndex": 4,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.375
+            },
+            "events": []
+          }
+        },
+        "d738c": {
+          "uuid": "c8df07a5-1b40-4709-8ba1-103e1f2ce10d@d738c",
+          "name": "female_celebrity_Down.animation",
+          "settings": {
+            "gltfIndex": 5,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "85d1b": {
+          "uuid": "c8df07a5-1b40-4709-8ba1-103e1f2ce10d@85d1b",
+          "name": "female_celebrity_Rescue.animation",
+          "settings": {
+            "gltfIndex": 6,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "f4aca": {
+          "uuid": "c8df07a5-1b40-4709-8ba1-103e1f2ce10d@f4aca",
+          "name": "female_celebrity_Cast.animation",
+          "settings": {
+            "gltfIndex": 7,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "e182f": {
+          "uuid": "c8df07a5-1b40-4709-8ba1-103e1f2ce10d@e182f",
+          "name": "female_celebrity_PistolHold.animation",
+          "settings": {
+            "gltfIndex": 8,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "f6196": {
+          "uuid": "c8df07a5-1b40-4709-8ba1-103e1f2ce10d@f6196",
+          "name": "female_celebrity_PistolShot.animation",
+          "settings": {
+            "gltfIndex": 9,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "ffc65": {
+          "uuid": "c8df07a5-1b40-4709-8ba1-103e1f2ce10d@ffc65",
+          "name": "female_celebrity_PistolWalk.animation",
+          "settings": {
+            "gltfIndex": 10,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "8dd1d": {
+          "uuid": "c8df07a5-1b40-4709-8ba1-103e1f2ce10d@8dd1d",
+          "name": "female_celebrity_PistolRun.animation",
+          "settings": {
+            "gltfIndex": 11,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "ab14a": {
+          "uuid": "c8df07a5-1b40-4709-8ba1-103e1f2ce10d@ab14a",
+          "name": "female_celebrity_RifleHold.animation",
+          "settings": {
+            "gltfIndex": 12,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "cfb33": {
+          "uuid": "c8df07a5-1b40-4709-8ba1-103e1f2ce10d@cfb33",
+          "name": "female_celebrity_RifleShot.animation",
+          "settings": {
+            "gltfIndex": 13,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "50bd3": {
+          "uuid": "c8df07a5-1b40-4709-8ba1-103e1f2ce10d@50bd3",
+          "name": "female_celebrity_RifleWalk.animation",
+          "settings": {
+            "gltfIndex": 14,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "a6cc8": {
+          "uuid": "c8df07a5-1b40-4709-8ba1-103e1f2ce10d@a6cc8",
+          "name": "female_celebrity_RifleRun.animation",
+          "settings": {
+            "gltfIndex": 15,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "8f086": {
+          "uuid": "c8df07a5-1b40-4709-8ba1-103e1f2ce10d@8f086",
+          "name": "female_celebrity_Talk.animation",
+          "settings": {
+            "gltfIndex": 16,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4
+            },
+            "events": []
+          }
+        }
+      },
+      "textureSamplers": {
+        "50743": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "3effa": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "221a5": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "0089c": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9b633": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9b782": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "99ea5": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "006bd": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "531b0": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9c3d2": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        }
+      }
+    },
+    "female_doctor": {
+      "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69",
+      "prefabs": [
+        "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@1a0e5"
+      ],
+      "meshes": 15,
+      "skeletons": 1,
+      "animations": {
+        "48866": {
+          "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@48866",
+          "name": "female_doctor_Cast.animation",
+          "settings": {
+            "gltfIndex": 7,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "74296": {
+          "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@74296",
+          "name": "female_doctor_RifleShot.animation",
+          "settings": {
+            "gltfIndex": 13,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "236b2": {
+          "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@236b2",
+          "name": "female_doctor_Idle.animation",
+          "settings": {
+            "gltfIndex": 0,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4
+            },
+            "events": []
+          }
+        },
+        "ad589": {
+          "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@ad589",
+          "name": "female_doctor_Walk.animation",
+          "settings": {
+            "gltfIndex": 1,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "1fb3c": {
+          "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@1fb3c",
+          "name": "female_doctor_Run.animation",
+          "settings": {
+            "gltfIndex": 2,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "bc922": {
+          "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@bc922",
+          "name": "female_doctor_Attack.animation",
+          "settings": {
+            "gltfIndex": 3,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "3e4e1": {
+          "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@3e4e1",
+          "name": "female_doctor_Hit.animation",
+          "settings": {
+            "gltfIndex": 4,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.375
+            },
+            "events": []
+          }
+        },
+        "f719d": {
+          "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@f719d",
+          "name": "female_doctor_Down.animation",
+          "settings": {
+            "gltfIndex": 5,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "7fc28": {
+          "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@7fc28",
+          "name": "female_doctor_Rescue.animation",
+          "settings": {
+            "gltfIndex": 6,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "3e62b": {
+          "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@3e62b",
+          "name": "female_doctor_PistolHold.animation",
+          "settings": {
+            "gltfIndex": 8,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "7a1f8": {
+          "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@7a1f8",
+          "name": "female_doctor_PistolShot.animation",
+          "settings": {
+            "gltfIndex": 9,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "561e7": {
+          "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@561e7",
+          "name": "female_doctor_PistolWalk.animation",
+          "settings": {
+            "gltfIndex": 10,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "90dd4": {
+          "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@90dd4",
+          "name": "female_doctor_PistolRun.animation",
+          "settings": {
+            "gltfIndex": 11,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "5107d": {
+          "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@5107d",
+          "name": "female_doctor_RifleHold.animation",
+          "settings": {
+            "gltfIndex": 12,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "5e90e": {
+          "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@5e90e",
+          "name": "female_doctor_RifleWalk.animation",
+          "settings": {
+            "gltfIndex": 14,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "d338c": {
+          "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@d338c",
+          "name": "female_doctor_RifleRun.animation",
+          "settings": {
+            "gltfIndex": 15,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "ef1df": {
+          "uuid": "9f7f7b6e-662e-5c09-9a49-125f4b09ff69@ef1df",
+          "name": "female_doctor_Talk.animation",
+          "settings": {
+            "gltfIndex": 16,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4
+            },
+            "events": []
+          }
+        }
+      },
+      "textureSamplers": {
+        "50743": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "3effa": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "221a5": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "0089c": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9b633": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9b782": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "99ea5": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "006bd": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        }
+      }
+    },
+    "female_teacher": {
+      "uuid": "1d5211ee-93b2-5bba-8a1d-91ec1d5dac51",
+      "prefabs": [
+        "1d5211ee-93b2-5bba-8a1d-91ec1d5dac51@2b2ef"
+      ],
+      "meshes": 16,
+      "skeletons": 1,
+      "animations": {
+        "75302": {
+          "uuid": "1d5211ee-93b2-5bba-8a1d-91ec1d5dac51@75302",
+          "name": "female_teacher_Cast.animation",
+          "settings": {
+            "gltfIndex": 7,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "addb2": {
+          "uuid": "1d5211ee-93b2-5bba-8a1d-91ec1d5dac51@addb2",
+          "name": "female_teacher_Idle.animation",
+          "settings": {
+            "gltfIndex": 0,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4
+            },
+            "events": []
+          }
+        },
+        "1625e": {
+          "uuid": "1d5211ee-93b2-5bba-8a1d-91ec1d5dac51@1625e",
+          "name": "female_teacher_Walk.animation",
+          "settings": {
+            "gltfIndex": 1,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "a71de": {
+          "uuid": "1d5211ee-93b2-5bba-8a1d-91ec1d5dac51@a71de",
+          "name": "female_teacher_Run.animation",
+          "settings": {
+            "gltfIndex": 2,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "e3f3d": {
+          "uuid": "1d5211ee-93b2-5bba-8a1d-91ec1d5dac51@e3f3d",
+          "name": "female_teacher_Attack.animation",
+          "settings": {
+            "gltfIndex": 3,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "dc583": {
+          "uuid": "1d5211ee-93b2-5bba-8a1d-91ec1d5dac51@dc583",
+          "name": "female_teacher_Hit.animation",
+          "settings": {
+            "gltfIndex": 4,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.375
+            },
+            "events": []
+          }
+        },
+        "6785c": {
+          "uuid": "1d5211ee-93b2-5bba-8a1d-91ec1d5dac51@6785c",
+          "name": "female_teacher_Down.animation",
+          "settings": {
+            "gltfIndex": 5,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "4d5a9": {
+          "uuid": "1d5211ee-93b2-5bba-8a1d-91ec1d5dac51@4d5a9",
+          "name": "female_teacher_Rescue.animation",
+          "settings": {
+            "gltfIndex": 6,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "7ad2f": {
+          "uuid": "1d5211ee-93b2-5bba-8a1d-91ec1d5dac51@7ad2f",
+          "name": "female_teacher_PistolHold.animation",
+          "settings": {
+            "gltfIndex": 8,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "431c4": {
+          "uuid": "1d5211ee-93b2-5bba-8a1d-91ec1d5dac51@431c4",
+          "name": "female_teacher_PistolShot.animation",
+          "settings": {
+            "gltfIndex": 9,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "d4a85": {
+          "uuid": "1d5211ee-93b2-5bba-8a1d-91ec1d5dac51@d4a85",
+          "name": "female_teacher_PistolWalk.animation",
+          "settings": {
+            "gltfIndex": 10,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "0d6cc": {
+          "uuid": "1d5211ee-93b2-5bba-8a1d-91ec1d5dac51@0d6cc",
+          "name": "female_teacher_PistolRun.animation",
+          "settings": {
+            "gltfIndex": 11,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "f8b3c": {
+          "uuid": "1d5211ee-93b2-5bba-8a1d-91ec1d5dac51@f8b3c",
+          "name": "female_teacher_RifleHold.animation",
+          "settings": {
+            "gltfIndex": 12,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2
+            },
+            "events": []
+          }
+        },
+        "dd115": {
+          "uuid": "1d5211ee-93b2-5bba-8a1d-91ec1d5dac51@dd115",
+          "name": "female_teacher_RifleShot.animation",
+          "settings": {
+            "gltfIndex": 13,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5
+            },
+            "events": []
+          }
+        },
+        "f85e1": {
+          "uuid": "1d5211ee-93b2-5bba-8a1d-91ec1d5dac51@f85e1",
+          "name": "female_teacher_RifleWalk.animation",
+          "settings": {
+            "gltfIndex": 14,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1
+            },
+            "events": []
+          }
+        },
+        "632cb": {
+          "uuid": "1d5211ee-93b2-5bba-8a1d-91ec1d5dac51@632cb",
+          "name": "female_teacher_RifleRun.animation",
+          "settings": {
+            "gltfIndex": 15,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.75
+            },
+            "events": []
+          }
+        },
+        "5ed0d": {
+          "uuid": "1d5211ee-93b2-5bba-8a1d-91ec1d5dac51@5ed0d",
+          "name": "female_teacher_Talk.animation",
+          "settings": {
+            "gltfIndex": 16,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4
+            },
+            "events": []
+          }
+        }
+      },
+      "textureSamplers": {
+        "50743": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "3effa": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "221a5": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "0089c": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9b633": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "9b782": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "99ea5": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "006bd": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        }
+      }
+    },
+    "fp_male_programmer": {
+      "uuid": "9de69478-492b-57c2-af9a-c2084ea241f8",
+      "prefabs": [
+        "9de69478-492b-57c2-af9a-c2084ea241f8@1f343"
+      ],
+      "meshes": 2,
+      "skeletons": 1,
+      "animations": {
+        "48014": {
+          "uuid": "9de69478-492b-57c2-af9a-c2084ea241f8@48014",
+          "name": "male_programmer_PistolHold.animation",
+          "settings": {
+            "gltfIndex": 7,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "30eb6": {
+          "uuid": "9de69478-492b-57c2-af9a-c2084ea241f8@30eb6",
+          "name": "male_programmer_RifleRun.animation",
+          "settings": {
+            "gltfIndex": 0,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "6a406": {
+          "uuid": "9de69478-492b-57c2-af9a-c2084ea241f8@6a406",
+          "name": "male_programmer_RifleWalk.animation",
+          "settings": {
+            "gltfIndex": 1,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "1e087": {
+          "uuid": "9de69478-492b-57c2-af9a-c2084ea241f8@1e087",
+          "name": "male_programmer_RifleShot.animation",
+          "settings": {
+            "gltfIndex": 2,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "bda9e": {
+          "uuid": "9de69478-492b-57c2-af9a-c2084ea241f8@bda9e",
+          "name": "male_programmer_RifleHold.animation",
+          "settings": {
+            "gltfIndex": 3,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "4d096": {
+          "uuid": "9de69478-492b-57c2-af9a-c2084ea241f8@4d096",
+          "name": "male_programmer_PistolRun.animation",
+          "settings": {
+            "gltfIndex": 4,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "57d8c": {
+          "uuid": "9de69478-492b-57c2-af9a-c2084ea241f8@57d8c",
+          "name": "male_programmer_PistolWalk.animation",
+          "settings": {
+            "gltfIndex": 5,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "5f9c1": {
+          "uuid": "9de69478-492b-57c2-af9a-c2084ea241f8@5f9c1",
+          "name": "male_programmer_PistolShot.animation",
+          "settings": {
+            "gltfIndex": 6,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "ce594": {
+          "uuid": "9de69478-492b-57c2-af9a-c2084ea241f8@ce594",
+          "name": "male_programmer_Cast.animation",
+          "settings": {
+            "gltfIndex": 8,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "c5d1f": {
+          "uuid": "9de69478-492b-57c2-af9a-c2084ea241f8@c5d1f",
+          "name": "male_programmer_Rescue.animation",
+          "settings": {
+            "gltfIndex": 9,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "6187f": {
+          "uuid": "9de69478-492b-57c2-af9a-c2084ea241f8@6187f",
+          "name": "male_programmer_Down.animation",
+          "settings": {
+            "gltfIndex": 10,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "4d176": {
+          "uuid": "9de69478-492b-57c2-af9a-c2084ea241f8@4d176",
+          "name": "male_programmer_Hit.animation",
+          "settings": {
+            "gltfIndex": 11,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.4166666567325592
+            },
+            "events": []
+          }
+        },
+        "44a72": {
+          "uuid": "9de69478-492b-57c2-af9a-c2084ea241f8@44a72",
+          "name": "male_programmer_Attack.animation",
+          "settings": {
+            "gltfIndex": 12,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "8bd13": {
+          "uuid": "9de69478-492b-57c2-af9a-c2084ea241f8@8bd13",
+          "name": "male_programmer_Run.animation",
+          "settings": {
+            "gltfIndex": 13,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "ac3ba": {
+          "uuid": "9de69478-492b-57c2-af9a-c2084ea241f8@ac3ba",
+          "name": "male_programmer_Walk.animation",
+          "settings": {
+            "gltfIndex": 14,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "1c65b": {
+          "uuid": "9de69478-492b-57c2-af9a-c2084ea241f8@1c65b",
+          "name": "male_programmer_Idle.animation",
+          "settings": {
+            "gltfIndex": 15,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4.041666507720947
+            },
+            "events": []
+          }
+        }
+      },
+      "textureSamplers": {
+        "3effa": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "221a5": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        }
+      }
+    },
+    "fp_male_ecommerce": {
+      "uuid": "56123d72-031e-5b35-ae92-5f2b790673a6",
+      "prefabs": [
+        "56123d72-031e-5b35-ae92-5f2b790673a6@a5285"
+      ],
+      "meshes": 2,
+      "skeletons": 1,
+      "animations": {
+        "18091": {
+          "uuid": "56123d72-031e-5b35-ae92-5f2b790673a6@18091",
+          "name": "male_ecommerce_PistolWalk.animation",
+          "settings": {
+            "gltfIndex": 5,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "78866": {
+          "uuid": "56123d72-031e-5b35-ae92-5f2b790673a6@78866",
+          "name": "male_ecommerce_PistolShot.animation",
+          "settings": {
+            "gltfIndex": 6,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "1498d": {
+          "uuid": "56123d72-031e-5b35-ae92-5f2b790673a6@1498d",
+          "name": "male_ecommerce_RifleRun.animation",
+          "settings": {
+            "gltfIndex": 0,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "e8fa2": {
+          "uuid": "56123d72-031e-5b35-ae92-5f2b790673a6@e8fa2",
+          "name": "male_ecommerce_RifleWalk.animation",
+          "settings": {
+            "gltfIndex": 1,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "7212f": {
+          "uuid": "56123d72-031e-5b35-ae92-5f2b790673a6@7212f",
+          "name": "male_ecommerce_RifleShot.animation",
+          "settings": {
+            "gltfIndex": 2,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "aedbd": {
+          "uuid": "56123d72-031e-5b35-ae92-5f2b790673a6@aedbd",
+          "name": "male_ecommerce_RifleHold.animation",
+          "settings": {
+            "gltfIndex": 3,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "41be0": {
+          "uuid": "56123d72-031e-5b35-ae92-5f2b790673a6@41be0",
+          "name": "male_ecommerce_PistolRun.animation",
+          "settings": {
+            "gltfIndex": 4,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "df416": {
+          "uuid": "56123d72-031e-5b35-ae92-5f2b790673a6@df416",
+          "name": "male_ecommerce_PistolHold.animation",
+          "settings": {
+            "gltfIndex": 7,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "64e9a": {
+          "uuid": "56123d72-031e-5b35-ae92-5f2b790673a6@64e9a",
+          "name": "male_ecommerce_Cast.animation",
+          "settings": {
+            "gltfIndex": 8,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "2dffb": {
+          "uuid": "56123d72-031e-5b35-ae92-5f2b790673a6@2dffb",
+          "name": "male_ecommerce_Rescue.animation",
+          "settings": {
+            "gltfIndex": 9,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "ab761": {
+          "uuid": "56123d72-031e-5b35-ae92-5f2b790673a6@ab761",
+          "name": "male_ecommerce_Down.animation",
+          "settings": {
+            "gltfIndex": 10,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "f4335": {
+          "uuid": "56123d72-031e-5b35-ae92-5f2b790673a6@f4335",
+          "name": "male_ecommerce_Hit.animation",
+          "settings": {
+            "gltfIndex": 11,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.4166666567325592
+            },
+            "events": []
+          }
+        },
+        "18d54": {
+          "uuid": "56123d72-031e-5b35-ae92-5f2b790673a6@18d54",
+          "name": "male_ecommerce_Attack.animation",
+          "settings": {
+            "gltfIndex": 12,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "59f75": {
+          "uuid": "56123d72-031e-5b35-ae92-5f2b790673a6@59f75",
+          "name": "male_ecommerce_Run.animation",
+          "settings": {
+            "gltfIndex": 13,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "f057f": {
+          "uuid": "56123d72-031e-5b35-ae92-5f2b790673a6@f057f",
+          "name": "male_ecommerce_Walk.animation",
+          "settings": {
+            "gltfIndex": 14,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "eba62": {
+          "uuid": "56123d72-031e-5b35-ae92-5f2b790673a6@eba62",
+          "name": "male_ecommerce_Idle.animation",
+          "settings": {
+            "gltfIndex": 15,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4.041666507720947
+            },
+            "events": []
+          }
+        }
+      },
+      "textureSamplers": {
+        "3effa": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "221a5": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "0089c": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        }
+      }
+    },
+    "fp_male_sales": {
+      "uuid": "2d080b2a-833f-55a6-83a1-22c19524b864",
+      "prefabs": [
+        "2d080b2a-833f-55a6-83a1-22c19524b864@c9eb3"
+      ],
+      "meshes": 2,
+      "skeletons": 1,
+      "animations": {
+        "20527": {
+          "uuid": "2d080b2a-833f-55a6-83a1-22c19524b864@20527",
+          "name": "male_sales_Run.animation",
+          "settings": {
+            "gltfIndex": 13,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "94909": {
+          "uuid": "2d080b2a-833f-55a6-83a1-22c19524b864@94909",
+          "name": "male_sales_Rescue.animation",
+          "settings": {
+            "gltfIndex": 9,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "aeecf": {
+          "uuid": "2d080b2a-833f-55a6-83a1-22c19524b864@aeecf",
+          "name": "male_sales_RifleRun.animation",
+          "settings": {
+            "gltfIndex": 0,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "e5c2c": {
+          "uuid": "2d080b2a-833f-55a6-83a1-22c19524b864@e5c2c",
+          "name": "male_sales_RifleWalk.animation",
+          "settings": {
+            "gltfIndex": 1,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "99e6e": {
+          "uuid": "2d080b2a-833f-55a6-83a1-22c19524b864@99e6e",
+          "name": "male_sales_RifleShot.animation",
+          "settings": {
+            "gltfIndex": 2,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "a3022": {
+          "uuid": "2d080b2a-833f-55a6-83a1-22c19524b864@a3022",
+          "name": "male_sales_RifleHold.animation",
+          "settings": {
+            "gltfIndex": 3,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "2fdbb": {
+          "uuid": "2d080b2a-833f-55a6-83a1-22c19524b864@2fdbb",
+          "name": "male_sales_PistolRun.animation",
+          "settings": {
+            "gltfIndex": 4,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "5b533": {
+          "uuid": "2d080b2a-833f-55a6-83a1-22c19524b864@5b533",
+          "name": "male_sales_PistolWalk.animation",
+          "settings": {
+            "gltfIndex": 5,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "e4d21": {
+          "uuid": "2d080b2a-833f-55a6-83a1-22c19524b864@e4d21",
+          "name": "male_sales_PistolShot.animation",
+          "settings": {
+            "gltfIndex": 6,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "09775": {
+          "uuid": "2d080b2a-833f-55a6-83a1-22c19524b864@09775",
+          "name": "male_sales_PistolHold.animation",
+          "settings": {
+            "gltfIndex": 7,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "494da": {
+          "uuid": "2d080b2a-833f-55a6-83a1-22c19524b864@494da",
+          "name": "male_sales_Cast.animation",
+          "settings": {
+            "gltfIndex": 8,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "34fa2": {
+          "uuid": "2d080b2a-833f-55a6-83a1-22c19524b864@34fa2",
+          "name": "male_sales_Down.animation",
+          "settings": {
+            "gltfIndex": 10,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "b73e7": {
+          "uuid": "2d080b2a-833f-55a6-83a1-22c19524b864@b73e7",
+          "name": "male_sales_Hit.animation",
+          "settings": {
+            "gltfIndex": 11,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.4166666567325592
+            },
+            "events": []
+          }
+        },
+        "3a61e": {
+          "uuid": "2d080b2a-833f-55a6-83a1-22c19524b864@3a61e",
+          "name": "male_sales_Attack.animation",
+          "settings": {
+            "gltfIndex": 12,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "ab79b": {
+          "uuid": "2d080b2a-833f-55a6-83a1-22c19524b864@ab79b",
+          "name": "male_sales_Walk.animation",
+          "settings": {
+            "gltfIndex": 14,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "199ea": {
+          "uuid": "2d080b2a-833f-55a6-83a1-22c19524b864@199ea",
+          "name": "male_sales_Idle.animation",
+          "settings": {
+            "gltfIndex": 15,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4.041666507720947
+            },
+            "events": []
+          }
+        }
+      },
+      "textureSamplers": {
+        "3effa": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "221a5": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        }
+      }
+    },
+    "fp_male_celebrity": {
+      "uuid": "bce8814e-5fb3-59a4-bd53-39bd33b4615f",
+      "prefabs": [
+        "bce8814e-5fb3-59a4-bd53-39bd33b4615f@652d3"
+      ],
+      "meshes": 2,
+      "skeletons": 1,
+      "animations": {
+        "fb045": {
+          "uuid": "bce8814e-5fb3-59a4-bd53-39bd33b4615f@fb045",
+          "name": "male_celebrity_RifleRun.animation",
+          "settings": {
+            "gltfIndex": 0,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "e1871": {
+          "uuid": "bce8814e-5fb3-59a4-bd53-39bd33b4615f@e1871",
+          "name": "male_celebrity_RifleWalk.animation",
+          "settings": {
+            "gltfIndex": 1,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "6cd69": {
+          "uuid": "bce8814e-5fb3-59a4-bd53-39bd33b4615f@6cd69",
+          "name": "male_celebrity_RifleShot.animation",
+          "settings": {
+            "gltfIndex": 2,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "5cfdd": {
+          "uuid": "bce8814e-5fb3-59a4-bd53-39bd33b4615f@5cfdd",
+          "name": "male_celebrity_RifleHold.animation",
+          "settings": {
+            "gltfIndex": 3,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "c08c3": {
+          "uuid": "bce8814e-5fb3-59a4-bd53-39bd33b4615f@c08c3",
+          "name": "male_celebrity_PistolRun.animation",
+          "settings": {
+            "gltfIndex": 4,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "4017e": {
+          "uuid": "bce8814e-5fb3-59a4-bd53-39bd33b4615f@4017e",
+          "name": "male_celebrity_PistolWalk.animation",
+          "settings": {
+            "gltfIndex": 5,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "8470b": {
+          "uuid": "bce8814e-5fb3-59a4-bd53-39bd33b4615f@8470b",
+          "name": "male_celebrity_PistolShot.animation",
+          "settings": {
+            "gltfIndex": 6,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "976bb": {
+          "uuid": "bce8814e-5fb3-59a4-bd53-39bd33b4615f@976bb",
+          "name": "male_celebrity_PistolHold.animation",
+          "settings": {
+            "gltfIndex": 7,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "f6bff": {
+          "uuid": "bce8814e-5fb3-59a4-bd53-39bd33b4615f@f6bff",
+          "name": "male_celebrity_Cast.animation",
+          "settings": {
+            "gltfIndex": 8,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "53c53": {
+          "uuid": "bce8814e-5fb3-59a4-bd53-39bd33b4615f@53c53",
+          "name": "male_celebrity_Rescue.animation",
+          "settings": {
+            "gltfIndex": 9,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "867e7": {
+          "uuid": "bce8814e-5fb3-59a4-bd53-39bd33b4615f@867e7",
+          "name": "male_celebrity_Down.animation",
+          "settings": {
+            "gltfIndex": 10,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "45aee": {
+          "uuid": "bce8814e-5fb3-59a4-bd53-39bd33b4615f@45aee",
+          "name": "male_celebrity_Hit.animation",
+          "settings": {
+            "gltfIndex": 11,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.4166666567325592
+            },
+            "events": []
+          }
+        },
+        "d7dd3": {
+          "uuid": "bce8814e-5fb3-59a4-bd53-39bd33b4615f@d7dd3",
+          "name": "male_celebrity_Attack.animation",
+          "settings": {
+            "gltfIndex": 12,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "e52e3": {
+          "uuid": "bce8814e-5fb3-59a4-bd53-39bd33b4615f@e52e3",
+          "name": "male_celebrity_Run.animation",
+          "settings": {
+            "gltfIndex": 13,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "a90b9": {
+          "uuid": "bce8814e-5fb3-59a4-bd53-39bd33b4615f@a90b9",
+          "name": "male_celebrity_Walk.animation",
+          "settings": {
+            "gltfIndex": 14,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "0eeef": {
+          "uuid": "bce8814e-5fb3-59a4-bd53-39bd33b4615f@0eeef",
+          "name": "male_celebrity_Idle.animation",
+          "settings": {
+            "gltfIndex": 15,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4.041666507720947
+            },
+            "events": []
+          }
+        }
+      },
+      "textureSamplers": {
+        "3effa": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "221a5": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "0089c": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        }
+      }
+    },
+    "fp_female_programmer": {
+      "uuid": "2cc04a7a-cbe5-5820-8e16-a8d538e42337",
+      "prefabs": [
+        "2cc04a7a-cbe5-5820-8e16-a8d538e42337@e05be"
+      ],
+      "meshes": 2,
+      "skeletons": 1,
+      "animations": {
+        "42848": {
+          "uuid": "2cc04a7a-cbe5-5820-8e16-a8d538e42337@42848",
+          "name": "female_programmer_RifleHold.animation",
+          "settings": {
+            "gltfIndex": 3,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "f2e11": {
+          "uuid": "2cc04a7a-cbe5-5820-8e16-a8d538e42337@f2e11",
+          "name": "female_programmer_RifleRun.animation",
+          "settings": {
+            "gltfIndex": 0,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "3814f": {
+          "uuid": "2cc04a7a-cbe5-5820-8e16-a8d538e42337@3814f",
+          "name": "female_programmer_RifleWalk.animation",
+          "settings": {
+            "gltfIndex": 1,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "840dc": {
+          "uuid": "2cc04a7a-cbe5-5820-8e16-a8d538e42337@840dc",
+          "name": "female_programmer_RifleShot.animation",
+          "settings": {
+            "gltfIndex": 2,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "816dc": {
+          "uuid": "2cc04a7a-cbe5-5820-8e16-a8d538e42337@816dc",
+          "name": "female_programmer_PistolRun.animation",
+          "settings": {
+            "gltfIndex": 4,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "370eb": {
+          "uuid": "2cc04a7a-cbe5-5820-8e16-a8d538e42337@370eb",
+          "name": "female_programmer_PistolWalk.animation",
+          "settings": {
+            "gltfIndex": 5,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "bd84d": {
+          "uuid": "2cc04a7a-cbe5-5820-8e16-a8d538e42337@bd84d",
+          "name": "female_programmer_PistolShot.animation",
+          "settings": {
+            "gltfIndex": 6,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "fa7b3": {
+          "uuid": "2cc04a7a-cbe5-5820-8e16-a8d538e42337@fa7b3",
+          "name": "female_programmer_PistolHold.animation",
+          "settings": {
+            "gltfIndex": 7,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "b49b1": {
+          "uuid": "2cc04a7a-cbe5-5820-8e16-a8d538e42337@b49b1",
+          "name": "female_programmer_Cast.animation",
+          "settings": {
+            "gltfIndex": 8,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "26fb2": {
+          "uuid": "2cc04a7a-cbe5-5820-8e16-a8d538e42337@26fb2",
+          "name": "female_programmer_Rescue.animation",
+          "settings": {
+            "gltfIndex": 9,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "80f3d": {
+          "uuid": "2cc04a7a-cbe5-5820-8e16-a8d538e42337@80f3d",
+          "name": "female_programmer_Down.animation",
+          "settings": {
+            "gltfIndex": 10,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "30cb8": {
+          "uuid": "2cc04a7a-cbe5-5820-8e16-a8d538e42337@30cb8",
+          "name": "female_programmer_Hit.animation",
+          "settings": {
+            "gltfIndex": 11,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.4166666567325592
+            },
+            "events": []
+          }
+        },
+        "a3e37": {
+          "uuid": "2cc04a7a-cbe5-5820-8e16-a8d538e42337@a3e37",
+          "name": "female_programmer_Attack.animation",
+          "settings": {
+            "gltfIndex": 12,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "b332a": {
+          "uuid": "2cc04a7a-cbe5-5820-8e16-a8d538e42337@b332a",
+          "name": "female_programmer_Run.animation",
+          "settings": {
+            "gltfIndex": 13,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "b0c37": {
+          "uuid": "2cc04a7a-cbe5-5820-8e16-a8d538e42337@b0c37",
+          "name": "female_programmer_Walk.animation",
+          "settings": {
+            "gltfIndex": 14,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "8e035": {
+          "uuid": "2cc04a7a-cbe5-5820-8e16-a8d538e42337@8e035",
+          "name": "female_programmer_Idle.animation",
+          "settings": {
+            "gltfIndex": 15,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4.041666507720947
+            },
+            "events": []
+          }
+        }
+      },
+      "textureSamplers": {
+        "3effa": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "221a5": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        }
+      }
+    },
+    "fp_female_ecommerce": {
+      "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54",
+      "prefabs": [
+        "a23113b1-597a-51c7-ac80-d27d7608dd54@72886"
+      ],
+      "meshes": 2,
+      "skeletons": 1,
+      "animations": {
+        "69367": {
+          "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@69367",
+          "name": "female_ecommerce_Rescue.animation",
+          "settings": {
+            "gltfIndex": 9,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "7790d": {
+          "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@7790d",
+          "name": "female_ecommerce_RifleRun.animation",
+          "settings": {
+            "gltfIndex": 0,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "a4008": {
+          "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@a4008",
+          "name": "female_ecommerce_RifleWalk.animation",
+          "settings": {
+            "gltfIndex": 1,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "1c41a": {
+          "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@1c41a",
+          "name": "female_ecommerce_RifleShot.animation",
+          "settings": {
+            "gltfIndex": 2,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "060e3": {
+          "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@060e3",
+          "name": "female_ecommerce_RifleHold.animation",
+          "settings": {
+            "gltfIndex": 3,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "b3cfc": {
+          "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@b3cfc",
+          "name": "female_ecommerce_PistolRun.animation",
+          "settings": {
+            "gltfIndex": 4,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "054f5": {
+          "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@054f5",
+          "name": "female_ecommerce_PistolWalk.animation",
+          "settings": {
+            "gltfIndex": 5,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "8c77e": {
+          "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@8c77e",
+          "name": "female_ecommerce_PistolShot.animation",
+          "settings": {
+            "gltfIndex": 6,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "4e3d7": {
+          "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@4e3d7",
+          "name": "female_ecommerce_PistolHold.animation",
+          "settings": {
+            "gltfIndex": 7,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "2a12d": {
+          "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@2a12d",
+          "name": "female_ecommerce_Cast.animation",
+          "settings": {
+            "gltfIndex": 8,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "d98a3": {
+          "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@d98a3",
+          "name": "female_ecommerce_Down.animation",
+          "settings": {
+            "gltfIndex": 10,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "a5780": {
+          "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@a5780",
+          "name": "female_ecommerce_Hit.animation",
+          "settings": {
+            "gltfIndex": 11,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.4166666567325592
+            },
+            "events": []
+          }
+        },
+        "f43e1": {
+          "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@f43e1",
+          "name": "female_ecommerce_Attack.animation",
+          "settings": {
+            "gltfIndex": 12,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "9badc": {
+          "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@9badc",
+          "name": "female_ecommerce_Run.animation",
+          "settings": {
+            "gltfIndex": 13,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "7ab5c": {
+          "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@7ab5c",
+          "name": "female_ecommerce_Walk.animation",
+          "settings": {
+            "gltfIndex": 14,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "c05b8": {
+          "uuid": "a23113b1-597a-51c7-ac80-d27d7608dd54@c05b8",
+          "name": "female_ecommerce_Idle.animation",
+          "settings": {
+            "gltfIndex": 15,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4.041666507720947
+            },
+            "events": []
+          }
+        }
+      },
+      "textureSamplers": {
+        "3effa": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "221a5": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "0089c": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        }
+      }
+    },
+    "fp_female_sales": {
+      "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63",
+      "prefabs": [
+        "18fa4027-076f-5e17-96a9-a4c44aca7d63@b73a5"
+      ],
+      "meshes": 2,
+      "skeletons": 1,
+      "animations": {
+        "20d90": {
+          "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@20d90",
+          "name": "female_sales_RifleRun.animation",
+          "settings": {
+            "gltfIndex": 0,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "79d25": {
+          "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@79d25",
+          "name": "female_sales_RifleWalk.animation",
+          "settings": {
+            "gltfIndex": 1,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "111c5": {
+          "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@111c5",
+          "name": "female_sales_RifleShot.animation",
+          "settings": {
+            "gltfIndex": 2,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "0ce65": {
+          "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@0ce65",
+          "name": "female_sales_RifleHold.animation",
+          "settings": {
+            "gltfIndex": 3,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "eb70d": {
+          "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@eb70d",
+          "name": "female_sales_PistolRun.animation",
+          "settings": {
+            "gltfIndex": 4,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "663a6": {
+          "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@663a6",
+          "name": "female_sales_PistolWalk.animation",
+          "settings": {
+            "gltfIndex": 5,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "e15a2": {
+          "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@e15a2",
+          "name": "female_sales_PistolShot.animation",
+          "settings": {
+            "gltfIndex": 6,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "73e0c": {
+          "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@73e0c",
+          "name": "female_sales_PistolHold.animation",
+          "settings": {
+            "gltfIndex": 7,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "604f6": {
+          "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@604f6",
+          "name": "female_sales_Cast.animation",
+          "settings": {
+            "gltfIndex": 8,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "e1584": {
+          "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@e1584",
+          "name": "female_sales_Rescue.animation",
+          "settings": {
+            "gltfIndex": 9,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "cf45f": {
+          "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@cf45f",
+          "name": "female_sales_Down.animation",
+          "settings": {
+            "gltfIndex": 10,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "ae7fb": {
+          "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@ae7fb",
+          "name": "female_sales_Hit.animation",
+          "settings": {
+            "gltfIndex": 11,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.4166666567325592
+            },
+            "events": []
+          }
+        },
+        "a258f": {
+          "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@a258f",
+          "name": "female_sales_Attack.animation",
+          "settings": {
+            "gltfIndex": 12,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "754ce": {
+          "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@754ce",
+          "name": "female_sales_Run.animation",
+          "settings": {
+            "gltfIndex": 13,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "8e322": {
+          "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@8e322",
+          "name": "female_sales_Walk.animation",
+          "settings": {
+            "gltfIndex": 14,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "dde6f": {
+          "uuid": "18fa4027-076f-5e17-96a9-a4c44aca7d63@dde6f",
+          "name": "female_sales_Idle.animation",
+          "settings": {
+            "gltfIndex": 15,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4.041666507720947
+            },
+            "events": []
+          }
+        }
+      },
+      "textureSamplers": {
+        "3effa": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        },
+        "221a5": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        }
+      }
+    },
+    "fp_female_celebrity": {
+      "uuid": "d502854c-2933-5975-969f-62c33216fb50",
+      "prefabs": [
+        "d502854c-2933-5975-969f-62c33216fb50@a61ad"
+      ],
+      "meshes": 1,
+      "skeletons": 1,
+      "animations": {
+        "15318": {
+          "uuid": "d502854c-2933-5975-969f-62c33216fb50@15318",
+          "name": "female_celebrity_Run.animation",
+          "settings": {
+            "gltfIndex": 13,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "31390": {
+          "uuid": "d502854c-2933-5975-969f-62c33216fb50@31390",
+          "name": "female_celebrity_Attack.animation",
+          "settings": {
+            "gltfIndex": 12,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "a6cc8": {
+          "uuid": "d502854c-2933-5975-969f-62c33216fb50@a6cc8",
+          "name": "female_celebrity_RifleRun.animation",
+          "settings": {
+            "gltfIndex": 0,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "50bd3": {
+          "uuid": "d502854c-2933-5975-969f-62c33216fb50@50bd3",
+          "name": "female_celebrity_RifleWalk.animation",
+          "settings": {
+            "gltfIndex": 1,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "cfb33": {
+          "uuid": "d502854c-2933-5975-969f-62c33216fb50@cfb33",
+          "name": "female_celebrity_RifleShot.animation",
+          "settings": {
+            "gltfIndex": 2,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "ab14a": {
+          "uuid": "d502854c-2933-5975-969f-62c33216fb50@ab14a",
+          "name": "female_celebrity_RifleHold.animation",
+          "settings": {
+            "gltfIndex": 3,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "8dd1d": {
+          "uuid": "d502854c-2933-5975-969f-62c33216fb50@8dd1d",
+          "name": "female_celebrity_PistolRun.animation",
+          "settings": {
+            "gltfIndex": 4,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "ffc65": {
+          "uuid": "d502854c-2933-5975-969f-62c33216fb50@ffc65",
+          "name": "female_celebrity_PistolWalk.animation",
+          "settings": {
+            "gltfIndex": 5,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "f6196": {
+          "uuid": "d502854c-2933-5975-969f-62c33216fb50@f6196",
+          "name": "female_celebrity_PistolShot.animation",
+          "settings": {
+            "gltfIndex": 6,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "e182f": {
+          "uuid": "d502854c-2933-5975-969f-62c33216fb50@e182f",
+          "name": "female_celebrity_PistolHold.animation",
+          "settings": {
+            "gltfIndex": 7,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "f4aca": {
+          "uuid": "d502854c-2933-5975-969f-62c33216fb50@f4aca",
+          "name": "female_celebrity_Cast.animation",
+          "settings": {
+            "gltfIndex": 8,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "85d1b": {
+          "uuid": "d502854c-2933-5975-969f-62c33216fb50@85d1b",
+          "name": "female_celebrity_Rescue.animation",
+          "settings": {
+            "gltfIndex": 9,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "d738c": {
+          "uuid": "d502854c-2933-5975-969f-62c33216fb50@d738c",
+          "name": "female_celebrity_Down.animation",
+          "settings": {
+            "gltfIndex": 10,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "27d70": {
+          "uuid": "d502854c-2933-5975-969f-62c33216fb50@27d70",
+          "name": "female_celebrity_Hit.animation",
+          "settings": {
+            "gltfIndex": 11,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.4166666567325592
+            },
+            "events": []
+          }
+        },
+        "6a019": {
+          "uuid": "d502854c-2933-5975-969f-62c33216fb50@6a019",
+          "name": "female_celebrity_Walk.animation",
+          "settings": {
+            "gltfIndex": 14,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "edc41": {
+          "uuid": "d502854c-2933-5975-969f-62c33216fb50@edc41",
+          "name": "female_celebrity_Idle.animation",
+          "settings": {
+            "gltfIndex": 15,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4.041666507720947
+            },
+            "events": []
+          }
+        }
+      },
+      "textureSamplers": {
+        "e39f7": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        }
+      }
+    },
+    "fp_female_doctor": {
+      "uuid": "1b8d9b4f-5cf1-59ad-8fc5-6c6a8c8eb1f5",
+      "prefabs": [
+        "1b8d9b4f-5cf1-59ad-8fc5-6c6a8c8eb1f5@aa6a1"
+      ],
+      "meshes": 2,
+      "skeletons": 1,
+      "animations": {
+        "48866": {
+          "uuid": "1b8d9b4f-5cf1-59ad-8fc5-6c6a8c8eb1f5@48866",
+          "name": "female_doctor_Cast.animation",
+          "settings": {
+            "gltfIndex": 8,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "74296": {
+          "uuid": "1b8d9b4f-5cf1-59ad-8fc5-6c6a8c8eb1f5@74296",
+          "name": "female_doctor_RifleShot.animation",
+          "settings": {
+            "gltfIndex": 2,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "d338c": {
+          "uuid": "1b8d9b4f-5cf1-59ad-8fc5-6c6a8c8eb1f5@d338c",
+          "name": "female_doctor_RifleRun.animation",
+          "settings": {
+            "gltfIndex": 0,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "5e90e": {
+          "uuid": "1b8d9b4f-5cf1-59ad-8fc5-6c6a8c8eb1f5@5e90e",
+          "name": "female_doctor_RifleWalk.animation",
+          "settings": {
+            "gltfIndex": 1,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "5107d": {
+          "uuid": "1b8d9b4f-5cf1-59ad-8fc5-6c6a8c8eb1f5@5107d",
+          "name": "female_doctor_RifleHold.animation",
+          "settings": {
+            "gltfIndex": 3,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "90dd4": {
+          "uuid": "1b8d9b4f-5cf1-59ad-8fc5-6c6a8c8eb1f5@90dd4",
+          "name": "female_doctor_PistolRun.animation",
+          "settings": {
+            "gltfIndex": 4,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "561e7": {
+          "uuid": "1b8d9b4f-5cf1-59ad-8fc5-6c6a8c8eb1f5@561e7",
+          "name": "female_doctor_PistolWalk.animation",
+          "settings": {
+            "gltfIndex": 5,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "7a1f8": {
+          "uuid": "1b8d9b4f-5cf1-59ad-8fc5-6c6a8c8eb1f5@7a1f8",
+          "name": "female_doctor_PistolShot.animation",
+          "settings": {
+            "gltfIndex": 6,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "3e62b": {
+          "uuid": "1b8d9b4f-5cf1-59ad-8fc5-6c6a8c8eb1f5@3e62b",
+          "name": "female_doctor_PistolHold.animation",
+          "settings": {
+            "gltfIndex": 7,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "7fc28": {
+          "uuid": "1b8d9b4f-5cf1-59ad-8fc5-6c6a8c8eb1f5@7fc28",
+          "name": "female_doctor_Rescue.animation",
+          "settings": {
+            "gltfIndex": 9,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "f719d": {
+          "uuid": "1b8d9b4f-5cf1-59ad-8fc5-6c6a8c8eb1f5@f719d",
+          "name": "female_doctor_Down.animation",
+          "settings": {
+            "gltfIndex": 10,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "3e4e1": {
+          "uuid": "1b8d9b4f-5cf1-59ad-8fc5-6c6a8c8eb1f5@3e4e1",
+          "name": "female_doctor_Hit.animation",
+          "settings": {
+            "gltfIndex": 11,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.4166666567325592
+            },
+            "events": []
+          }
+        },
+        "bc922": {
+          "uuid": "1b8d9b4f-5cf1-59ad-8fc5-6c6a8c8eb1f5@bc922",
+          "name": "female_doctor_Attack.animation",
+          "settings": {
+            "gltfIndex": 12,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "1fb3c": {
+          "uuid": "1b8d9b4f-5cf1-59ad-8fc5-6c6a8c8eb1f5@1fb3c",
+          "name": "female_doctor_Run.animation",
+          "settings": {
+            "gltfIndex": 13,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "ad589": {
+          "uuid": "1b8d9b4f-5cf1-59ad-8fc5-6c6a8c8eb1f5@ad589",
+          "name": "female_doctor_Walk.animation",
+          "settings": {
+            "gltfIndex": 14,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "236b2": {
+          "uuid": "1b8d9b4f-5cf1-59ad-8fc5-6c6a8c8eb1f5@236b2",
+          "name": "female_doctor_Idle.animation",
+          "settings": {
+            "gltfIndex": 15,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4.041666507720947
+            },
+            "events": []
+          }
+        }
+      },
+      "textureSamplers": {
+        "e39f7": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        }
+      }
+    },
+    "fp_female_teacher": {
+      "uuid": "7a4d01c2-4c68-508c-a54e-99cc9d2bb0dc",
+      "prefabs": [
+        "7a4d01c2-4c68-508c-a54e-99cc9d2bb0dc@0471f"
+      ],
+      "meshes": 2,
+      "skeletons": 1,
+      "animations": {
+        "75302": {
+          "uuid": "7a4d01c2-4c68-508c-a54e-99cc9d2bb0dc@75302",
+          "name": "female_teacher_Cast.animation",
+          "settings": {
+            "gltfIndex": 8,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "632cb": {
+          "uuid": "7a4d01c2-4c68-508c-a54e-99cc9d2bb0dc@632cb",
+          "name": "female_teacher_RifleRun.animation",
+          "settings": {
+            "gltfIndex": 0,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "f85e1": {
+          "uuid": "7a4d01c2-4c68-508c-a54e-99cc9d2bb0dc@f85e1",
+          "name": "female_teacher_RifleWalk.animation",
+          "settings": {
+            "gltfIndex": 1,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "dd115": {
+          "uuid": "7a4d01c2-4c68-508c-a54e-99cc9d2bb0dc@dd115",
+          "name": "female_teacher_RifleShot.animation",
+          "settings": {
+            "gltfIndex": 2,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "f8b3c": {
+          "uuid": "7a4d01c2-4c68-508c-a54e-99cc9d2bb0dc@f8b3c",
+          "name": "female_teacher_RifleHold.animation",
+          "settings": {
+            "gltfIndex": 3,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "0d6cc": {
+          "uuid": "7a4d01c2-4c68-508c-a54e-99cc9d2bb0dc@0d6cc",
+          "name": "female_teacher_PistolRun.animation",
+          "settings": {
+            "gltfIndex": 4,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "d4a85": {
+          "uuid": "7a4d01c2-4c68-508c-a54e-99cc9d2bb0dc@d4a85",
+          "name": "female_teacher_PistolWalk.animation",
+          "settings": {
+            "gltfIndex": 5,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "431c4": {
+          "uuid": "7a4d01c2-4c68-508c-a54e-99cc9d2bb0dc@431c4",
+          "name": "female_teacher_PistolShot.animation",
+          "settings": {
+            "gltfIndex": 6,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "7ad2f": {
+          "uuid": "7a4d01c2-4c68-508c-a54e-99cc9d2bb0dc@7ad2f",
+          "name": "female_teacher_PistolHold.animation",
+          "settings": {
+            "gltfIndex": 7,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "4d5a9": {
+          "uuid": "7a4d01c2-4c68-508c-a54e-99cc9d2bb0dc@4d5a9",
+          "name": "female_teacher_Rescue.animation",
+          "settings": {
+            "gltfIndex": 9,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 2.0416667461395264
+            },
+            "events": []
+          }
+        },
+        "6785c": {
+          "uuid": "7a4d01c2-4c68-508c-a54e-99cc9d2bb0dc@6785c",
+          "name": "female_teacher_Down.animation",
+          "settings": {
+            "gltfIndex": 10,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "dc583": {
+          "uuid": "7a4d01c2-4c68-508c-a54e-99cc9d2bb0dc@dc583",
+          "name": "female_teacher_Hit.animation",
+          "settings": {
+            "gltfIndex": 11,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.4166666567325592
+            },
+            "events": []
+          }
+        },
+        "e3f3d": {
+          "uuid": "7a4d01c2-4c68-508c-a54e-99cc9d2bb0dc@e3f3d",
+          "name": "female_teacher_Attack.animation",
+          "settings": {
+            "gltfIndex": 12,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.5416666865348816
+            },
+            "events": []
+          }
+        },
+        "a71de": {
+          "uuid": "7a4d01c2-4c68-508c-a54e-99cc9d2bb0dc@a71de",
+          "name": "female_teacher_Run.animation",
+          "settings": {
+            "gltfIndex": 13,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 0.7916666865348816
+            },
+            "events": []
+          }
+        },
+        "1625e": {
+          "uuid": "7a4d01c2-4c68-508c-a54e-99cc9d2bb0dc@1625e",
+          "name": "female_teacher_Walk.animation",
+          "settings": {
+            "gltfIndex": 14,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 1.0416666269302368
+            },
+            "events": []
+          }
+        },
+        "addb2": {
+          "uuid": "7a4d01c2-4c68-508c-a54e-99cc9d2bb0dc@addb2",
+          "name": "female_teacher_Idle.animation",
+          "settings": {
+            "gltfIndex": 15,
+            "wrapMode": 2,
+            "sample": 30,
+            "span": {
+              "from": 0,
+              "to": 4.041666507720947
+            },
+            "events": []
+          }
+        }
+      },
+      "textureSamplers": {
+        "e39f7": {
+          "wrapModeS": "repeat",
+          "wrapModeT": "repeat",
+          "minfilter": "linear",
+          "magfilter": "linear",
+          "mipfilter": "linear",
+          "anisotropy": 0
+        }
+      }
+    }
+  },
+  "sharedImages": 54,
+  "conversationMigration": "0.3.2: original identities/settings preserved, rotation-only Talk and two new profession models added after actual Cocos import",
+  "weaponMigration": "0.3.11: eight weapon actions added after actual import; prior UUID/playback settings retained; Talk source index verified at 16",
+  "firstPersonMigration": "0.3.12: ten original skinned forearm assets,16 clips each,existing11 model identities/settings retained after actual import"
+}

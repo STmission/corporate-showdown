@@ -1,0 +1,99 @@
+{
+  "sourceReload": true,
+  "gltfImport": true,
+  "bones": 53,
+  "meshes": 9,
+  "clips": [
+    "male_sales_Idle",
+    "male_sales_Walk",
+    "male_sales_Run",
+    "male_sales_Attack",
+    "male_sales_Hit",
+    "male_sales_Down",
+    "male_sales_Rescue",
+    "male_sales_Cast"
+  ],
+  "embeddedImages": 10,
+  "eyeMode": "MASK",
+  "eyeCutoff": 0.4,
+  "poses": [
+    {
+      "clip": "Idle",
+      "frame": 1,
+      "bounds": [
+        [
+          -0.3142075836658478,
+          0.31420475244522095
+        ],
+        [
+          -0.3931727409362793,
+          0.14989498257637024
+        ],
+        [
+          -0.0029368808027356863,
+          1.7770111560821533
+        ]
+      ]
+    },
+    {
+      "clip": "Walk",
+      "frame": 10,
+      "bounds": [
+        [
+          -0.3264760375022888,
+          0.32647985219955444
+        ],
+        [
+          -0.47695392370224,
+          0.23947103321552277
+        ],
+        [
+          0.007871496491134167,
+          1.785422444343567
+        ]
+      ]
+    },
+    {
+      "clip": "Attack",
+      "frame": 7,
+      "bounds": [
+        [
+          -0.3466911017894745,
+          0.29178327322006226
+        ],
+        [
+          -0.6508737206459045,
+          0.14989498257637024
+        ],
+        [
+          -0.0029368808027356863,
+          1.7770626544952393
+        ]
+      ]
+    },
+    {
+      "clip": "Down",
+      "frame": 18,
+      "bounds": [
+        [
+          -0.374182790517807,
+          0.3741828203201294
+        ],
+        [
+          -1.776278018951416,
+          0.010326733812689781
+        ],
+        [
+          -0.20547917485237122,
+          0.5770022869110107
+        ]
+      ]
+    }
+  ],
+  "sourceSHA256": "2e2c66cb341948211847365129f13d0e0083664cc33c123ed4a69541a3c8eb89",
+  "blendSHA256": "eaba6ca624171ba967f52e50bfbe1976c3890be4d80872444080174cd74d4142",
+  "glbSHA256": "87a4a6fdb5c9a955466418bb848af5c379f4d355e7bb455b0255e8c3eb4d5a64",
+  "knownDownGroundPenetration": 0.2055,
+  "status": "passed",
+  "scope": "source reload, skin weights, actual GLB reimport and four rendered poses; no no-penetration, final human or device quality claim"
+}

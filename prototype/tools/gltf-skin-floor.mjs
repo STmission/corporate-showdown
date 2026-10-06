@@ -1,0 +1,12 @@
+import assert from 'node:assert/strict';
+import {Matrix4,Quaternion,Vector3} from 'three';
+export function data(g,index){const a=g.doc.accessors[index],v=g.doc.bufferViews[a.bufferView],width={SCALAR:1,VEC3:3,VEC4:4,MAT4:16}[a.type],bytes={5121:1,5123:2,5126:4}[a.componentType];assert.ok(width&&bytes);const result=[];for(let i=0;i<a.count;i++){const row=[];for(let c=0;c<width;c++){const at=(v.byteOffset??0)+(a.byteOffset??0)+i*(v.byteStride??width*bytes)+c*bytes;row.push(bytes===4?g.bin.readFloatLE(at):bytes===2?g.bin.readUInt16LE(at):g.bin.readUInt8(at));}result.push(row);}return result;}
+export function skinMinimum(g,time){
+ const local=g.doc.nodes.map(n=>({translation:n.translation??[0,0,0],rotation:n.rotation??[0,0,0,1],scale:n.scale??[1,1,1]}));
+ const clip=g.doc.animations.find(a=>a.name.endsWith('_Down'));
+ for(const c of clip.channels){const sampler=clip.samplers[c.sampler],times=data(g,sampler.input).map(r=>r[0]),values=data(g,sampler.output);let lo=0;while(lo+1<times.length&&times[lo+1]<=time)lo++;const hi=Math.min(lo+1,times.length-1),t=sampler.interpolation==='STEP'||hi===lo?0:Math.min(1,Math.max(0,(time-times[lo])/(times[hi]-times[lo])));local[c.target.node][c.target.path]=c.target.path==='rotation'?new Quaternion().fromArray(values[lo]).slerp(new Quaternion().fromArray(values[hi]),t).toArray():values[lo].map((v,i)=>v+(values[hi][i]-v)*t);}
+ const parents=new Map();g.doc.nodes.forEach((n,i)=>(n.children??[]).forEach(child=>parents.set(child,i)));const world=new Map();function transform(i){if(world.has(i))return world.get(i);const n=g.doc.nodes[i],r=local[i],m=n.matrix?new Matrix4().fromArray(n.matrix):new Matrix4().compose(new Vector3().fromArray(r.translation),new Quaternion().fromArray(r.rotation),new Vector3().fromArray(r.scale));if(parents.has(i))m.premultiply(transform(parents.get(i)));world.set(i,m);return m;}
+ let min=Infinity;
+ for(const node of g.doc.nodes){if(node.mesh===undefined||node.skin===undefined)continue;const skin=g.doc.skins[node.skin],inverse=data(g,skin.inverseBindMatrices),matrices=skin.joints.map((j,i)=>transform(j).clone().multiply(new Matrix4().fromArray(inverse[i])).elements);for(const p of g.doc.meshes[node.mesh].primitives){const xyz=data(g,p.attributes.POSITION),joints=data(g,p.attributes.JOINTS_0),weights=data(g,p.attributes.WEIGHTS_0);for(let i=0;i<xyz.length;i++){const [x,y,z]=xyz[i];let height=0;for(let k=0;k<4;k++){const m=matrices[joints[i][k]];height+=weights[i][k]*(m[1]*x+m[5]*y+m[9]*z+m[13]);}min=Math.min(min,height);}}}
+ return min;
+}

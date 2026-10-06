@@ -1,0 +1,98 @@
+{
+  "scope": "Ten actual source reloads and GLB reimports; two actual skinned camera previews; no runtime/device validation",
+  "generatorSHA256": "74bb4f4250dc899c4856a16afa21013575b338b9d6e9f4acf2907498ab151acd",
+  "manifestSHA256": "829a0decfefb90e2b784d0e7c280e55e0912c5030e3a07ab583dcda973dac3eb",
+  "characters": [
+    {
+      "slot": "male_programmer",
+      "bones": 53,
+      "clips": 16,
+      "sampledPoses": 12,
+      "maximumPositionErrorMetres": 3.591767189858541e-07,
+      "blendSHA256": "1116a355ce735f937b558ebfd40a156e47d13f6386329dc5fcd35132a5c76983",
+      "glbSHA256": "b0c2a14a6c49ae0321983db16d25fb34bba17bc021d07688422e7fb8491e6d37"
+    },
+    {
+      "slot": "male_ecommerce",
+      "bones": 53,
+      "clips": 16,
+      "sampledPoses": 12,
+      "maximumPositionErrorMetres": 8.445488631041024e-07,
+      "blendSHA256": "50f47310f9c4af299b87eeaba4e806c62405a0f0390fbba6426fa2a977204190",
+      "glbSHA256": "3a29d14c035a2cf7a15da996a1950a9b273403b892014bc4fcaea05dcd3fcb17"
+    },
+    {
+      "slot": "male_sales",
+      "bones": 53,
+      "clips": 16,
+      "sampledPoses": 12,
+      "maximumPositionErrorMetres": 4.902827374272463e-07,
+      "blendSHA256": "7ec0c4c726c82e61870a2c1f00753b60220bded0da96b8eb3f475c2d4df9aeb6",
+      "glbSHA256": "2e5a72d772809402f0550e28af3e93e7e67d6209d867524eaba0405af61ffc06"
+    },
+    {
+      "slot": "male_celebrity",
+      "bones": 53,
+      "clips": 16,
+      "sampledPoses": 12,
+      "maximumPositionErrorMetres": 4.6843951671177594e-07,
+      "blendSHA256": "4df75f73539352c5ff0c9c697750797d879be61f57e80aa7d3f1d87d5ac96f24",
+      "glbSHA256": "fe423a949002b019a031485d9d3e5f6eb99de41edcae3ff29ca6701db02bce90"
+    },
+    {
+      "slot": "female_programmer",
+      "bones": 53,
+      "clips": 16,
+      "sampledPoses": 12,
+      "maximumPositionErrorMetres": 6.598707981552044e-07,
+      "blendSHA256": "c7afe04fed5598d5eb2661ce4f79207e576b9b75ed8d19700954b35e826a5f86",
+      "glbSHA256": "dc78266130b06687873b03a5dc1e8923bf2e1a55d4e7884a4897b7f08bdbe1bd"
+    },
+    {
+      "slot": "female_ecommerce",
+      "bones": 53,
+      "clips": 16,
+      "sampledPoses": 12,
+      "maximumPositionErrorMetres": 3.465921684984269e-07,
+      "blendSHA256": "0f9e5e7bb1180a018a7f87db45aed1d0b870d6611ada0ae22cde75f1196b4829",
+      "glbSHA256": "042f618137cbd4e965dca793b9b205d2064b596903665e73fc5c4a69ffa7d736"
+    },
+    {
+      "slot": "female_sales",
+      "bones": 53,
+      "clips": 16,
+      "sampledPoses": 12,
+      "maximumPositionErrorMetres": 8.486784273394334e-07,
+      "blendSHA256": "a1eed26e7c18b6ca6a16d60d5ebafad9d259763bec6c0442983ebb30c9976363",
+      "glbSHA256": "2c4f70207f491ee8abfb8ca1efcb4aeb5a8f3f766fc5dc61c09cb7fb42823e78"
+    },
+    {
+      "slot": "female_celebrity",
+      "bones": 53,
+      "clips": 16,
+      "sampledPoses": 12,
+      "maximumPositionErrorMetres": 5.962159534640124e-07,
+      "blendSHA256": "8b2a81c8953f38b72886611bd63c5b091ddbd311ddbd1010a29a056354bc74fa",
+      "glbSHA256": "8429afd4a8fbe361edf8c8af580af17f6a1968beb0eb8dad9d6ff105e539bb30"
+    },
+    {
+      "slot": "female_doctor",
+      "bones": 53,
+      "clips": 16,
+      "sampledPoses": 12,
+      "maximumPositionErrorMetres": 6.567085608667227e-07,
+      "blendSHA256": "8b08521844a5b8a79047ac6e4cc593d443ad8ab282ed6ce02a97f0d80a13be6f",
+      "glbSHA256": "8077dc872dec3162ad887244231764fda4d76d50661dcedab34bde7983a38aa0"
+    },
+    {
+      "slot": "female_teacher",
+      "bones": 53,
+      "clips": 16,
+      "sampledPoses": 12,
+      "maximumPositionErrorMetres": 4.367495774679235e-07,
+      "blendSHA256": "c9448423be8d4e008773d870f3983097ca4eb88ec0982e36008f11f20ad49cdf",
+      "glbSHA256": "c14d04cf8ca3862ad48bf2f26ccfefbc5c828ec44c8544eeefe53ce006b1abba"
+    }
+  ],
+  "runtimeIntegrated": false
+}
