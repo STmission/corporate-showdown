@@ -242,7 +242,7 @@ export function createView(container) {
       rightHand.position.z = -0.25 - strike * 0.3; rightHand.rotation.x = -strike * 0.35;
       leftHand.position.y = -0.31 + (moving ? Math.sin(now * 0.014) * 0.008 : 0);
       heldModel.rotation.x = -0.16 - strike * 0.55; changeWeapon(me.weapon);
-      const real=realArms.sync(me,characterAssetSlot(me),state.elapsed,dt,hands.visible);leftHand.visible=rightHand.visible=!real;heldModel.visible=!real||!WEAPONS[me.weapon];container.dataset.firstPersonArms=JSON.stringify(realArms.diagnostics());
+      const real=realArms.sync(me,characterAssetSlot(me),state.elapsed,dt,hands.visible,pose);leftHand.visible=rightHand.visible=!real;heldModel.visible=!real||!WEAPONS[me.weapon];container.dataset.firstPersonArms=JSON.stringify(realArms.diagnostics());
     }
     if (state && humanTemplates.size>=2 && conversationBank) {
       const samples=interpolation.entities(now);

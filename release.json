@@ -2250,8 +2250,8 @@
       }
     ]
   },
-  "files": 86,
-  "bytes": 43253371,
+  "files": 87,
+  "bytes": 43254308,
   "inventory": [
     {
       "path": "trial-socket.mjs",
@@ -2287,7 +2287,7 @@
     },
     {
       "path": "view.mjs",
-      "bytes": 29238
+      "bytes": 29243
     },
     {
       "path": "audio-settings.mjs",
@@ -2363,7 +2363,7 @@
     },
     {
       "path": "first-person-arms.mjs",
-      "bytes": 3246
+      "bytes": 3438
     },
     {
       "path": "conversation-animation.mjs",
@@ -2596,8 +2596,12 @@
     {
       "path": "event-delivery.mjs",
       "bytes": 593
+    },
+    {
+      "path": "client/motion-pace.mjs",
+      "bytes": 740
     }
   ],
-  "version": "0.6.17",
+  "version": "0.6.18",
   "rendererCompatibility": "Packed vertex attributes expanded to floats before CPU batching"
 }
