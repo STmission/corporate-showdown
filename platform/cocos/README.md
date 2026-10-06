@@ -1,6 +1,6 @@
 # Corporate Showdown 平台客户端切片
 
-Cocos Creator **3.8.8**，子工程 **0.3.13**。海岸总部与八套人物资源、中文大厅和首关权威会话已接入源码；实际 Cocos 完整通关、触控、音频和正式设备验证尚未完成，不是可上架客户端。
+Cocos Creator **3.8.8**，子工程 **0.3.14**。海岸总部与八套人物资源、中文大厅和首关权威会话已接入源码；实际 Cocos 完整通关、触控、音频和正式设备验证尚未完成，不是可上架客户端。
 
 在仓库根目录运行 `npm run sync:cocos`，再运行 `npm run build:cocos:web` / `build:cocos:wechat` / `build:cocos:ios`。构建脚本检查精确编辑器版本、共享源码指纹、源资产和场景引用。启动 `npm start` 后 Web 引擎入口为 `http://127.0.0.1:4173/engine/`。默认 WebSocket 地址仅供本机开发。
 

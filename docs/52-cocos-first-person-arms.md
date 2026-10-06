@@ -12,6 +12,6 @@
 
 ## 当前验证状态
 
-npm run check 通过，Cocos strict TypeScript 无输出退出 0；117 项完整回归通过（412.864 秒）。0.3.13 实际编辑器 Web 重建成功，退出码 36，导入和 PNG 优化门禁通过。浏览器实际进入、拾取并切换第一人称，枪械呈现原定义的深色材质，射击弹药 12/48→11/48；画面证据为 artifacts/cocos-weapon-material-fixed.png。微信实际编辑器重建也成功，退出码 36，导入及 PNG 优化通过；deviceValidated=false、signed=false，仍未记为设备或发行通过。
+npm run check 通过，Cocos strict TypeScript 无输出退出 0；117 项完整回归通过（412.864 秒）。0.3.13 实际编辑器 Web 重建成功，退出码 36，导入和 PNG 优化门禁通过。浏览器实际进入、拾取并切换第一人称，枪械呈现原定义的深色材质，射击弹药 12/48→11/48，菜单退出回到已连接大厅；画面证据为 artifacts/cocos-weapon-material-fixed.png。微信实际编辑器重建也成功，退出码 36，导入及 PNG 优化通过；deviceValidated=false、signed=false，仍未记为设备或发行通过。
 
 独立前臂不是最终写实人物：手指闭合、空手、专用换弹／瞄准／行走、近墙深度和更多俯仰画面仍未完成；无微信／iOS 真机、签名或上架验收。50 文档为较早的根网页阶段记录，当前 Cocos 进展以本记录为准。

@@ -47,3 +47,5 @@ routes.set('/assets/characters/male_sales.glb', ['../assets/characters/refined-v
 for(const slot of ['male_programmer','male_ecommerce','male_sales','male_celebrity','female_programmer','female_ecommerce','female_sales','female_celebrity','female_doctor','female_teacher'])routes.set('/assets/characters/'+slot+'.glb',['../assets/characters/weapon-ready-v1/'+slot+'.glb','model/gltf-binary']);
 for(const slot of ['male_programmer','male_ecommerce','male_sales','male_celebrity','female_programmer','female_ecommerce','female_sales','female_celebrity','female_doctor','female_teacher'])routes.set('/assets/characters/first-person/'+slot+'.glb',['../assets/characters/first-person-v1/'+slot+'.glb','model/gltf-binary']);
 routes.set('/shared/weapon-grip.mjs',['shared/weapon-grip.mjs','text/javascript']);
+
+routes.set('/client/motion-pace.mjs',['client/motion-pace.mjs','text/javascript']);

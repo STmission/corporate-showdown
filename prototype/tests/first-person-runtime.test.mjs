@@ -34,6 +34,11 @@ test('actual ten arm skins fit the camera wrist independently of gender, clone b
   const forward=new Vector3(1,0,0).transformDirection(a.weapon.matrixWorld),up=new Vector3(0,1,0).transformDirection(a.weapon.matrixWorld);
   assert.ok(forward.dot(camera.getWorldDirection(new Vector3()))>.999);
   assert.ok(up.dot(new Vector3(0,1,0).applyQuaternion(camera.quaternion))>.999);
+  for(let i=0;i<30;i++)arms.sync({id:'local',x:i*.03,z:0,state:'active',weapon:'pistol',attackUntil:0},c.slot,1,.016,true);
+  assert.equal(a.animation.current,'PistolWalk');
+  for(let i=0;i<30;i++)arms.sync({id:'local',x:.87+i*.074,z:0,state:'active',weapon:'rifle',attackUntil:0},c.slot,1,.016,true);
+  assert.equal(a.animation.current,'RifleRun');
+  arms.sync({state:'active',weapon:'pistol',attackUntil:0},c.slot,1,.016,true);
   const originalWeapon=a.weapon;
   arms.sync({state:'active',weapon:'rifle',attackUntil:2},c.slot,1,.016,true);
   assert.equal(a.animation.current,'RifleShot');assert.equal(a.weapon.parent,a.hand);

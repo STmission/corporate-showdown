@@ -1,5 +1,10 @@
 [
   {
+    "source": "prototype/client/motion-pace.mjs",
+    "destination": "assets/scripts/canonical/client/motion-pace.js",
+    "sha256": "78b4ce833186d27dcdbc4fb3ae391322ae53eff8f51ccfb9a9131d3363e5ae9e"
+  },
+  {
     "source": "prototype/client/session.mjs",
     "destination": "assets/scripts/canonical/client/session.js",
     "sha256": "7d17ac10c21d687f4faebeda187d46a64f456128fba51f5eb21d97fa4c3638b0"
