@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="zh-CN" data-runtime="local-trial">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#132724"><title>职场对决 · 准点下班</title>
+  <script type="importmap">{"imports":{"three":"/corporate-showdown/vendor/three.js","three/addons/":"/corporate-showdown/vendor/addons/"}}</script>
+  <link rel="stylesheet" href="/corporate-showdown/style.css">
+</head>
+<body>
+  <div id="scene" aria-label="三维办公室游戏场景"></div>
+  <header class="topbar"><a class="brand" href="/corporate-showdown/"><span>职场对决<small>海岸总部 · 荒诞职场故事</small></span></a><div class="edition">单人剧情 <span>01</span></div><div class="header-actions"><button id="pickup-button" class="icon-button hidden" data-action="pickup">F / 拾取</button><button id="talk-button" class="icon-button">T / 交谈</button><button id="camera-mode" class="icon-button">V / 第三人称</button><button id="menu-button" class="icon-button hidden">ESC / 菜单</button><button id="audio-settings-button" class="icon-button">声音设置</button><button id="sound" class="icon-button" aria-label="切换游戏音效">音效：开</button></div></header>
+  <main>
+    <section id="home" class="screen home">
+      <div class="intro"><p class="eyebrow"><i></i> 下班行动 · 第一章</p><h1>工作已经完成。<br>现在，<em>准点下班。</em></h1><p class="description">最后一份文件，最后一次会议。<br>探索海岸总部，找回属于自己的时间。</p>
+        <div class="brief"><span><b>01</b> 工位撤离</span><span>第一／第三人称切换</span><span>当前版本：单人</span></div>
+        <div class="identity"><label>员工代号<input id="name" maxlength="12" value="准点员工" autocomplete="off"></label><label>战斗职责<select id="role"><option value="coder">研发 · 阿程 / 干扰脉冲</option><option value="admin">行政 · 安安 / 推车冲撞</option></select></label></div>
+        <p id="resource-status" role="status">正在准备场景…</p><div class="identity"><label>人物<select id="gender"><option value="male">男生</option><option value="female">女生</option></select></label><label>职务装扮<select id="job"><option value="programmer">程序员 · 格子衬衫</option><option value="ecommerce">电商 · 商务穿搭</option><option value="sales">销售 · 西装</option><option value="celebrity">明星 · 潮流穿搭</option></select></label></div><div class="home-actions"><button id="solo" disabled class="primary">开始单人行动 <span>↗</span></button><button id="create" hidden disabled class="secondary">创建合作房间</button></div>
+        <form id="join-form" class="join" hidden><input id="code" placeholder="输入 6 位房间码" maxlength="6" aria-label="房间码"><button class="text-button" type="submit" disabled>加入队友 →</button></form>
+        <p><a href="/corporate-showdown/studio/" class="text-button">海岸总部 · 查看整层 3D 场景 →</a></p>
+        <p class="prototype-note">公开网页试玩 · 单人 / 无云存档 / 刷新后重新开局 · 建议电脑 Chrome 或 Edge</p>
+      </div>
+      <div class="mission-note"><span>下班截止时间</span><strong>18:00</strong><div class="note-line"></div><p>完成交接 / 突破阻拦 / 电梯撤离</p></div>
+    </section>
+    <section id="lobby" class="screen lobby hidden">
+      <div class="panel lobby-panel"><p class="eyebrow">行动集结</p><h2>一起走，才算下班。</h2><div class="room-code"><span>房间码</span><strong id="room-code"></strong><button id="copy" class="text-button">复制</button></div><p class="muted">队友在同一服务地址打开游戏，输入房间码即可加入。</p><div id="members"></div><p class="muted" id="room-resource-status"></p><div class="identity"><label>人物<select id="lobby-gender"><option value="male">男生</option><option value="female">女生</option></select></label><label>职务装扮<select id="lobby-job"><option value="programmer">程序员 · 格子衬衫</option><option value="ecommerce">电商 · 商务穿搭</option><option value="sales">销售 · 西装</option><option value="celebrity">明星 · 潮流穿搭</option></select></label></div><div class="lobby-actions"><button id="ready" class="secondary">我准备好了</button><button id="start" class="primary">全员出发 →</button></div><button id="leave-lobby" class="text-button">返回大厅</button></div>
+    </section>
+    <section id="hud" class="hidden">
+      <div id="crosshair" aria-hidden="true"><i></i><i></i><i></i><i></i></div><div id="look-hint">点击场景锁定鼠标 · 鼠标环视 · ESC 打开菜单</div>
+      <div class="mission-hud"><p class="eyebrow">第一章 / 海岸总部</p><h2 id="mission-title">交接完成，就去电梯。</h2><div id="objectives"></div><div id="team"></div></div>
+      <div class="clock"><span>距离 18:00</span><strong id="timer">05:00</strong><small id="penalty">准点行动已开始</small></div>
+      <div id="boss-hud" class="boss hidden"><div><span>再说两句组长</span><b id="boss-phase"></b></div><div class="bar"><i id="boss-fill"></i></div></div>
+      <div class="player-hud"><div class="portrait" id="portrait">程</div><div class="player-stats"><strong id="player-name"></strong><div class="hp-line"><div class="bar"><i id="hp-fill"></i></div><span id="hp"></span></div><small id="weapon">空手 · 办公道具可以拾取</small></div><button id="leave-game" class="text-button">离开</button></div>
+      <div id="prompt" class="prompt hidden"></div>
+      <div id="joystick"><div id="stick"></div></div>
+      <div class="actions"><button data-action="dodge"><kbd>空格</kbd><span>闪避</span><small id="dodge-cd"></small></button><button data-action="skill"><kbd>K</kbd><span>职业技能</span><small id="skill-cd"></small></button><button data-action="interact"><kbd>E</kbd><span>长按互动</span></button><button data-action="throw"><kbd>L</kbd><span>投掷道具</span></button><button data-action="reload"><kbd>R</kbd><span>装填</span></button><button data-action="weaponNext"><kbd>B</kbd><span>切换武器</span></button><button data-action="attack" class="attack"><kbd>J</kbd><span>攻击</span></button><button data-action="transform" class="transform"><kbd>Q</kbd><span>闪退侠</span><small id="energy">0%</small></button></div>
+      <div class="keyboard-help">WASD 移动 / 侧移 <span>·</span> 鼠标环视 / 左键攻击 <span>·</span> E 互动 <span>·</span> K 技能 <span>·</span> ESC 菜单</div>
+    </section>
+    <section id="result" class="screen hidden"><div class="panel result-panel"><p class="eyebrow" id="result-label"></p><h2 id="result-title"></h2><p id="result-text"></p><div id="result-stats"></div><p class="muted">本次行动已结束，随时可以重新开始。</p><button id="again" class="primary">再来一班 →</button><button id="home-button" class="text-button">返回大厅</button></div></section>
+    <section id="help" class="screen hidden"><div class="panel"><p class="eyebrow">单人剧情简报</p><h2>是谁把假期改成了待办？</h2><ol><li>WASD 移动，点击场景进入鼠标环视。移动端左侧摇杆移动，拖动场景环视。</li><li>按 V 切换第一／第三人称。靠近人物按 T 交谈，询问老师、律师与财务，收集日程、制度和审批记录。</li><li>证据齐全后，可找律师协商，或向财务选择质询挑战。冲突路线保留交接、战斗与撤离；协商后可直接前往电梯，长按 E 离开。</li></ol><p class="muted">探索阶段不消耗倒计时。进入冲突挑战后，才开始五分钟行动计时。ESC 随时打开菜单。</p><p id="brief-resource-status" class="muted" role="status"></p><button id="retry-brief-assets" class="secondary" hidden>重新加载人物</button><button id="brief-start" class="primary">进入办公室 →</button><button id="cancel-brief" class="text-button">取消行动，返回大厅</button></div></section>
+    <section id="pause-menu" class="screen hidden"><div class="panel"><p class="eyebrow">行动菜单 / ESC</p><h2>喘口气，继续下班。</h2><p class="muted">返回大厅将退出本次行动。</p><button id="resume-game" class="primary">继续行动 →</button><button id="return-home" class="secondary">退出行动 · 返回大厅</button><button id="menu-sound" class="text-button">切换音效</button></div></section>
+  </main>
+  <dialog id="story-dialogue" aria-label="人物交谈"></dialog><dialog id="audio-settings" aria-labelledby="audio-settings-title"><form method="dialog"><h2 id="audio-settings-title">声音设置</h2><p>根据你的习惯调整声音。设置会保存在这台设备的浏览器中。</p><label class="audio-level" for="audio-master"><span>总音量</span><input id="audio-master" type="range" min="0" max="100" step="1"><output id="audio-master-value" for="audio-master"></output></label><label class="audio-level" for="audio-music"><span>下班节拍</span><input id="audio-music" type="range" min="0" max="100" step="1"><output id="audio-music-value" for="audio-music"></output></label><label class="audio-level" for="audio-effects"><span>脚步与动作</span><input id="audio-effects" type="range" min="0" max="100" step="1"><output id="audio-effects-value" for="audio-effects"></output></label><label class="audio-level" for="audio-alerts"><span>危险提示</span><input id="audio-alerts" type="range" min="0" max="100" step="1"><output id="audio-alerts-value" for="audio-alerts"></output></label><label class="audio-level" for="audio-ambient"><span>办公室环境</span><input id="audio-ambient" type="range" min="0" max="100" step="1"><output id="audio-ambient-value" for="audio-ambient"></output></label><label class="audio-level" for="audio-voice"><span>下班广播</span><input id="audio-voice" type="range" min="0" max="100" step="1"><output id="audio-voice-value" for="audio-voice"></output></label><label class="audio-check"><input id="audio-captions" type="checkbox"> 显示广播与危险提示字幕</label><p class="muted">调整音量后，关闭此窗口即可继续行动。</p><button class="primary" value="close">完成</button></form></dialog><div id="audio-caption" class="hidden" role="status" aria-live="polite"></div>
+  <div id="toast" role="status"></div><div id="connection">连接中</div>
+  <script type="module" src="/corporate-showdown/game.mjs"></script>
+</body>
+</html>
