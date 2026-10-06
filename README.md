@@ -1,9 +1,3 @@
-# Source upload in progress / 源工程上传中
-
-Playable trial: https://stmission.github.io/corporate-showdown/
-
-This branch is receiving original assets in verified batches. It is incomplete until the final source tree matches af5f2a2fe2ef8e1dccac2d6506f38dbf69f646f5. Asset manifests may reference files not uploaded yet.
-
 # Corporate Showdown · 职场对决：准点下班
 
 项目目录：`corporate-showdown`，中文含义：职场对决。产品中文名暂定《职场对决：准点下班》，副标题与商标可用性待确认。
