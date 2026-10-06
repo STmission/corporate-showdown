@@ -2251,7 +2251,7 @@
     ]
   },
   "files": 86,
-  "bytes": 43252051,
+  "bytes": 43253371,
   "inventory": [
     {
       "path": "trial-socket.mjs",
@@ -2259,7 +2259,7 @@
     },
     {
       "path": "model-loader.mjs",
-      "bytes": 226
+      "bytes": 1546
     },
     {
       "path": "vendor/THREE-LICENSE.txt",
@@ -2597,5 +2597,7 @@
       "path": "event-delivery.mjs",
       "bytes": 593
     }
-  ]
+  ],
+  "version": "0.6.17",
+  "rendererCompatibility": "Packed vertex attributes expanded to floats before CPU batching"
 }
