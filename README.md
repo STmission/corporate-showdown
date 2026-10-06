@@ -1,15 +1,13 @@
-# 职场对决：准点下班 · 网页试玩
+# 职场对决 · 准点下班
 
-[点击这里开始游戏](https://stmission.github.io/corporate-showdown/)
+[直接开始网页试玩](https://stmission.github.io/corporate-showdown/)
 
-v0.6.17 · 当前为单人剧情动作探索试玩，建议电脑 Chrome / Edge。首次进入需要下载 3D 场景与人物资源。
+当前为中文单人浏览器原型：海岸总部办公室、职业 NPC 对话与剧情线索、枪械／近战道具、男女与职务外观、第一／第三人称切换。
 
-WASD 移动，V 切换第一／第三人称，F 拾取，T 交谈，J 或左键攻击，R 装填，B 切换武器，ESC 菜单退出。
+建议电脑 Chrome 或 Edge。首次访问需要下载场景与人物，请等待“人物已就绪”后进入。WASD 移动，点击场景用鼠标环视；V 切换视角，F 拾取，J 或鼠标左键攻击，R 装填，B 切换武器，T 交谈，ESC 菜单可退出返回大厅。剧情简报内还有交互和通关说明。
 
-可探索海岸办公楼、切换男女职务装扮、与职业 NPC 交流收集线索，并选择协商或挑战。刷新后重新开局，暂无云存档、公开联机或真实支付。
+此分支是可直接部署的发行包，单人规则在浏览器 Worker 运行，无云存档、公开联机或真实支付；刷新会重新开局。完整源工程及 Blender 源资产仍在上传准备中。微信和 iOS 真机／发行验收尚未完成。
 
-此分支是可直接部署的网页包，含浏览器代码、单人 Worker 规则与导出模型。完整 Blender 源工程和制作资料仍在本地主分支，将继续补齐上传。微信与 iOS 完整版尚在制作中。
+模型为压缩派生资产，原始资产保持可编辑。导出来源、校验和与骨骼／动画合同见 release.json。第三方许可证见 vendor/THREE-LICENSE.txt、vendor/MESHOPT-LICENSE.txt、asset-credits.txt。本工程参考 Riot 公开实践，不代表其内部规范或认证。
 
-网页资源约 43 MB，采用 Meshopt / WebP 压缩；原始模型留在完整源工程。
-
-第三方渲染器许可见 vendor/THREE-LICENSE.txt、vendor/MESHOPT-LICENSE.txt；人物素材来源见 asset-credits.txt。
+已完成本地 117 项完整回归和针对性压缩／CPU 合批验证；公网实际验证进入、拾取、射击、双视角、剧情交流与退出。
