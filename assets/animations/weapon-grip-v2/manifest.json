@@ -1,0 +1,284 @@
+{
+  "version": "weapon-grip-v0.2",
+  "source": "assets/animations/weapon-poses-v1/weapon-pose-pilot.blend",
+  "sourceSHA256": "93f1e8d980c3fa6e3690614ccba31a42fe3acbc5074da1e719b225e6838c0b77",
+  "generatorSHA256": "d68a936656df72e4ba1a6f007987c637f0cbf7f1f9fac3f621acf16dbb30b5fa",
+  "blendSHA256": "946cda86c27bf12672625acbca0b10e027deaff4c938ca41256366ee460e229d",
+  "glbSHA256": "8aee98c6cf0baa8fde9ee846d7876662abc9807ee25d53a063e9d0b1f8c2a5c8",
+  "clips": [
+    {
+      "clip": "Weapon_PistolHold",
+      "frames": 49,
+      "contacts": [
+        {
+          "finger": "middle",
+          "target": [
+            -0.1424463987350464,
+            -0.32487252354621887,
+            1.3204983472824097
+          ],
+          "beforeMetres": 0.16332874997843455,
+          "afterMetres": 0.004629438818222815,
+          "anglesDegrees": [
+            93.00000000000001,
+            45.00000000000001,
+            0.0
+          ]
+        },
+        {
+          "finger": "ring",
+          "target": [
+            -0.1424463987350464,
+            -0.3280208706855774,
+            1.3322482109069824
+          ],
+          "beforeMetres": 0.15201870483311086,
+          "afterMetres": 0.01215988431533433,
+          "anglesDegrees": [
+            95.0,
+            31.5,
+            0.0
+          ]
+        },
+        {
+          "finger": "pinky",
+          "target": [
+            -0.1424463987350464,
+            -0.33169442415237427,
+            1.3459579944610596
+          ],
+          "beforeMetres": 0.12126291912006255,
+          "afterMetres": 0.03532994532931872,
+          "anglesDegrees": [
+            95.0,
+            13.499999999999998,
+            3.0
+          ]
+        },
+        {
+          "finger": "thumb",
+          "target": [
+            -0.0784464180469513,
+            -0.3626040518283844,
+            1.274890661239624
+          ],
+          "beforeMetres": 0.11796121671426663,
+          "afterMetres": 0.000657755724985076,
+          "anglesDegrees": [
+            27.0,
+            46.5,
+            80.0
+          ]
+        }
+      ]
+    },
+    {
+      "clip": "Weapon_PistolShot",
+      "frames": 13,
+      "contacts": [
+        {
+          "finger": "middle",
+          "target": [
+            -0.1424463987350464,
+            -0.32487252354621887,
+            1.3204983472824097
+          ],
+          "beforeMetres": 0.16332874997843455,
+          "afterMetres": 0.004629438818222815,
+          "anglesDegrees": [
+            93.00000000000001,
+            45.00000000000001,
+            0.0
+          ]
+        },
+        {
+          "finger": "ring",
+          "target": [
+            -0.1424463987350464,
+            -0.3280208706855774,
+            1.3322482109069824
+          ],
+          "beforeMetres": 0.15201870483311086,
+          "afterMetres": 0.01215988431533433,
+          "anglesDegrees": [
+            95.0,
+            31.5,
+            0.0
+          ]
+        },
+        {
+          "finger": "pinky",
+          "target": [
+            -0.1424463987350464,
+            -0.33169442415237427,
+            1.3459579944610596
+          ],
+          "beforeMetres": 0.12126291912006255,
+          "afterMetres": 0.03532994532931872,
+          "anglesDegrees": [
+            95.0,
+            13.499999999999998,
+            3.0
+          ]
+        },
+        {
+          "finger": "thumb",
+          "target": [
+            -0.0784464180469513,
+            -0.3626040518283844,
+            1.274890661239624
+          ],
+          "beforeMetres": 0.11796121671426663,
+          "afterMetres": 0.000657755724985076,
+          "anglesDegrees": [
+            27.0,
+            46.5,
+            80.0
+          ]
+        }
+      ]
+    },
+    {
+      "clip": "Weapon_RifleHold",
+      "frames": 49,
+      "contacts": [
+        {
+          "finger": "middle",
+          "target": [
+            -0.1424463987350464,
+            -0.32487255334854126,
+            1.3204983472824097
+          ],
+          "beforeMetres": 0.1633287214677573,
+          "afterMetres": 0.004629380273084725,
+          "anglesDegrees": [
+            93.00000000000001,
+            45.00000000000001,
+            0.0
+          ]
+        },
+        {
+          "finger": "ring",
+          "target": [
+            -0.1424463987350464,
+            -0.3280209004878998,
+            1.3322482109069824
+          ],
+          "beforeMetres": 0.15201867420126627,
+          "afterMetres": 0.012159842430239296,
+          "anglesDegrees": [
+            95.0,
+            31.5,
+            0.0
+          ]
+        },
+        {
+          "finger": "pinky",
+          "target": [
+            -0.1424463987350464,
+            -0.33169445395469666,
+            1.3459579944610596
+          ],
+          "beforeMetres": 0.12126289799953105,
+          "afterMetres": 0.035329923499345925,
+          "anglesDegrees": [
+            95.0,
+            13.499999999999998,
+            3.0
+          ]
+        },
+        {
+          "finger": "thumb",
+          "target": [
+            -0.0784464180469513,
+            -0.3626040816307068,
+            1.274890661239624
+          ],
+          "beforeMetres": 0.11796120585842235,
+          "afterMetres": 0.0006577408281245665,
+          "anglesDegrees": [
+            27.0,
+            46.5,
+            80.0
+          ]
+        }
+      ]
+    },
+    {
+      "clip": "Weapon_RifleShot",
+      "frames": 13,
+      "contacts": [
+        {
+          "finger": "middle",
+          "target": [
+            -0.1424463987350464,
+            -0.32487255334854126,
+            1.3204983472824097
+          ],
+          "beforeMetres": 0.1633287214677573,
+          "afterMetres": 0.004629380273084725,
+          "anglesDegrees": [
+            93.00000000000001,
+            45.00000000000001,
+            0.0
+          ]
+        },
+        {
+          "finger": "ring",
+          "target": [
+            -0.1424463987350464,
+            -0.3280209004878998,
+            1.3322482109069824
+          ],
+          "beforeMetres": 0.15201867420126627,
+          "afterMetres": 0.012159842430239296,
+          "anglesDegrees": [
+            95.0,
+            31.5,
+            0.0
+          ]
+        },
+        {
+          "finger": "pinky",
+          "target": [
+            -0.1424463987350464,
+            -0.33169445395469666,
+            1.3459579944610596
+          ],
+          "beforeMetres": 0.12126289799953105,
+          "afterMetres": 0.035329923499345925,
+          "anglesDegrees": [
+            95.0,
+            13.499999999999998,
+            3.0
+          ]
+        },
+        {
+          "finger": "thumb",
+          "target": [
+            -0.0784464180469513,
+            -0.3626040816307068,
+            1.274890661239624
+          ],
+          "beforeMetres": 0.11796120585842235,
+          "afterMetres": 0.0006577408281245665,
+          "anglesDegrees": [
+            27.0,
+            46.5,
+            80.0
+          ]
+        }
+      ]
+    }
+  ],
+  "runtimeIntegrated": false,
+  "limitations": [
+    "Right-hand candidate only",
+    "Bone-tail objectives are not mesh contact verification",
+    "Index/trigger contact, wrist anatomy and left support still pending",
+    "Actual runtime and all-costume checks pending",
+    "Visible mesh penetration: candidate rejected"
+  ],
+  "validationFile": "validation.json",
+  "visualStatus": "rejected"
+}

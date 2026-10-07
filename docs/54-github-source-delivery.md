@@ -10,6 +10,6 @@
 
 ## 当前发布与检查
 
-网页发行 codex/web-preview 与源工程 codex/source 分开管理。公开 Pages 试玩已更新至 0.6.18，进入、拾取、第一人称移动和退出实测通过；范围见 51／53 文档。后续将本轮 Cocos 0.3.14、代码和文档更新补推到源分支，并接通该分支的 GitHub Actions 检查／测试／构建／部署。自动流水线成功前不声称 GitHub CI 通过；现有 118 项完整回归为本地证据。
+网页发行 codex/web-preview 与源工程 codex/source 分开管理。公开 Pages 试玩已更新至 0.6.18，进入、拾取、第一人称移动和退出实测通过；范围见 51／53 文档。本轮 Cocos 0.3.14、网页 0.6.18、代码和文档已补推至 b6a7b486cacdcc83d2e7d207617f18667254f5ba，远端 tree 为 2a624a4428e7266309e073a68d1a77f0d1df6e8f，与本地发布源树一致。默认分支设为 codex/source；Pages 改用工作流发布。GitHub Actions [37498483978](https://github.com/STmission/corporate-showdown/actions/runs/37498483978) 已完成：源码检查、118 项测试、Pages 构建和部署均成功。公开 release.json 实测版本为 0.6.18；记录见 artifacts/github-pipeline-current.json 与 artifacts/pages-ci-release.json。
 
 全目标尚未完成：写实人物与精细动作、完整内容、真机性能、账户／服务／支付、微信与 iOS 构建签名和发行验收继续推进。源码上传完成不等于游戏完成。
