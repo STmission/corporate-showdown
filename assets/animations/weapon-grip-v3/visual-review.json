@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "status": "needs_refinement",
+  "runtimeAccepted": false,
+  "inputBlendSHA256": "a5279296b867028732f64d5bcb0b0d9935f27237c14b8fbb501ad7b62e78846a",
+  "inputGlbSHA256": "e2b97c60bae6b18f6c99e00c4fc5aafe90c5c672401693b1ad7792d6a35f6345",
+  "inputReferenceSHA256": "2e80421fd62896da801b73bde4d1315ec5d2df2d073da07e580b3d192b2e026b",
+  "reviewedRenders": [
+    {
+      "file": "pistol-hold-source.png",
+      "sha256": "b12308e7ab875875e3b82f79e8c8e26d4dbc18366568cba2ac0e0b4a38f43e34"
+    },
+    {
+      "file": "pistol-hold-opposite.png",
+      "sha256": "0983e0f306aeb68ae86499e081415835d5004bc16c9f152c1a03cb252df99988"
+    },
+    {
+      "file": "rifle-hold-source.png",
+      "sha256": "0a4d108c8932014a74878355aab15a473ded29a7fbd8056ea13e8eac15f87d68"
+    },
+    {
+      "file": "rifle-hold-opposite.png",
+      "sha256": "aa3ffe37aa9da85e8edd349264d6b811e10b2702022929254ba4ba43159d345e"
+    }
+  ],
+  "rightHandVertexContactGate": {
+    "passed": true,
+    "poses": 16,
+    "marginMetres": 0.001,
+    "scope": "Right palm and five fingers versus grip; index versus trigger; evaluated weighted vertices only, not triangle/volume or whole-weapon collisions"
+  },
+  "observations": [
+    "Right fingers now close around reference grip instead of remaining open",
+    "Weapon forward/up orientation preserved in all sampled poses",
+    "Linear material colors confirmed in both camera angles",
+    "Left support hand remains open and does not support the rifle fore-end",
+    "Gun and human meshes remain prototype detail; full pose is not production accepted"
+  ],
+  "next": [
+    "Author left wrist/arm support and finger closure",
+    "Check full weapon, hand self-intersection and forearm twisting",
+    "Retarget and render all ten appearances with matching socket and geometry",
+    "Verify first/third-person runtime before promotion"
+  ]
+}

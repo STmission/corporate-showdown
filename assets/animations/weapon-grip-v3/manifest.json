@@ -1,0 +1,714 @@
+{
+  "version": "weapon-grip-v0.3",
+  "source": "assets/animations/weapon-poses-v1/weapon-pose-pilot.blend",
+  "sourceSHA256": "93f1e8d980c3fa6e3690614ccba31a42fe3acbc5074da1e719b225e6838c0b77",
+  "generatorSHA256": "87d87069dc27ccb95cdcc99b99f764fd8f160f88ef2093445b4ecb3d428b918c",
+  "blendSHA256": "a5279296b867028732f64d5bcb0b0d9935f27237c14b8fbb501ad7b62e78846a",
+  "glbSHA256": "e2b97c60bae6b18f6c99e00c4fc5aafe90c5c672401693b1ad7792d6a35f6345",
+  "clips": [
+    {
+      "clip": "Weapon_PistolHold",
+      "frames": 49,
+      "contacts": [
+        {
+          "finger": "index",
+          "target": [
+            -0.12344644963741302,
+            -0.41792115569114685,
+            1.3455286026000977
+          ],
+          "beforeTipDistanceMetres": 0.07686828392221187,
+          "afterTipDistanceMetres": 0.005746920296023423,
+          "maximumPenetrationMetres": 6.497303176771461e-05,
+          "verticesInsideGrip": 0,
+          "anglesDegrees": [
+            0.0,
+            73.50000000000001,
+            80.0
+          ],
+          "mcpSpreadDegrees": -15.25
+        },
+        {
+          "finger": "middle",
+          "target": [
+            -0.15844640135765076,
+            -0.365420401096344,
+            1.2967735528945923
+          ],
+          "beforeTipDistanceMetres": 0.1398537048272421,
+          "afterTipDistanceMetres": 0.00014502744846155657,
+          "maximumPenetrationMetres": 0.0,
+          "verticesInsideGrip": 0,
+          "anglesDegrees": [
+            66.0,
+            99.00000000000001,
+            25.749999999999993
+          ],
+          "mcpSpreadDegrees": 0.0
+        },
+        {
+          "finger": "ring",
+          "target": [
+            -0.15844640135765076,
+            -0.3597342073917389,
+            1.2755522727966309
+          ],
+          "beforeTipDistanceMetres": 0.13232380544780314,
+          "afterTipDistanceMetres": 0.00028168517307166507,
+          "maximumPenetrationMetres": 0.0,
+          "verticesInsideGrip": 0,
+          "anglesDegrees": [
+            61.49999999999999,
+            87.00000000000001,
+            44.0
+          ],
+          "mcpSpreadDegrees": 2.3854160110976376e-15
+        },
+        {
+          "finger": "pinky",
+          "target": [
+            -0.15844640135765076,
+            -0.3541313707828522,
+            1.2546422481536865
+          ],
+          "beforeTipDistanceMetres": 0.10830994286179159,
+          "afterTipDistanceMetres": 0.002492525322117484,
+          "maximumPenetrationMetres": 0.0,
+          "verticesInsideGrip": 0,
+          "anglesDegrees": [
+            95.0,
+            54.00000000000003,
+            0.0
+          ],
+          "mcpSpreadDegrees": 0.0
+        },
+        {
+          "finger": "thumb",
+          "target": [
+            -0.11444642394781113,
+            -0.35362595319747925,
+            1.3150583505630493
+          ],
+          "beforeTipDistanceMetres": 0.09621673124515787,
+          "afterTipDistanceMetres": 0.0004032150253294825,
+          "maximumPenetrationMetres": 0.0,
+          "verticesInsideGrip": 0,
+          "anglesDegrees": [
+            0.0,
+            78.0,
+            80.0
+          ],
+          "mcpSpreadDegrees": -0.9999999999999982
+        }
+      ]
+    },
+    {
+      "clip": "Weapon_PistolShot",
+      "frames": 13,
+      "contacts": [
+        {
+          "finger": "index",
+          "target": [
+            -0.12344644963741302,
+            -0.41792115569114685,
+            1.3455286026000977
+          ],
+          "beforeTipDistanceMetres": 0.07686828392221187,
+          "afterTipDistanceMetres": 0.005746920296023423,
+          "maximumPenetrationMetres": 6.497303176771461e-05,
+          "verticesInsideGrip": 0,
+          "anglesDegrees": [
+            0.0,
+            73.50000000000001,
+            80.0
+          ],
+          "mcpSpreadDegrees": -15.25
+        },
+        {
+          "finger": "middle",
+          "target": [
+            -0.15844640135765076,
+            -0.365420401096344,
+            1.2967735528945923
+          ],
+          "beforeTipDistanceMetres": 0.1398537048272421,
+          "afterTipDistanceMetres": 0.00014502744846155657,
+          "maximumPenetrationMetres": 0.0,
+          "verticesInsideGrip": 0,
+          "anglesDegrees": [
+            66.0,
+            99.00000000000001,
+            25.749999999999993
+          ],
+          "mcpSpreadDegrees": 0.0
+        },
+        {
+          "finger": "ring",
+          "target": [
+            -0.15844640135765076,
+            -0.3597342073917389,
+            1.2755522727966309
+          ],
+          "beforeTipDistanceMetres": 0.13232380544780314,
+          "afterTipDistanceMetres": 0.00028168517307166507,
+          "maximumPenetrationMetres": 0.0,
+          "verticesInsideGrip": 0,
+          "anglesDegrees": [
+            61.49999999999999,
+            87.00000000000001,
+            44.0
+          ],
+          "mcpSpreadDegrees": 2.3854160110976376e-15
+        },
+        {
+          "finger": "pinky",
+          "target": [
+            -0.15844640135765076,
+            -0.3541313707828522,
+            1.2546422481536865
+          ],
+          "beforeTipDistanceMetres": 0.10830994286179159,
+          "afterTipDistanceMetres": 0.002492525322117484,
+          "maximumPenetrationMetres": 0.0,
+          "verticesInsideGrip": 0,
+          "anglesDegrees": [
+            95.0,
+            54.00000000000003,
+            0.0
+          ],
+          "mcpSpreadDegrees": 0.0
+        },
+        {
+          "finger": "thumb",
+          "target": [
+            -0.11444642394781113,
+            -0.35362595319747925,
+            1.3150583505630493
+          ],
+          "beforeTipDistanceMetres": 0.09621673124515787,
+          "afterTipDistanceMetres": 0.0004032150253294825,
+          "maximumPenetrationMetres": 0.0,
+          "verticesInsideGrip": 0,
+          "anglesDegrees": [
+            0.0,
+            78.0,
+            80.0
+          ],
+          "mcpSpreadDegrees": -0.9999999999999982
+        }
+      ]
+    },
+    {
+      "clip": "Weapon_RifleHold",
+      "frames": 49,
+      "contacts": [
+        {
+          "finger": "index",
+          "target": [
+            -0.12344647943973541,
+            -0.4559211730957031,
+            1.3455286026000977
+          ],
+          "beforeTipDistanceMetres": 0.057341569451508645,
+          "afterTipDistanceMetres": 0.002976280562777978,
+          "maximumPenetrationMetres": 0.0,
+          "verticesInsideGrip": 0,
+          "anglesDegrees": [
+            12.000000000000002,
+            24.000000000000004,
+            51.0
+          ],
+          "mcpSpreadDegrees": 0.0
+        },
+        {
+          "finger": "middle",
+          "target": [
+            -0.15844640135765076,
+            -0.365420401096344,
+            1.2967735528945923
+          ],
+          "beforeTipDistanceMetres": 0.1398537048272421,
+          "afterTipDistanceMetres": 0.00014502744846155657,
+          "maximumPenetrationMetres": 0.0,
+          "verticesInsideGrip": 0,
+          "anglesDegrees": [
+            66.0,
+            99.00000000000001,
+            25.749999999999993
+          ],
+          "mcpSpreadDegrees": 0.0
+        },
+        {
+          "finger": "ring",
+          "target": [
+            -0.15844640135765076,
+            -0.3597342073917389,
+            1.2755522727966309
+          ],
+          "beforeTipDistanceMetres": 0.13232380544780314,
+          "afterTipDistanceMetres": 0.00028168517307166507,
+          "maximumPenetrationMetres": 0.0,
+          "verticesInsideGrip": 0,
+          "anglesDegrees": [
+            61.49999999999999,
+            87.00000000000001,
+            44.0
+          ],
+          "mcpSpreadDegrees": 2.3854160110976376e-15
+        },
+        {
+          "finger": "pinky",
+          "target": [
+            -0.15844640135765076,
+            -0.3541313707828522,
+            1.2546422481536865
+          ],
+          "beforeTipDistanceMetres": 0.10830994286179159,
+          "afterTipDistanceMetres": 0.002492525322117484,
+          "maximumPenetrationMetres": 0.0,
+          "verticesInsideGrip": 0,
+          "anglesDegrees": [
+            95.0,
+            54.00000000000003,
+            0.0
+          ],
+          "mcpSpreadDegrees": 0.0
+        },
+        {
+          "finger": "thumb",
+          "target": [
+            -0.11444642394781113,
+            -0.35362595319747925,
+            1.3150583505630493
+          ],
+          "beforeTipDistanceMetres": 0.09621673124515787,
+          "afterTipDistanceMetres": 0.0004032150253294825,
+          "maximumPenetrationMetres": 0.0,
+          "verticesInsideGrip": 0,
+          "anglesDegrees": [
+            0.0,
+            78.0,
+            80.0
+          ],
+          "mcpSpreadDegrees": -0.9999999999999982
+        }
+      ]
+    },
+    {
+      "clip": "Weapon_RifleShot",
+      "frames": 13,
+      "contacts": [
+        {
+          "finger": "index",
+          "target": [
+            -0.12344647943973541,
+            -0.4559211730957031,
+            1.3455286026000977
+          ],
+          "beforeTipDistanceMetres": 0.057341569451508645,
+          "afterTipDistanceMetres": 0.002976280562777978,
+          "maximumPenetrationMetres": 0.0,
+          "verticesInsideGrip": 0,
+          "anglesDegrees": [
+            12.000000000000002,
+            24.000000000000004,
+            51.0
+          ],
+          "mcpSpreadDegrees": 0.0
+        },
+        {
+          "finger": "middle",
+          "target": [
+            -0.15844640135765076,
+            -0.365420401096344,
+            1.2967735528945923
+          ],
+          "beforeTipDistanceMetres": 0.1398537048272421,
+          "afterTipDistanceMetres": 0.00014502744846155657,
+          "maximumPenetrationMetres": 0.0,
+          "verticesInsideGrip": 0,
+          "anglesDegrees": [
+            66.0,
+            99.00000000000001,
+            25.749999999999993
+          ],
+          "mcpSpreadDegrees": 0.0
+        },
+        {
+          "finger": "ring",
+          "target": [
+            -0.15844640135765076,
+            -0.3597342073917389,
+            1.2755522727966309
+          ],
+          "beforeTipDistanceMetres": 0.13232380544780314,
+          "afterTipDistanceMetres": 0.00028168517307166507,
+          "maximumPenetrationMetres": 0.0,
+          "verticesInsideGrip": 0,
+          "anglesDegrees": [
+            61.49999999999999,
+            87.00000000000001,
+            44.0
+          ],
+          "mcpSpreadDegrees": 2.3854160110976376e-15
+        },
+        {
+          "finger": "pinky",
+          "target": [
+            -0.15844640135765076,
+            -0.3541313707828522,
+            1.2546422481536865
+          ],
+          "beforeTipDistanceMetres": 0.10830994286179159,
+          "afterTipDistanceMetres": 0.002492525322117484,
+          "maximumPenetrationMetres": 0.0,
+          "verticesInsideGrip": 0,
+          "anglesDegrees": [
+            95.0,
+            54.00000000000003,
+            0.0
+          ],
+          "mcpSpreadDegrees": 0.0
+        },
+        {
+          "finger": "thumb",
+          "target": [
+            -0.11444642394781113,
+            -0.35362595319747925,
+            1.3150583505630493
+          ],
+          "beforeTipDistanceMetres": 0.09621673124515787,
+          "afterTipDistanceMetres": 0.0004032150253294825,
+          "maximumPenetrationMetres": 0.0,
+          "verticesInsideGrip": 0,
+          "anglesDegrees": [
+            0.0,
+            78.0,
+            80.0
+          ],
+          "mcpSpreadDegrees": -0.9999999999999982
+        }
+      ]
+    }
+  ],
+  "runtimeIntegrated": false,
+  "visualStatus": "needs_refinement",
+  "limitations": [
+    "Right hand roll and five fingers only",
+    "Left support and trigger press animation pending",
+    "Socket counter-rotation and resized grip geometry must accompany bank if integrated",
+    "Actual runtime and all-costume checks pending",
+    "Complete pose visually unaccepted: left support and detail still pending"
+  ],
+  "materialRefinement": {
+    "generatorSHA256": "c95feb423009ecc3e92bfc71fa88a30c72559d416c431a93fd58ae4c9d5d4fd3",
+    "inputBlendSHA256": "63fcf04e5fb8a35162d617b4f96a1564cdc78450ec7923312e27bcba574a348c",
+    "outputBlendSHA256": "a5279296b867028732f64d5bcb0b0d9935f27237c14b8fbb501ad7b62e78846a",
+    "poseSamplesSHA256": "41befba9151620601cdf158d3e6c7e8ace731f48d19efbe2c1f5cb462f43bf6a",
+    "scope": "sRGB reference colors converted to linear Principled base colors; full-frame rig pose fingerprint and GLB byte hash unchanged",
+    "materials": [
+      {
+        "family": "pistol",
+        "part": "准星",
+        "referenceSRGB": "#171e24",
+        "linearBaseColor": [
+          0.008568125618069307,
+          0.012983032342173012,
+          0.017641954488384078
+        ]
+      },
+      {
+        "family": "pistol",
+        "part": "套筒",
+        "referenceSRGB": "#68747d",
+        "linearBaseColor": [
+          0.13843161503245183,
+          0.17464740365558504,
+          0.20507873639031693
+        ]
+      },
+      {
+        "family": "pistol",
+        "part": "扳机",
+        "referenceSRGB": "#acb3b7",
+        "linearBaseColor": [
+          0.41254261348390375,
+          0.45078578283822346,
+          0.47353149614800955
+        ]
+      },
+      {
+        "family": "pistol",
+        "part": "扳机护圈下",
+        "referenceSRGB": "#303941",
+        "linearBaseColor": [
+          0.0295568344378088,
+          0.04091519690685319,
+          0.052860647023180246
+        ]
+      },
+      {
+        "family": "pistol",
+        "part": "扳机护圈前",
+        "referenceSRGB": "#303941",
+        "linearBaseColor": [
+          0.0295568344378088,
+          0.04091519690685319,
+          0.052860647023180246
+        ]
+      },
+      {
+        "family": "pistol",
+        "part": "抛壳窗",
+        "referenceSRGB": "#a0a7ac",
+        "linearBaseColor": [
+          0.35153259950043936,
+          0.386429433787049,
+          0.41254261348390375
+        ]
+      },
+      {
+        "family": "pistol",
+        "part": "握把",
+        "referenceSRGB": "#222b33",
+        "linearBaseColor": [
+          0.01599629336550963,
+          0.024157632448504756,
+          0.033104766570885055
+        ]
+      },
+      {
+        "family": "pistol",
+        "part": "机匣",
+        "referenceSRGB": "#303941",
+        "linearBaseColor": [
+          0.0295568344378088,
+          0.04091519690685319,
+          0.052860647023180246
+        ]
+      },
+      {
+        "family": "pistol",
+        "part": "枪口套",
+        "referenceSRGB": "#181f25",
+        "linearBaseColor": [
+          0.009134058702220787,
+          0.013702083047289686,
+          0.018500220128379697
+        ]
+      },
+      {
+        "family": "pistol",
+        "part": "枪管",
+        "referenceSRGB": "#525d66",
+        "linearBaseColor": [
+          0.08437621154414882,
+          0.10946171077829933,
+          0.13286832155381798
+        ]
+      },
+      {
+        "family": "rifle",
+        "part": "准星",
+        "referenceSRGB": "#171e24",
+        "linearBaseColor": [
+          0.008568125618069307,
+          0.012983032342173012,
+          0.017641954488384078
+        ]
+      },
+      {
+        "family": "rifle",
+        "part": "弹匣",
+        "referenceSRGB": "#53616b",
+        "linearBaseColor": [
+          0.08650046203654976,
+          0.11953842798834562,
+          0.14702726649759498
+        ]
+      },
+      {
+        "family": "rifle",
+        "part": "托底",
+        "referenceSRGB": "#1e272e",
+        "linearBaseColor": [
+          0.012983032342173012,
+          0.0202885630566524,
+          0.027320891639074894
+        ]
+      },
+      {
+        "family": "rifle",
+        "part": "扳机",
+        "referenceSRGB": "#acb3b7",
+        "linearBaseColor": [
+          0.41254261348390375,
+          0.45078578283822346,
+          0.47353149614800955
+        ]
+      },
+      {
+        "family": "rifle",
+        "part": "扳机护圈下",
+        "referenceSRGB": "#303941",
+        "linearBaseColor": [
+          0.0295568344378088,
+          0.04091519690685319,
+          0.052860647023180246
+        ]
+      },
+      {
+        "family": "rifle",
+        "part": "扳机护圈前",
+        "referenceSRGB": "#303941",
+        "linearBaseColor": [
+          0.0295568344378088,
+          0.04091519690685319,
+          0.052860647023180246
+        ]
+      },
+      {
+        "family": "rifle",
+        "part": "抛壳窗",
+        "referenceSRGB": "#a0a7ac",
+        "linearBaseColor": [
+          0.35153259950043936,
+          0.386429433787049,
+          0.41254261348390375
+        ]
+      },
+      {
+        "family": "rifle",
+        "part": "护木",
+        "referenceSRGB": "#485662",
+        "linearBaseColor": [
+          0.06480326669290577,
+          0.09305896284668745,
+          0.12213877222960187
+        ]
+      },
+      {
+        "family": "rifle",
+        "part": "护木槽0",
+        "referenceSRGB": "#202830",
+        "linearBaseColor": [
+          0.014443843596092545,
+          0.021219010376003555,
+          0.0295568344378088
+        ]
+      },
+      {
+        "family": "rifle",
+        "part": "护木槽1",
+        "referenceSRGB": "#202830",
+        "linearBaseColor": [
+          0.014443843596092545,
+          0.021219010376003555,
+          0.0295568344378088
+        ]
+      },
+      {
+        "family": "rifle",
+        "part": "护木槽2",
+        "referenceSRGB": "#202830",
+        "linearBaseColor": [
+          0.014443843596092545,
+          0.021219010376003555,
+          0.0295568344378088
+        ]
+      },
+      {
+        "family": "rifle",
+        "part": "护木槽3",
+        "referenceSRGB": "#202830",
+        "linearBaseColor": [
+          0.014443843596092545,
+          0.021219010376003555,
+          0.0295568344378088
+        ]
+      },
+      {
+        "family": "rifle",
+        "part": "护木槽4",
+        "referenceSRGB": "#202830",
+        "linearBaseColor": [
+          0.014443843596092545,
+          0.021219010376003555,
+          0.0295568344378088
+        ]
+      },
+      {
+        "family": "rifle",
+        "part": "握把",
+        "referenceSRGB": "#222b33",
+        "linearBaseColor": [
+          0.01599629336550963,
+          0.024157632448504756,
+          0.033104766570885055
+        ]
+      },
+      {
+        "family": "rifle",
+        "part": "机匣",
+        "referenceSRGB": "#303941",
+        "linearBaseColor": [
+          0.0295568344378088,
+          0.04091519690685319,
+          0.052860647023180246
+        ]
+      },
+      {
+        "family": "rifle",
+        "part": "枪口套",
+        "referenceSRGB": "#181f25",
+        "linearBaseColor": [
+          0.009134058702220787,
+          0.013702083047289686,
+          0.018500220128379697
+        ]
+      },
+      {
+        "family": "rifle",
+        "part": "枪托",
+        "referenceSRGB": "#46505a",
+        "linearBaseColor": [
+          0.06124605423161761,
+          0.08021982031446832,
+          0.10224173308810132
+        ]
+      },
+      {
+        "family": "rifle",
+        "part": "枪管",
+        "referenceSRGB": "#525d66",
+        "linearBaseColor": [
+          0.08437621154414882,
+          0.10946171077829933,
+          0.13286832155381798
+        ]
+      },
+      {
+        "family": "rifle",
+        "part": "照门",
+        "referenceSRGB": "#171e24",
+        "linearBaseColor": [
+          0.008568125618069307,
+          0.012983032342173012,
+          0.017641954488384078
+        ]
+      },
+      {
+        "family": "rifle",
+        "part": "顶导轨",
+        "referenceSRGB": "#77838d",
+        "linearBaseColor": [
+          0.184474994500441,
+          0.22696587351009836,
+          0.26635560480286247
+        ]
+      }
+    ]
+  },
+  "validationFile": "validation.json",
+  "visualReviewFile": "visual-review.json"
+}
